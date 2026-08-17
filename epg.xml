@@ -927,6 +927,9 @@
   <channel id="8310527316ed669cb8b77">
     <display-name>CINE 1 .c</display-name>
   </channel>
+  <channel id="2660902091c248c72d0cd6">
+    <display-name>D Ğ N TV (GERMANY) .b</display-name>
+  </channel>
   <channel id="3983067532b2b6b5e2298f">
     <display-name>DA VINC KIDS HD .b</display-name>
   </channel>
@@ -978,6 +981,9 @@
   </channel>
   <channel id="385304349522b5e6fe1462">
     <display-name>DREAM BEIN OFFICE 10 .b</display-name>
+  </channel>
+  <channel id="382239321182403c667cfc">
+    <display-name>DREAM BEIN OFFICE 2 .b</display-name>
   </channel>
   <channel id="373642004344d287985a44">
     <display-name>DREAM BEIN OFFICE 3 .b</display-name>
@@ -1042,6 +1048,9 @@
   </channel>
   <channel id="2838364281c66447dda010">
     <display-name>DURSUN AL ERZINCANLI .b</display-name>
+  </channel>
+  <channel id="1104559360fc7735351211">
+    <display-name>DIGI MAX 2 .s</display-name>
   </channel>
   <channel id="1072972009ade9e4b4a779">
     <display-name>DIM TV .c</display-name>
@@ -1247,6 +1256,9 @@
   <channel id="1134525301f8ecc928b4b1">
     <display-name>ENO WESTERN .s</display-name>
   </channel>
+  <channel id="34986587209d7d94f684e5">
+    <display-name>ER TV .b</display-name>
+  </channel>
   <channel id="29014575503efc1f62c0c9">
     <display-name>ERCIS TV .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=2901457550.png"/>
@@ -1349,6 +1361,9 @@
   </channel>
   <channel id="3814925371b27457afc78f">
     <display-name>EXXEN TV SPOR 1 UHD .b</display-name>
+  </channel>
+  <channel id="3377046146a9c27858fc04">
+    <display-name>EXXEN TV SPOR 2 HD .b</display-name>
   </channel>
   <channel id="3673037054bbf23da360dd">
     <display-name>EXXEN TV SPOR 2 UHD .b</display-name>
@@ -1463,6 +1478,9 @@
     <display-name>GALATASARAY TV .s</display-name>
     <icon src="https://i.postimg.cc/d3k5nDBJ/galatasaray-sk.png"/>
   </channel>
+  <channel id="28430116980561d04db9e1">
+    <display-name>GAZIANTEP GRT TV .b</display-name>
+  </channel>
   <channel id="24135369173688afe711d0">
     <display-name>GAZIANTEP OLAY TV .b</display-name>
     <icon src="https://i.imgur.com/uUFlrma.png"/>
@@ -1505,6 +1523,10 @@
   <channel id="257753427816f6887294b8">
     <display-name>GRT TV .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=2577534278.png"/>
+  </channel>
+  <channel id="424042932536399e482d69">
+    <display-name>GS TV .s</display-name>
+    <icon src="https://i.imgur.com/fC3KuwT.jpg"/>
   </channel>
   <channel id="454047044e689f6c02bf8">
     <display-name>GUNEYDOGU .s</display-name>
@@ -1594,6 +1616,10 @@
   </channel>
   <channel id="2717283979bbc89b971f6e">
     <display-name>KADIRGA .s</display-name>
+  </channel>
+  <channel id="2093940826f764b66f64f5">
+    <display-name>KADIRGA TV .c</display-name>
+    <icon src="https://i.imgur.com/J4zra7Y.png"/>
   </channel>
   <channel id="1716018058bd4b2efcbfe2">
     <display-name>KAHRAMANMARA AKSU TV .b</display-name>
@@ -2756,10 +2782,6 @@
   <channel id="11426114102c71664711c">
     <display-name>TABII SPOR 2 .c</display-name>
   </channel>
-  <channel id="24901653728e4a187da4c4">
-    <display-name>TABII SPOR 2 HD .b</display-name>
-    <icon src="https://logo.huhu.to/logo?c=2490165372.png"/>
-  </channel>
   <channel id="21594692318c346548c2be">
     <display-name>TABII SPOR 2 UHD .b</display-name>
     <icon src="https://logo.huhu.to/logo?c=2159469231.png"/>
@@ -2777,10 +2799,6 @@
   <channel id="13759861713a771b4b4726">
     <display-name>TABII SPOR 4 HD .b</display-name>
     <icon src="https://logo.huhu.to/logo?c=1375986171.png"/>
-  </channel>
-  <channel id="408817539739fafefc9d3b">
-    <display-name>TABII SPOR 4 UHD .b</display-name>
-    <icon src="https://logo.huhu.to/logo?c=4088175397.png"/>
   </channel>
   <channel id="3035603077ef0df0e5da67">
     <display-name>TABII SPOR 5 .c</display-name>
@@ -3387,63 +3405,6 @@
   </programme>
   <programme start="20260817200000 +0000" stop="20260817220000 +0000" channel="24TV.tr@SD">
     <title lang="tr">Moderatör Gece</title><desc lang="tr">Moderatör Gece’de Türkiye’nin ve dünyanın önemli başlıkları arasında yarını arıyoruz.</desc>
-  </programme>
-  <programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Günün Manşeti</title><desc lang="tr">&quot;Günün Manşeti&quot; hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.</desc>
-  </programme>
-  <programme start="20260817230000 +0000" stop="20260817233000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Brifing Saati</title>
-  </programme>
-  <programme start="20260817233000 +0000" stop="20260818011500 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Arafta Sorular</title>
-  </programme>
-  <programme start="20260818011500 +0000" stop="20260818014500 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Neler Oluyor Hayatta</title>
-  </programme>
-  <programme start="20260818014500 +0000" stop="20260818040000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Masada Ne Var?</title><desc lang="tr">Türkiye ve Dünya&apos;nın gündemini değerlendiriyor, manşeti biz atıyoruz..</desc>
-  </programme>
-  <programme start="20260818040000 +0000" stop="20260818060000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Moderatör Sabah</title><desc lang="tr">Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün &quot;Moderatör&quot;de ekrana geliyor.</desc>
-  </programme>
-  <programme start="20260818060000 +0000" stop="20260818075000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Analiz Sentez</title><desc lang="tr">Ekonomik gelişmelerin perde arkasında yer alanlar hafta içi her gün ‘Analiz Sentez’de konuşuluyor.</desc>
-  </programme>
-  <programme start="20260818075000 +0000" stop="20260818080000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Hava Durumu</title><desc lang="tr">Eldebiran Ayan&apos;ın sunumu ile ‘Hava Durumu’nda her gün ekrana yansıyor.</desc>
-  </programme>
-  <programme start="20260818080000 +0000" stop="20260818090000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Günün Manşeti</title><desc lang="tr">&quot;Günün Manşeti&quot; hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.</desc>
-  </programme>
-  <programme start="20260818090000 +0000" stop="20260818093500 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Moderatör</title><desc lang="tr">Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün &quot;Moderatör&quot;de ekrana geliyor.</desc>
-  </programme>
-  <programme start="20260818093500 +0000" stop="20260818100000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Kahve Molası</title><desc lang="tr">Piyasalar güne ara verdiğinde, hem iş dünyasından hem de yaşamın içinden konuklarla hayata dokunan gelişmelerin ekonomik boyutu ‘Kahve Molası&apos;nda masaya yatırılıyor.</desc>
-  </programme>
-  <programme start="20260818100000 +0000" stop="20260818112000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Moderatör</title><desc lang="tr">Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün &quot;Moderatör&quot;de ekrana geliyor.</desc>
-  </programme>
-  <programme start="20260818112000 +0000" stop="20260818120000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Tercih Rehberi</title>
-  </programme>
-  <programme start="20260818120000 +0000" stop="20260818140000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">MOderatör</title>
-  </programme>
-  <programme start="20260818140000 +0000" stop="20260818150000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">MOderatör</title>
-  </programme>
-  <programme start="20260818150000 +0000" stop="20260818170000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Akşam Haberleri</title><desc lang="tr">Günün ve gündemin yoğun başlıklarını en sıcak haberlerle ekrana geliyor.</desc>
-  </programme>
-  <programme start="20260818170000 +0000" stop="20260818174500 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Mercek</title>
-  </programme>
-  <programme start="20260818174500 +0000" stop="20260818200000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">Basın Ekspres</title>
-  </programme>
-  <programme start="20260818200000 +0000" stop="20260818230000 +0000" channel="24TV.tr@SD">
-    <title lang="tr">MOderatör Gece</title>
   </programme>
   <programme start="20260817010000 +0300" stop="20260817023000 +0300" channel="24.TV.tr">
     <title lang="tr">Küresel Oyun</title>
@@ -4330,6 +4291,303 @@
   <programme start="20260818203000 +0000" stop="20260818213000 +0000" channel="67e5c4c6cfef0b3744c556fa">
     <title lang="tr">Hurda Avcıları</title><desc lang="tr">Viki tarihî bir fabrikada iyi konumda bir dokumacı tezgâhı bulur. Serkan eski bir RAF üssünde Britanya Muharebesi&apos;nde kullanılan bir defter bulur.</desc><category lang="tr">Genel</category><category lang="tr">Genel</category>
   </programme>
+  <programme start="20260816211500 +0000" stop="20260816213500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Süper Kediler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260816213500 +0000" stop="20260816215500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Süper Kediler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260816215500 +0000" stop="20260816221500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260816221500 +0000" stop="20260816222500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260816222500 +0000" stop="20260816225000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260816225000 +0000" stop="20260816231500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260816231500 +0000" stop="20260816234000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260816234000 +0000" stop="20260817000500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Robogobo</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817000500 +0000" stop="20260817003000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Robogobo</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817003000 +0000" stop="20260817005500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Robogobo</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817005500 +0000" stop="20260817010500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817010500 +0000" stop="20260817011000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817011000 +0000" stop="20260817012000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817012000 +0000" stop="20260817013000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817013000 +0000" stop="20260817013500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817013500 +0000" stop="20260817014500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817014500 +0000" stop="20260817015000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817015000 +0000" stop="20260817015500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817015500 +0000" stop="20260817020000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817020000 +0000" stop="20260817020500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817020500 +0000" stop="20260817021000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817021000 +0000" stop="20260817023500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817023500 +0000" stop="20260817030000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817030000 +0000" stop="20260817032500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817032500 +0000" stop="20260817035000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817035000 +0000" stop="20260817041500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817041500 +0000" stop="20260817042500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817042500 +0000" stop="20260817043000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817043000 +0000" stop="20260817044000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817044000 +0000" stop="20260817044500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817044500 +0000" stop="20260817045500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817045500 +0000" stop="20260817050000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817050000 +0000" stop="20260817051000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817051000 +0000" stop="20260817053500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817053500 +0000" stop="20260817060000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817060000 +0000" stop="20260817062500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817062500 +0000" stop="20260817065000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817065000 +0000" stop="20260817065500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817065500 +0000" stop="20260817070500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817070500 +0000" stop="20260817071000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817071000 +0000" stop="20260817072000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817072000 +0000" stop="20260817072500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817072500 +0000" stop="20260817073500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817073500 +0000" stop="20260817074000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817074000 +0000" stop="20260817074500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817074500 +0000" stop="20260817081000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817081000 +0000" stop="20260817083500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817083500 +0000" stop="20260817090000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Patinşaat</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817090000 +0000" stop="20260817092500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817092500 +0000" stop="20260817093000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817093000 +0000" stop="20260817094000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817094000 +0000" stop="20260817094500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817094500 +0000" stop="20260817095500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817095500 +0000" stop="20260817100000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817100000 +0000" stop="20260817101000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817101000 +0000" stop="20260817101500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817101500 +0000" stop="20260817102500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817102500 +0000" stop="20260817105000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817105000 +0000" stop="20260817111500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817111500 +0000" stop="20260817114000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817114000 +0000" stop="20260817120500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Iron Man ve Muhteşem Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817120500 +0000" stop="20260817122000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817122000 +0000" stop="20260817124500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817124500 +0000" stop="20260817125500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817125500 +0000" stop="20260817130000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817130000 +0000" stop="20260817131000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817131000 +0000" stop="20260817131500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817131500 +0000" stop="20260817132500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817132500 +0000" stop="20260817133000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817133000 +0000" stop="20260817134000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817134000 +0000" stop="20260817140500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817140500 +0000" stop="20260817143000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817143000 +0000" stop="20260817145500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817145500 +0000" stop="20260817151000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817151000 +0000" stop="20260817153500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817153500 +0000" stop="20260817160000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Iron Man ve Muhteşem Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817160000 +0000" stop="20260817162500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817162500 +0000" stop="20260817163000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817163000 +0000" stop="20260817164000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817164000 +0000" stop="20260817164500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817164500 +0000" stop="20260817165500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817165500 +0000" stop="20260817170000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817170000 +0000" stop="20260817171000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817171000 +0000" stop="20260817171500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817171500 +0000" stop="20260817172500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817172500 +0000" stop="20260817175000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817175000 +0000" stop="20260817181500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817181500 +0000" stop="20260817184000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817184000 +0000" stop="20260817190500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817190500 +0000" stop="20260817193000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Patinşaat</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817193000 +0000" stop="20260817194000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817194000 +0000" stop="20260817195000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817195000 +0000" stop="20260817195500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817195500 +0000" stop="20260817200000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817200000 +0000" stop="20260817201000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817201000 +0000" stop="20260817202000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817202000 +0000" stop="20260817202500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817202500 +0000" stop="20260817205000 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Pijamaskeliler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
+  <programme start="20260817205000 +0000" stop="20260817211500 +0000" channel="DisneyJr.tr@SD">
+    <title lang="tr">Pijamaskeliler: Power Heroes</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
+  </programme>
   <programme start="20260817211500 +0000" stop="20260817213500 +0000" channel="DisneyJr.tr@SD">
     <title lang="tr">Süper Kediler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
   </programme>
@@ -4995,57 +5253,6 @@
   </programme>
   <programme start="20260817190000 +0000" stop="20260817210000 +0000" channel="HaberGlobal.tr@SD">
     <title lang="tr">Kontra</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817210000 +0000" stop="20260817230000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Gece Ajansı</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817230000 +0000" stop="20260818010000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Kontra /Tekrar</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818010000 +0000" stop="20260818030000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Neden /Tekrar</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818030000 +0000" stop="20260818050000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Türkiye&apos;de Sabah</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818050000 +0000" stop="20260818060000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Yeni Gün</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818060000 +0000" stop="20260818070000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Yeni Gün</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818070000 +0000" stop="20260818080000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Yeni Gün</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818080000 +0000" stop="20260818090000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Yeni Gün</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818090000 +0000" stop="20260818100000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Gündem</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818100000 +0000" stop="20260818110000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Gündem</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818110000 +0000" stop="20260818120000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Gündem</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818120000 +0000" stop="20260818130000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Bugün</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818130000 +0000" stop="20260818140000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Bugün</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818140000 +0000" stop="20260818150000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Günün Nabzı</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818150000 +0000" stop="20260818160000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Günün Nabzı</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818160000 +0000" stop="20260818170000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Ana Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818170000 +0000" stop="20260818200000 +0000" channel="HaberGlobal.tr@SD">
-    <title lang="tr">Neden?</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
   </programme>
   <programme start="20260816211500 +0000" stop="20260817040000 +0000" channel="Kanal7.tr@SD">
     <title lang="tr">Tekrar</title>
@@ -8322,33 +8529,6 @@
   </programme>
   <programme start="20260817170000 +0000" stop="20260817200000 +0000" channel="TV100.tr@SD">
     <title lang="tr">Eşit Ağırlık</title><desc lang="tr">Erdoğan Aktaş Moderatörlüğünde Eşit Ağırlık Tv100&apos;de sizlerle...</desc>
-  </programme>
-  <programme start="20260817213000 +0000" stop="20260818010000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Eşit Ağırlık</title><desc lang="tr">Erdoğan Aktaş Moderatörlüğünde Eşit Ağırlık Tv100&apos;de sizlerle...</desc>
-  </programme>
-  <programme start="20260818010000 +0000" stop="20260818020000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Haber Bülteni</title><desc lang="tr">DÜNYADA VE TÜRKİYE&apos;DE MEYDANA GELEN OLAYLAR, SİYASİ, EKONOMİK, SOSYAL GELİŞMELER, CANLI BAĞLANTILAR VE SON DAKİKA HABERLERİ &quot;TV 100&quot; KALİTESİYLE...</desc>
-  </programme>
-  <programme start="20260818020000 +0000" stop="20260818030000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Gün&apos;den Kalan</title><desc lang="tr">Dün Akşam Konuşulanlar…</desc>
-  </programme>
-  <programme start="20260818030000 +0000" stop="20260818070000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Mesut Yar ile Gün Uyanıyor</title><desc lang="tr">HAFTA İÇİ HER SABAH DÜNYADA VE TÜRKİYE&apos;DE MEYDANA GELEN OLAYLAR, SİYASİ, EKONOMİK, SOSYAL GELİŞMELER, CANLI BAĞLANTILAR VE GAZETELERDE YER ALAN BAŞLIKLAR...</desc>
-  </programme>
-  <programme start="20260818070000 +0000" stop="20260818100000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Günün Rotası</title><desc lang="tr">Günün ve Gündemin Etkili Olaylarını, Ekonomik Gelişmleri TV100 Ekranlarında Konuklarıyla Sizler için Yorumluyoruz…</desc>
-  </programme>
-  <programme start="20260818100000 +0000" stop="20260818130000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Haberde Gün Ortası</title><desc lang="tr">DÜNYADA VE TÜRKİYE&apos;DE MEYDANA GELEN SİYASİ, EKONOMİK, SOSYAL GELİŞMELERİ, CANLI BAĞLANTILAR VE SON DAKİKA HABERLERİ &quot;TV 100&quot; KALİTESİYLE EKRANLARINIZA TAŞIYORUZ...</desc>
-  </programme>
-  <programme start="20260818130000 +0000" stop="20260818153000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Başlıklar</title><desc lang="tr">Günün Öne Çıkan Başlıklarını Değerlendiriyoruz...</desc>
-  </programme>
-  <programme start="20260818153000 +0000" stop="20260818170000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Ahmet Yeşiltepe ile Ana Haber</title><desc lang="tr">DÜNYADA VE TÜRKİYE&apos;DE MEYDANA GELEN OLAYLAR, SİYASİ VE EKONOMİK, GELİŞMELER ANA HABER BÜLTENİ&apos;NDE...</desc>
-  </programme>
-  <programme start="20260818170000 +0000" stop="20260818200000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Başak Şengül ile Doğru Yorum</title><desc lang="tr">Başak Şengül Modaretörlüğünde Doğru Yorum, Alanında Uzman Konukların Yorumlarıyla Siyaset, Ekonomi, Hukuk, Dış Politika Konularını Masaya Yatırıyor...</desc>
   </programme>
   <programme start="20260816211500 +0000" stop="20260816221500 +0000" channel="TV8.tr@SD">
     <title lang="tr">%100 Futbol Referans</title><category lang="tr">Spor</category><category lang="tr">Futbol</category>
@@ -15814,51 +15994,6 @@
   <programme start="20260817200000 +0000" stop="20260817230000 +0000" channel="HaberturkTV.tr@SD">
     <title lang="tr">Gece Raporu</title>
   </programme>
-  <programme start="20260817220000 +0000" stop="20260817231500 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Haber Bülteni</title>
-  </programme>
-  <programme start="20260817231500 +0000" stop="20260818020000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Açık ve Net</title><desc lang="tr">Tekrar</desc>
-  </programme>
-  <programme start="20260818020000 +0000" stop="20260818040000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Haber Bülteni</title>
-  </programme>
-  <programme start="20260818040000 +0000" stop="20260818070000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Gün Başlıyor</title>
-  </programme>
-  <programme start="20260818070000 +0000" stop="20260818084500 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Para Gündem</title>
-  </programme>
-  <programme start="20260818084500 +0000" stop="20260818090000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Spor Bülteni</title>
-  </programme>
-  <programme start="20260818090000 +0000" stop="20260818110000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Gün Ortası</title>
-  </programme>
-  <programme start="20260818110000 +0000" stop="20260818124500 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Haber Hattı</title>
-  </programme>
-  <programme start="20260818124500 +0000" stop="20260818130000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Spor Bülteni</title>
-  </programme>
-  <programme start="20260818130000 +0000" stop="20260818140000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">HT 360</title>
-  </programme>
-  <programme start="20260818140000 +0000" stop="20260818150000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Habertürk Manşet</title>
-  </programme>
-  <programme start="20260818150000 +0000" stop="20260818160000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Akşam Haberleri</title>
-  </programme>
-  <programme start="20260818160000 +0000" stop="20260818170000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Ana Haber Bülteni</title>
-  </programme>
-  <programme start="20260818170000 +0000" stop="20260818200000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Nedir Ne Değildir?</title><desc lang="tr">Tekrar</desc>
-  </programme>
-  <programme start="20260818200000 +0000" stop="20260818230000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Gece Raporu</title>
-  </programme>
   <programme start="20260817013000 +0300" stop="20260817041500 +0300" channel="HABERTÜRK.tr">
     <title lang="tr">Habertürk Gündem</title>
   </programme>
@@ -18668,45 +18803,6 @@
     <title lang="tr">Net Bakış</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
   </programme>
   <programme start="20260817203000 +0000" stop="20260817233000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Günün Ardından</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817210000 +0000" stop="20260818000000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818000000 +0000" stop="20260818030000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818030000 +0000" stop="20260818040000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Hatim</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818040000 +0000" stop="20260818063000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Yeni Bir Gün</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818063000 +0000" stop="20260818080000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Parapolitik</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818080000 +0000" stop="20260818090000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Parapolitik</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818090000 +0000" stop="20260818110000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Haber Merkezi</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818110000 +0000" stop="20260818130000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Haber Merkezi</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818130000 +0000" stop="20260818160000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Haber Merkezi</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818160000 +0000" stop="20260818170000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">19. Saat</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818170000 +0000" stop="20260818174500 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">19. Saat</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818174500 +0000" stop="20260818203000 +0000" channel="TVNET.tr@SD">
-    <title lang="tr">Net Bakış</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818203000 +0000" stop="20260818233000 +0000" channel="TVNET.tr@SD">
     <title lang="tr">Günün Ardından</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
   </programme>
   <programme start="20260816040000 +0000" stop="20260816071500 +0000" channel="UlkeTV.tr@SD">
