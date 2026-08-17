@@ -21,10 +21,6 @@
   <channel id="1893598000587432322459">
     <display-name>360 PLUS .s</display-name>
   </channel>
-  <channel id="AHaber.tr@SD">
-    <display-name>A Haber</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"/>
-  </channel>
   <channel id="ASpor.tr@SD">
     <display-name>A Spor</display-name>
     <icon src="https://i.imgur.com/ZhkZzLf.png"/>
@@ -283,10 +279,6 @@
     <display-name>TRT Avaz</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png"/>
   </channel>
-  <channel id="TRTBelgesel.tr@SD">
-    <display-name>TRT Belgesel</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png"/>
-  </channel>
   <channel id="TRTHaber.tr@SD">
     <display-name>TRT Haber</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"/>
@@ -298,6 +290,10 @@
   <channel id="TRTMuzik.tr@SD">
     <display-name>TRT Müzik</display-name>
     <icon src="https://i.imgur.com/JgUzRH8.png"/>
+  </channel>
+  <channel id="30291805064bacb8a4036d">
+    <display-name>4K TR: TRT OCUK HD .b</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/>
   </channel>
   <channel id="TRTSpor.tr@SD">
     <display-name>TRT Spor</display-name>
@@ -341,6 +337,10 @@
   <channel id="384200326272e556e601b9">
     <display-name>64 KARE ULKESI .b</display-name>
   </channel>
+  <channel id="AHaber.tr@SD">
+    <display-name>A Haber</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"/>
+  </channel>
   <channel id="ANews.tr@SD">
     <display-name>a News</display-name>
     <icon src="https://i.imgur.com/6tWCzTp.png"/>
@@ -372,10 +372,6 @@
   <channel id="2080590427f1600b6211f">
     <display-name>AFROTURK TV .c</display-name>
     <icon src="https://i.imgur.com/fWlLvRA.png"/>
-  </channel>
-  <channel id="145755891783da06dac9f">
-    <display-name>AFYON T RK TV .b</display-name>
-    <icon src="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png"/>
   </channel>
   <channel id="1782534194ec2d619f7548">
     <display-name>AFYON TURK .s</display-name>
@@ -445,11 +441,11 @@
   <channel id="1570235694b073eb3546e5">
     <display-name>ANKA TV .b</display-name>
   </channel>
-  <channel id="1443355363db5023a8a584">
-    <display-name>ANKARA T RKIYEM TV .b</display-name>
-  </channel>
   <channel id="7548683513f8b3f808009">
     <display-name>ANLIURFA KANAL URFA .b</display-name>
+  </channel>
+  <channel id="19407670052f2ca6260436">
+    <display-name>ANTALYA KANAL V .b</display-name>
   </channel>
   <channel id="ANIMAL.PLANET.HD.tr">
     <display-name>ANIMAL PLANET HD</display-name>
@@ -506,6 +502,9 @@
   <channel id="154080342742a01f2d589">
     <display-name>AV TV .b</display-name>
   </channel>
+  <channel id="334323069104712e8a0a89">
+    <display-name>AV TV .s</display-name>
+  </channel>
   <channel id="40965694547a9def110e6c">
     <display-name>BABA RADYO ARABESK .b</display-name>
   </channel>
@@ -518,6 +517,12 @@
   </channel>
   <channel id="1519411021283d08ac01c6">
     <display-name>BARBAROS TV .b</display-name>
+  </channel>
+  <channel id="280573123054a8c61dd62">
+    <display-name>BARBIE ANIMATION 2 HD .b</display-name>
+  </channel>
+  <channel id="58015509b209433965b4">
+    <display-name>BBC CBEEBIES TV .s</display-name>
   </channel>
   <channel id="58d29bb0eefad3db9c6062bc">
     <display-name>BBC Earth</display-name>
@@ -544,6 +549,9 @@
   </channel>
   <channel id="4099015608239c33b463bc">
     <display-name>BEST DRAM .b</display-name>
+  </channel>
+  <channel id="2591986518ae00754c4ef2">
+    <display-name>BEST FM T RK E POP .b</display-name>
   </channel>
   <channel id="4228481876db7dd6acf5b">
     <display-name>BEST HABABAM SINIFI .b</display-name>
@@ -722,6 +730,10 @@
     <display-name>BEIN SERIES DRAMA .c</display-name>
     <icon src="https://i.imgur.com/eRSAkFZ.png"/>
   </channel>
+  <channel id="727975195a22d80d147d6">
+    <display-name>BEIN SERIES DRAMA .s</display-name>
+    <icon src="https://i.imgur.com/eRSAkFZ.png"/>
+  </channel>
   <channel id="3016529666fa8445d49f2d">
     <display-name>BEIN SERIES SCI-FI .s</display-name>
     <icon src="https://i.imgur.com/kfbWKod.png"/>
@@ -802,10 +814,6 @@
   </channel>
   <channel id="31561783590bdea7d4bf69">
     <display-name>BEIN IZ TV .s</display-name>
-  </channel>
-  <channel id="8585683074b88a84fea71">
-    <display-name>BLOOMBERGHT HD .b</display-name>
-    <icon src="https://logo.huhu.to/logo?c=858568307.png"/>
   </channel>
   <channel id="1753590086d14bf2945f0e">
     <display-name>BONUS MASAL DIYARI .b</display-name>
@@ -922,10 +930,6 @@
   <channel id="3983067532b2b6b5e2298f">
     <display-name>DA VINC KIDS HD .b</display-name>
   </channel>
-  <channel id="DaVinci.de@SD">
-    <display-name>Da Vinci Learning</display-name>
-    <icon src="https://i.imgur.com/iBx7K1M.png"/>
-  </channel>
   <channel id="5746975234c4c28f5dbe1">
     <display-name>DEHA TV .s</display-name>
     <icon src="https://i.imgur.com/Dlsm9XP.png"/>
@@ -1038,9 +1042,6 @@
   </channel>
   <channel id="2838364281c66447dda010">
     <display-name>DURSUN AL ERZINCANLI .b</display-name>
-  </channel>
-  <channel id="127844757686ca7d664ae5">
-    <display-name>DIGI MAX .s</display-name>
   </channel>
   <channel id="1072972009ade9e4b4a779">
     <display-name>DIM TV .c</display-name>
@@ -1462,9 +1463,6 @@
     <display-name>GALATASARAY TV .s</display-name>
     <icon src="https://i.postimg.cc/d3k5nDBJ/galatasaray-sk.png"/>
   </channel>
-  <channel id="28430116980561d04db9e1">
-    <display-name>GAZIANTEP GRT TV .b</display-name>
-  </channel>
   <channel id="24135369173688afe711d0">
     <display-name>GAZIANTEP OLAY TV .b</display-name>
     <icon src="https://i.imgur.com/uUFlrma.png"/>
@@ -1593,6 +1591,9 @@
   </channel>
   <channel id="214296923688a55315e0a2">
     <display-name>JURASSIC WORLD .b</display-name>
+  </channel>
+  <channel id="2717283979bbc89b971f6e">
+    <display-name>KADIRGA .s</display-name>
   </channel>
   <channel id="1716018058bd4b2efcbfe2">
     <display-name>KAHRAMANMARA AKSU TV .b</display-name>
@@ -1737,9 +1738,6 @@
   <channel id="1680483887afbf5bdf5ab">
     <display-name>KAYSERI KAY TV .b</display-name>
   </channel>
-  <channel id="161664882db20229c6558">
-    <display-name>KAYSERI KENT TV .b</display-name>
-  </channel>
   <channel id="82920494637269fca29fd">
     <display-name>KAYSERI LIFE TV .b</display-name>
   </channel>
@@ -1774,23 +1772,12 @@
   <channel id="37593642738038d993fa1e">
     <display-name>KONYA KON TV .b</display-name>
   </channel>
-  <channel id="5783808618f2bafca5dba">
-    <display-name>KONYA OLAY TV .c</display-name>
-    <icon src="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg"/>
-  </channel>
   <channel id="277878129786cfb72a8e2e">
     <display-name>KOSTEBEKGILLER TV .b</display-name>
   </channel>
   <channel id="685300988b10d8590b08d">
     <display-name>KOY TV .s</display-name>
     <icon src="https://i.imgur.com/RcjEHAG.png"/>
-  </channel>
-  <channel id="1047804470f83375a3863a">
-    <display-name>KOZA TV .c</display-name>
-    <icon src="https://i.imgur.com/jeFTUGp.png"/>
-  </channel>
-  <channel id="358503385607b86bf71c43">
-    <display-name>KRAL FM .b</display-name>
   </channel>
   <channel id="222080778325a1bcf07f54">
     <display-name>KRAL FM ARABESK .b</display-name>
@@ -1809,18 +1796,6 @@
   </channel>
   <channel id="3808834024146c898b2ca8">
     <display-name>KRAL SAKIR TV .b</display-name>
-  </channel>
-  <channel id="1505032467d0e227960a29">
-    <display-name>KRAL TV .c</display-name>
-    <icon src="https://i.imgur.com/GeEDOPN.png"/>
-  </channel>
-  <channel id="1131281902d9a86688e843">
-    <display-name>KRAL TV .s</display-name>
-    <icon src="https://i.imgur.com/GeEDOPN.png"/>
-  </channel>
-  <channel id="2879812830599c43994d1e">
-    <display-name>KRAL TV HD .b</display-name>
-    <icon src="https://i.imgur.com/GeEDOPN.png"/>
   </channel>
   <channel id="331685130407411552595">
     <display-name>KRT .c</display-name>
@@ -2020,9 +1995,6 @@
     <display-name>MERCAN TV .s</display-name>
     <icon src="https://i.imgur.com/3CWV8bS.png"/>
   </channel>
-  <channel id="1480015488d6661e191760">
-    <display-name>MERSIN EL TV .b</display-name>
-  </channel>
   <channel id="1751593588ad9f10b37811">
     <display-name>MESAJ TV .b</display-name>
   </channel>
@@ -2040,9 +2012,6 @@
   </channel>
   <channel id="3597292408836ecd197e13">
     <display-name>MOVIE SMART CLASSIC .s</display-name>
-  </channel>
-  <channel id="180020415986f47cb1ef85">
-    <display-name>MOVIE SMART PLATIN 2 .s</display-name>
   </channel>
   <channel id="3830353405310275288203">
     <display-name>MOVIE SMART PREMIUM .s</display-name>
@@ -2075,9 +2044,6 @@
   </channel>
   <channel id="1953745495384d5f996a8">
     <display-name>MUSLUM GURSES .b</display-name>
-  </channel>
-  <channel id="586568093d2bdc08a3fed">
-    <display-name>MILYON .s</display-name>
   </channel>
   <channel id="2175768896e5f35d5d7b27">
     <display-name>MIMOCAN TV .b</display-name>
@@ -2141,13 +2107,12 @@
     <display-name>NTV HABER HD .b</display-name>
     <icon src="https://logo.huhu.to/logo?c=1220417659.png"/>
   </channel>
+  <channel id="17128499338be117e18642">
+    <display-name>NTV HABER HEVC .b</display-name>
+  </channel>
   <channel id="30669012188fcbf131218">
     <display-name>NUMBER 1 .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=306690121.png"/>
-  </channel>
-  <channel id="30987911721740d6428124">
-    <display-name>NUMBER 1 ASK .c</display-name>
-    <icon src="https://i.imgur.com/slwbux7.png"/>
   </channel>
   <channel id="4098520588b03ada0ce29">
     <display-name>NUMBER 1 DAMAR .c</display-name>
@@ -2188,10 +2153,6 @@
     <display-name>NICKELODEON HD .b</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png"/>
   </channel>
-  <channel id="1131981336b0cfe30481dc">
-    <display-name>NICKTOONS .c</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"/>
-  </channel>
   <channel id="692811579f95ab595b603">
     <display-name>NILOYA HD+ .b</display-name>
   </channel>
@@ -2205,19 +2166,12 @@
     <display-name>OLAY TURK .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=382635550.png"/>
   </channel>
-  <channel id="2257593699129a3958d39e">
-    <display-name>ON 4 .b</display-name>
-  </channel>
   <channel id="133847174052c905356751">
     <display-name>ON 4 .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=1338471740.png"/>
   </channel>
   <channel id="420347514452cefbd5e034">
     <display-name>ON 4 TV .s</display-name>
-  </channel>
-  <channel id="889661020f5c59638da26">
-    <display-name>ON 6 .c</display-name>
-    <icon src="https://i.imgur.com/k7rS2gC.png"/>
   </channel>
   <channel id="760981668a4f92b6e73db">
     <display-name>ORDU BUYUKSEHIR BELEDIYESI (OBB) .c</display-name>
@@ -2269,9 +2223,6 @@
   <channel id="4234416466b6878ac343d7">
     <display-name>POWER DANCE .c</display-name>
     <icon src="https://i.imgur.com/QpPteBO.png"/>
-  </channel>
-  <channel id="1299417291527618a1ccab">
-    <display-name>POWER FM YABANCI M ZIK .b</display-name>
   </channel>
   <channel id="23667904081b95cae45de4">
     <display-name>POWER HD .b</display-name>
@@ -2334,9 +2285,6 @@
   </channel>
   <channel id="16621186347dae95310a53">
     <display-name>PROTURK ORJINAL .c</display-name>
-  </channel>
-  <channel id="29500707143677065f3b41">
-    <display-name>PROTURK UZAKDOĞU .c</display-name>
   </channel>
   <channel id="25670428523b6df4abb345">
     <display-name>PROTURK VIZYON .c</display-name>
@@ -2407,9 +2355,6 @@
   </channel>
   <channel id="28980136277243b68661a6">
     <display-name>RUYA TRENI .b</display-name>
-  </channel>
-  <channel id="460410710474124d4550a">
-    <display-name>S PER FM T RK E POP .b</display-name>
   </channel>
   <channel id="1313768516926dc999c43b">
     <display-name>S SPORT 2 .c</display-name>
@@ -2489,9 +2434,6 @@
   <channel id="5066363042e45f28224c8">
     <display-name>SALON 10 HD .b</display-name>
   </channel>
-  <channel id="353321998276e43375c45d">
-    <display-name>SALON 11 HD .b</display-name>
-  </channel>
   <channel id="1545056109d1f5f1225760">
     <display-name>SALON 12 HD .b</display-name>
   </channel>
@@ -2558,18 +2500,12 @@
   <channel id="287875534435a082281e3f">
     <display-name>SARAN SPORT 2 .s</display-name>
   </channel>
-  <channel id="237609064654251acc3bd9">
-    <display-name>SAT 7 TURK .b</display-name>
-  </channel>
   <channel id="3343868905cee63de46df4">
     <display-name>SAT 7 TURK .s</display-name>
   </channel>
   <channel id="42280465621064ebc15bba">
     <display-name>SAT 7 TÜRK .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=4228046562.png"/>
-  </channel>
-  <channel id="2978732943ad6c3ffd9d10">
-    <display-name>SAT7 TURK .s</display-name>
   </channel>
   <channel id="1192565728f635dd56c60f">
     <display-name>SATRANÇ TV .c</display-name>
@@ -2627,9 +2563,6 @@
   <channel id="35098991442bd9c175ff50">
     <display-name>SHOW RADYO .b</display-name>
   </channel>
-  <channel id="12523068353d88301d1bd5">
-    <display-name>SHOW RADYO T RK E POP .b</display-name>
-  </channel>
   <channel id="6059298215f8d058d8877">
     <display-name>SHOW T RK EUROPA .b</display-name>
     <icon src="https://logo.huhu.to/logo?c=605929821.png"/>
@@ -2655,9 +2588,6 @@
   </channel>
   <channel id="3310537792544cdc86ebe5">
     <display-name>SMART BOX ACTION .c</display-name>
-  </channel>
-  <channel id="4277750275dc95e89a7a22">
-    <display-name>SMART COCUK .s</display-name>
   </channel>
   <channel id="81357489557fd83fc1e55">
     <display-name>SMART COCUK HD .b</display-name>
@@ -2723,9 +2653,6 @@
   <channel id="SİNEMA.AKSİYON.2.HD.tr">
     <display-name>SİNEMA AKSİYON 2 HD</display-name>
     <icon src="https://i.imgur.com/oy8Nq1r.png"/>
-  </channel>
-  <channel id="424550844375a964b5b3e5">
-    <display-name>SINEMA AILE 1 .s</display-name>
   </channel>
   <channel id="SİNEMA.AİLE.2.HD.tr">
     <display-name>SİNEMA AİLE 2 HD</display-name>
@@ -2844,10 +2771,6 @@
     <display-name>TABII SPOR 3 HD .b</display-name>
     <icon src="https://logo.huhu.to/logo?c=1489430754.png"/>
   </channel>
-  <channel id="2546857708611b47e42ecf">
-    <display-name>TABII SPOR 3 UHD .b</display-name>
-    <icon src="https://logo.huhu.to/logo?c=2546857708.png"/>
-  </channel>
   <channel id="2307885365b7f1828e97ba">
     <display-name>TABII SPOR 4 .c</display-name>
   </channel>
@@ -2865,10 +2788,6 @@
   <channel id="26619334135baa08b0bc1a">
     <display-name>TABII SPOR 5 HD .b</display-name>
     <icon src="https://logo.huhu.to/logo?c=2661933413.png"/>
-  </channel>
-  <channel id="383933219867eefb660622">
-    <display-name>TABII SPOR 5 UHD .b</display-name>
-    <icon src="https://logo.huhu.to/logo?c=3839332198.png"/>
   </channel>
   <channel id="40820967253b1d74e19a7f">
     <display-name>TABII SPOR 6 .c</display-name>
@@ -2978,16 +2897,15 @@
     <display-name>TJK TV HD .b</display-name>
     <icon src="https://i.imgur.com/3zHdkYG.png"/>
   </channel>
-  <channel id="679b51bdcfef0b3744a77893">
-    <display-name>Tmb</display-name>
-    <icon src="https://i.imgur.com/28AyWHe.png"/>
-  </channel>
   <channel id="410018565922373c7100a2">
     <display-name>TOM &amp; JERRY .b</display-name>
   </channel>
   <channel id="385559741691e8e41971e8">
     <display-name>TON TV .c</display-name>
     <icon src="https://i.imgur.com/f0Soeob.png"/>
+  </channel>
+  <channel id="1840643644b180a4d619d6">
+    <display-name>TRABZON HABER 61 TV HD .b</display-name>
   </channel>
   <channel id="3939293866accaed151ad9">
     <display-name>TRANSFORMERS .b</display-name>
@@ -3003,6 +2921,10 @@
   <channel id="TRT4K.tr@SD">
     <display-name>TRT 4K</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/960px-TRT_4K.svg.png"/>
+  </channel>
+  <channel id="TRTBelgesel.tr@SD">
+    <display-name>TRT Belgesel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png"/>
   </channel>
   <channel id="6857948301fe52b3221a3">
     <display-name>TRT COCUK .c</display-name>
@@ -3135,9 +3057,6 @@
     <display-name>TV8 5 RAW .b</display-name>
     <icon src="https://logo.huhu.to/logo?c=2412205937.png"/>
   </channel>
-  <channel id="3524690612e75743431c37">
-    <display-name>TVDEN TV .b</display-name>
-  </channel>
   <channel id="2916629658495062daeb5f">
     <display-name>TVO TV .b</display-name>
   </channel>
@@ -3156,10 +3075,6 @@
   <channel id="2048436163c35ea978c4df">
     <display-name>TIVI TURK .s</display-name>
     <icon src="https://logo.huhu.to/logo?c=2048436163.png"/>
-  </channel>
-  <channel id="7021579547bba092a6b21">
-    <display-name>TIVI TÜRK .c</display-name>
-    <icon src="https://logo.huhu.to/logo?c=702157954.png"/>
   </channel>
   <channel id="1159899920595e9c441350">
     <display-name>TIVIBU SPOR .c</display-name>
@@ -3196,20 +3111,12 @@
     <display-name>TIVIBU SPOR 3 HD .s</display-name>
     <icon src="https://i.imgur.com/xLrgt2O.png"/>
   </channel>
-  <channel id="1343303170fbfea75b9f15">
-    <display-name>TIVIBU SPOR 4 .c</display-name>
-    <icon src="https://i.imgur.com/LgGxe7z.png"/>
-  </channel>
   <channel id="3307062704472686916fe7">
     <display-name>TIVIBU SPOR 4 HD .b</display-name>
     <icon src="https://i.imgur.com/LgGxe7z.png"/>
   </channel>
   <channel id="163038510f87c95f99d11">
     <display-name>TIVIBU SPOR 5 HD .b</display-name>
-  </channel>
-  <channel id="1406262118fb4f653061f6">
-    <display-name>TIVIBU SPOR RAW .b</display-name>
-    <icon src="https://i.imgur.com/qvrKQY3.png"/>
   </channel>
   <channel id="289665874444b8f4f2d451">
     <display-name>TIVIBUSPOR 1 FHD .b</display-name>
@@ -3365,9 +3272,6 @@
   </channel>
   <channel id="10711660543c82502a97f7">
     <display-name>YOL TV .s</display-name>
-  </channel>
-  <channel id="607077155292bdb1bc79a">
-    <display-name>YOL TV SD .b</display-name>
   </channel>
   <channel id="32452978184d58e060917f">
     <display-name>YUNUS EMRE .b</display-name>
@@ -4425,303 +4329,6 @@
   </programme>
   <programme start="20260818203000 +0000" stop="20260818213000 +0000" channel="67e5c4c6cfef0b3744c556fa">
     <title lang="tr">Hurda Avcıları</title><desc lang="tr">Viki tarihî bir fabrikada iyi konumda bir dokumacı tezgâhı bulur. Serkan eski bir RAF üssünde Britanya Muharebesi&apos;nde kullanılan bir defter bulur.</desc><category lang="tr">Genel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816211500 +0000" stop="20260816213500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Süper Kediler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816213500 +0000" stop="20260816215500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Süper Kediler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816215500 +0000" stop="20260816221500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816221500 +0000" stop="20260816222500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816222500 +0000" stop="20260816225000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816225000 +0000" stop="20260816231500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816231500 +0000" stop="20260816234000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816234000 +0000" stop="20260817000500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Robogobo</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817000500 +0000" stop="20260817003000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Robogobo</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817003000 +0000" stop="20260817005500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Robogobo</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817005500 +0000" stop="20260817010500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817010500 +0000" stop="20260817011000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817011000 +0000" stop="20260817012000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817012000 +0000" stop="20260817013000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817013000 +0000" stop="20260817013500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817013500 +0000" stop="20260817014500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817014500 +0000" stop="20260817015000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817015000 +0000" stop="20260817015500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817015500 +0000" stop="20260817020000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817020000 +0000" stop="20260817020500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817020500 +0000" stop="20260817021000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817021000 +0000" stop="20260817023500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817023500 +0000" stop="20260817030000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817030000 +0000" stop="20260817032500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817032500 +0000" stop="20260817035000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817035000 +0000" stop="20260817041500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817041500 +0000" stop="20260817042500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817042500 +0000" stop="20260817043000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817043000 +0000" stop="20260817044000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817044000 +0000" stop="20260817044500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817044500 +0000" stop="20260817045500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817045500 +0000" stop="20260817050000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817050000 +0000" stop="20260817051000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817051000 +0000" stop="20260817053500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817053500 +0000" stop="20260817060000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817060000 +0000" stop="20260817062500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817062500 +0000" stop="20260817065000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817065000 +0000" stop="20260817065500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817065500 +0000" stop="20260817070500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817070500 +0000" stop="20260817071000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817071000 +0000" stop="20260817072000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817072000 +0000" stop="20260817072500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817072500 +0000" stop="20260817073500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817073500 +0000" stop="20260817074000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817074000 +0000" stop="20260817074500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817074500 +0000" stop="20260817081000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817081000 +0000" stop="20260817083500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817083500 +0000" stop="20260817090000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Patinşaat</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817090000 +0000" stop="20260817092500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817092500 +0000" stop="20260817093000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817093000 +0000" stop="20260817094000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817094000 +0000" stop="20260817094500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817094500 +0000" stop="20260817095500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817095500 +0000" stop="20260817100000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817100000 +0000" stop="20260817101000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817101000 +0000" stop="20260817101500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817101500 +0000" stop="20260817102500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817102500 +0000" stop="20260817105000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817105000 +0000" stop="20260817111500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817111500 +0000" stop="20260817114000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817114000 +0000" stop="20260817120500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Iron Man ve Muhteşem Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817120500 +0000" stop="20260817122000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817122000 +0000" stop="20260817124500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817124500 +0000" stop="20260817125500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817125500 +0000" stop="20260817130000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817130000 +0000" stop="20260817131000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817131000 +0000" stop="20260817131500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817131500 +0000" stop="20260817132500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817132500 +0000" stop="20260817133000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817133000 +0000" stop="20260817134000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817134000 +0000" stop="20260817140500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817140500 +0000" stop="20260817143000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817143000 +0000" stop="20260817145500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817145500 +0000" stop="20260817151000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817151000 +0000" stop="20260817153500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817153500 +0000" stop="20260817160000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Iron Man ve Muhteşem Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817160000 +0000" stop="20260817162500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Mickey&apos;nin Kulüp Evi+</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817162500 +0000" stop="20260817163000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817163000 +0000" stop="20260817164000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817164000 +0000" stop="20260817164500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817164500 +0000" stop="20260817165500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817165500 +0000" stop="20260817170000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817170000 +0000" stop="20260817171000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817171000 +0000" stop="20260817171500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817171500 +0000" stop="20260817172500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817172500 +0000" stop="20260817175000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817175000 +0000" stop="20260817181500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Prenses Sofia: Kraliyet Sihri</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817181500 +0000" stop="20260817184000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817184000 +0000" stop="20260817190500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817190500 +0000" stop="20260817193000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Patinşaat</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817193000 +0000" stop="20260817194000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817194000 +0000" stop="20260817195000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817195000 +0000" stop="20260817195500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817195500 +0000" stop="20260817200000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817200000 +0000" stop="20260817201000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817201000 +0000" stop="20260817202000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817202000 +0000" stop="20260817202500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817202500 +0000" stop="20260817205000 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Pijamaskeliler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817205000 +0000" stop="20260817211500 +0000" channel="DisneyJr.tr@SD">
-    <title lang="tr">Pijamaskeliler: Power Heroes</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
   </programme>
   <programme start="20260817211500 +0000" stop="20260817213500 +0000" channel="DisneyJr.tr@SD">
     <title lang="tr">Süper Kediler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category>
@@ -7650,216 +7257,6 @@
   </programme>
   <programme start="20260818204500 +0000" stop="20260818234500 +0000" channel="TRTAvaz.tr@SD">
     <title lang="tr">Sence Bilir Mi? Bölüm 26</title>
-  </programme>
-  <programme start="20260816210500 +0000" stop="20260816220000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Tuhaf Vahşi Ve Harikulade</title>
-  </programme>
-  <programme start="20260816220000 +0000" stop="20260816225500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">İlkbahar Öyküleri</title>
-  </programme>
-  <programme start="20260816225500 +0000" stop="20260816235000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Çita Sürüsü Bölüm 3</title>
-  </programme>
-  <programme start="20260816235000 +0000" stop="20260817004500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Kaya Kartalı &quot;Vahşi Yaşamın Çağrısı&quot; Bölüm 2</title>
-  </programme>
-  <programme start="20260817004500 +0000" stop="20260817014000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Ulak Bölüm 17</title><desc lang="tr">Serdar Kılıç yolculuğuna Nepal&apos;de devam ediyor... Katmandu&apos;dan yola çıkarak Himalaya Dağları&apos;nın en yüksek zirvelerinden biri olan Annapurna Dağı&apos;na doğru yol alıyor. Kılıç&apos;ın macera dolu yolculuğu TRT Belgesel ekranlarında!</desc>
-  </programme>
-  <programme start="20260817014000 +0000" stop="20260817023000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Çocuğum İçin Bölüm 1</title><desc lang="tr">Bir Amazon yerlisi olan Jose, ormanda bulduğu bir çocukları evlat edinir. Bir yandan kendi kültürüne sahip çıkmaya çalışan Jose, diğer yandan kendi insanlarını eleştirir. Bu ruh haliyle ailesini büyütmeye çalışır.</desc>
-  </programme>
-  <programme start="20260817023000 +0000" stop="20260817030000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Doğu&apos;nun Kayıp Silüetleri Bölüm 27</title><desc lang="tr">Doğu&apos;nun Kayıp Silüetleri kimsenin bilmediği, gizli kalmış bölgelerde süren hayatlara tanıklık etmeye devam ediyor. Zardali... Kırgızistan&apos;ın güneybatı sınırında yer alan Batken bölgesine bağlı bir köy. Tacikistan&apos;a sınır olan bu köy, Korgun Dağlarının eteklerinde ve Sokh Nehri kenarında bulunan bir vadide yer alıyor. Uçsuz bucaksız dağların arasında yaşayan köy halkını, çetin geçen kış şartları &quot;ölüm yoluna&quot; mecbur bırakıyor.</desc>
-  </programme>
-  <programme start="20260817030000 +0000" stop="20260817035500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Dev Pandanın Yolculuğu</title>
-  </programme>
-  <programme start="20260817035500 +0000" stop="20260817035800 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Tanıtım</title>
-  </programme>
-  <programme start="20260817035800 +0000" stop="20260817040000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">İstiklal Marşı</title>
-  </programme>
-  <programme start="20260817040000 +0000" stop="20260817043500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Antika Dedektifi Bölüm 21</title>
-  </programme>
-  <programme start="20260817043500 +0000" stop="20260817051000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Sıfır Atık Bölüm 5</title><desc lang="tr">Doğan Akdoğan&apos;la bu bölümde, çevre kirliliğinin hızla arttığı günümüzde metal atıkların çevreye verdiği zararları öğrenecek ve onların geri dönüşüm sürecine tanıklık edeceğiz.</desc>
-  </programme>
-  <programme start="20260817051000 +0000" stop="20260817055500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yeni Köylü 1/3</title><desc lang="tr">İstanbul&apos;dan Arhavi&apos;nin Dereüstü köyüne göçerek köy hayatı yaşayan Gülmenek Karabulut ve Zeki Karabulut çiftinin hikayesi anlatılıyor.</desc>
-  </programme>
-  <programme start="20260817055500 +0000" stop="20260817064500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Büyülü Ormanların Sırları Bölüm 1</title>
-  </programme>
-  <programme start="20260817064500 +0000" stop="20260817071500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Su Altı Ustaları Bölüm 21</title>
-  </programme>
-  <programme start="20260817071500 +0000" stop="20260817080500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Lezzet Türevleri Bölüm 6</title>
-  </programme>
-  <programme start="20260817080500 +0000" stop="20260817084000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Kronovizör Bölüm 21</title><desc lang="tr">İnsanlığın en eski becerileri olan ateş ve suyu kullanma bilgisi ekranlara taşınıyor. Arşimet&apos;ten Newton&apos;a önemli bilim insanlarının çalışmaları, Galileo&apos;nun termometresinden Toraçelli&apos;nin barometresine büyük atılımları, buhar makinesinin icadından sıcak hava balonuna tüm büyük icatlar büyük bilimsel formüllerle birlikte inceleniyor. Ateşin ve suyun on binlerce yıllık hikayesi &apos;&apos;Kronovizör - Ateş ve Su&apos;&apos; bölümünde...</desc>
-  </programme>
-  <programme start="20260817084000 +0000" stop="20260817085500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Doğanın Saklı Hazineleri Bölüm 1</title>
-  </programme>
-  <programme start="20260817085500 +0000" stop="20260817092500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Doğu&apos;nun Kayıp Silüetleri Bölüm 28</title><desc lang="tr">Sarı-Bulak Köyü... Kırgizistan&apos;ın Narin iline bağlı, Tanrı Dağları&apos;nda Koçkor ile Narin şehri arasında yer alan bir dağ köyü. Sarp kayalıkların arasında şehirden uzak olan bu köyde okula gitmek isteyen 10 yaşındaki Fatma her gün tüm zorlukları aşarak okuluna ulaşıyor. Doğu&apos;nun Kayıp Silüetleri ise kimsenin bilmediği bu hayatlara tanıklık etmenizi sağlamaya devam ediyor.</desc>
-  </programme>
-  <programme start="20260817092500 +0000" stop="20260817100000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Forma Balkan &apos;&apos;Gönül Sahaları&apos;&apos; Bölüm 10</title>
-  </programme>
-  <programme start="20260817100000 +0000" stop="20260817103000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yeşil Güzergah</title>
-  </programme>
-  <programme start="20260817103000 +0000" stop="20260817112500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Güney Afrika&apos;nın Vahşi Doğası</title>
-  </programme>
-  <programme start="20260817112500 +0000" stop="20260817120000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yok Olmadan Keşfet 34/12</title><desc lang="tr">Çağan Şekercioğlu bu bölümde dünyanın en güzel şehirlerinden biri olan İstanbul&apos;da. Bu şehirde sadece insan kalabalığını değil, deniz canlılarından, böceklerden ve kuşlardan oluşan birçok farklı türü de bulabilirsiniz. Tabi, doğru yere bakarsanız.</desc>
-  </programme>
-  <programme start="20260817120000 +0000" stop="20260817125500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Gölge Diyarlar Bölüm 1</title>
-  </programme>
-  <programme start="20260817125500 +0000" stop="20260817132500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Hasat Vakti Bölüm 2</title>
-  </programme>
-  <programme start="20260817132500 +0000" stop="20260817135500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Tuna Boyu Günlükleri Bölüm 5</title><desc lang="tr">Sırbistan&apos;ın Gradac köyünde ailesi ile yaşayan Beşir ve Makedonya&apos;nın Dorfullu köyünde geleneksel yöntemlerle arıcılık yapan Hatice&apos;nin hikayesi &apos;&apos;Tuna Boyu Günlükleri&apos;&apos;ne ev sahipliği yapıyor.</desc>
-  </programme>
-  <programme start="20260817135500 +0000" stop="20260817145000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Ailenin Yeni Üyesi 18/12</title><desc lang="tr">Reshad Strik bu bölümde Egzotik bir coğrafyaya, okyanus ve çölün tam ortasındaki kızıl şehir Marakeş&apos;e gidiyor. Fas&apos;ın renkli kültürüne tanıklık edecek olan Reshad, çöl savaşçıları ile at koşturacak, geleneksel ritimlerle dans edecek, şifa için bir çöl ejderinin peşine düşecek, sabanla tarla sürecek . Fas mutfağının ünlü yemeğini Tajin&apos;i tadacak, ferhalatıcı nane çayı ile yorgunluğunu atacak.</desc>
-  </programme>
-  <programme start="20260817145000 +0000" stop="20260817152500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Gümrük 24 Saat Bölüm 20</title>
-  </programme>
-  <programme start="20260817152500 +0000" stop="20260817163500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Şehirden Uzakta Bölüm 47</title><desc lang="tr">Yüzlerce yıldır süren bir gelenek, meşhur ayak yağı... Kıvanç Kasabalı bu kez zeytinin vatanı, efelerin diyarı Aydın&apos;ın Tekeler Köyü&apos;nde! Tamamen doğal yöntemlerle elde edilen zeytinyağının lezzetini siz de merak edeceksiniz. Kıvanç, değirmeni döndürecek, kadifenin ayağına çakılacak naldan, vurulacak semere kadar tüm detayları eksiksiz bir şekilde tamamlamaya çalışacak. Tekelerin efeleriyle önce futbol, sonra da zeybek oynayacak. Dağların ardında yer alan ve enerjik insanların yaşadığı o huzurlu köye gitmeye hazır olun.</desc>
-  </programme>
-  <programme start="20260817163500 +0000" stop="20260817170500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yiyeceğin Serüveni Bölüm 56</title><desc lang="tr">Yiyeceğin Serüveni&apos;nin bu bölümünde, UNESCO&apos;nun tescilli gastronomi şehri Afyonkarahisar&apos;dayız. Birçok özel zaman için hazırlanan, her öğün tüketilebilen Şuhut Keşkeği, farklı bir aroması olan manda kaymağı, kaymaklı ekmek kadayıfı, bükmesi, ağzı açığı ve göce köftesiyle lezzeti bol bir bölüm sizlerle olacak.</desc>
-  </programme>
-  <programme start="20260817170500 +0000" stop="20260817180000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Anadolu İnsanı Bölüm 15</title><desc lang="tr">Denizli&apos;nin Baklan bölgesindeki dağların serin sularını yaşatan çeşmelerin bakım ve onarımını sevgiyle üstlenen Önder, Mersin Silifke&apos;nin büyüleyici Aşağı Dünya Obruğu&apos;nun yakınlarında yaşamlarını hayvancılıkla sürdüren Ahmet ve Döne, İzmir Tire Başköy&apos;ün bereketli doğasından faydalanarak Tire pazarında yirmi yıllık bir serüvene imza atan Binnaz, Balıkesir Havran&apos;da tıbbi aromatik bitkilerin gizemli dünyasına babasından miras aldığı bitki sevgisini yaşatarak devam eden Nazım Tanrıkulu ve Hatay&apos;ın eşsiz Harbiye Şelalesi&apos;nde yarım asrı aşkın bir süredir serpantin taşına ruhunu işleyen İsa Usta. &apos;&apos;Anadolu İnsanı&apos;&apos; ilham verici hikayeleriyle ekranlarınızda.</desc>
-  </programme>
-  <programme start="20260817180000 +0000" stop="20260817184000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Derinlerdeki Hayat Bölüm 2</title>
-  </programme>
-  <programme start="20260817184000 +0000" stop="20260817194000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Büyük Mücadele 4/13</title><desc lang="tr">Her bölümünde farklı ülkelerde, yoksulluk sınırında yaşayan insanların hayatlarını ekrana getiren Büyük Mücadele, bu bölümünde; Nijer&apos;de çölün ortasında, aylarca yerin altından ilkel yollarla altın çıkarmaya çalışan İbrahim ve ekibinin, Tanzanya&apos;da Hint Okyanusu&apos;nda şiddetli dalgalarında balık tutmaya çalışan Feyruz&apos;un ve Güney Asya&apos;da Kamboçya&apos;da son ipek böceği yetiştiricilerinden olan Rin&apos;in yaşam mücadelesini veriyor.</desc>
-  </programme>
-  <programme start="20260817194000 +0000" stop="20260817203500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Ağaçkakanlar: Bir Kovuk Hikayesi</title>
-  </programme>
-  <programme start="20260817203500 +0000" stop="20260817210500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yeşil Güzergah</title>
-  </programme>
-  <programme start="20260817210500 +0000" stop="20260817215500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Büyülü Ormanların Sırları Bölüm 1</title>
-  </programme>
-  <programme start="20260817215500 +0000" stop="20260817225000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Gölge Diyarlar Bölüm 1</title>
-  </programme>
-  <programme start="20260817225000 +0000" stop="20260817232000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Doğu&apos;nun Kayıp Silüetleri Bölüm 28</title><desc lang="tr">Sarı-Bulak Köyü... Kırgizistan&apos;ın Narin iline bağlı, Tanrı Dağları&apos;nda Koçkor ile Narin şehri arasında yer alan bir dağ köyü. Sarp kayalıkların arasında şehirden uzak olan bu köyde okula gitmek isteyen 10 yaşındaki Fatma her gün tüm zorlukları aşarak okuluna ulaşıyor. Doğu&apos;nun Kayıp Silüetleri ise kimsenin bilmediği bu hayatlara tanıklık etmenizi sağlamaya devam ediyor.</desc>
-  </programme>
-  <programme start="20260817232000 +0000" stop="20260818001000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Lezzet Türevleri Bölüm 6</title>
-  </programme>
-  <programme start="20260818001000 +0000" stop="20260818004500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yok Olmadan Keşfet 34/12</title><desc lang="tr">Çağan Şekercioğlu bu bölümde dünyanın en güzel şehirlerinden biri olan İstanbul&apos;da. Bu şehirde sadece insan kalabalığını değil, deniz canlılarından, böceklerden ve kuşlardan oluşan birçok farklı türü de bulabilirsiniz. Tabi, doğru yere bakarsanız.</desc>
-  </programme>
-  <programme start="20260818004500 +0000" stop="20260818014000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Güney Afrika&apos;nın Vahşi Doğası</title>
-  </programme>
-  <programme start="20260818014000 +0000" stop="20260818021000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Tuna Boyu Günlükleri Bölüm 5</title><desc lang="tr">Sırbistan&apos;ın Gradac köyünde ailesi ile yaşayan Beşir ve Makedonya&apos;nın Dorfullu köyünde geleneksel yöntemlerle arıcılık yapan Hatice&apos;nin hikayesi &apos;&apos;Tuna Boyu Günlükleri&apos;&apos;ne ev sahipliği yapıyor.</desc>
-  </programme>
-  <programme start="20260818021000 +0000" stop="20260818024000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yiyeceğin Serüveni Bölüm 56</title><desc lang="tr">Yiyeceğin Serüveni&apos;nin bu bölümünde, UNESCO&apos;nun tescilli gastronomi şehri Afyonkarahisar&apos;dayız. Birçok özel zaman için hazırlanan, her öğün tüketilebilen Şuhut Keşkeği, farklı bir aroması olan manda kaymağı, kaymaklı ekmek kadayıfı, bükmesi, ağzı açığı ve göce köftesiyle lezzeti bol bir bölüm sizlerle olacak.</desc>
-  </programme>
-  <programme start="20260818024000 +0000" stop="20260818032000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Derinlerdeki Hayat Bölüm 2</title>
-  </programme>
-  <programme start="20260818032000 +0000" stop="20260818035500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Forma Balkan &apos;&apos;Gönül Sahaları&apos;&apos; Bölüm 10</title>
-  </programme>
-  <programme start="20260818035500 +0000" stop="20260818035800 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Tanıtım</title>
-  </programme>
-  <programme start="20260818035800 +0000" stop="20260818040000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">İstiklal Marşı</title>
-  </programme>
-  <programme start="20260818040000 +0000" stop="20260818043500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Antika Dedektifi Bölüm 22</title>
-  </programme>
-  <programme start="20260818043500 +0000" stop="20260818051000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Sıfır Atık Bölüm 6</title><desc lang="tr">İnsanoğlunun en temel ihtiyacı yiyeceklerdir. Bu yiyeceklerde sıklıkla yağlar kullanılır. Peki, bu yiyeceklerle işimiz bittiğinde yağları ne yapıyoruz? Doğan Akdoğan bu bölümde, hayatımızda yer edinmiş olan atık yağların çevreye verdiği zararı ve geri dönüşüm sürecini işliyor.</desc>
-  </programme>
-  <programme start="20260818051000 +0000" stop="20260818060500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yeni Köylü 2/3</title><desc lang="tr">Şehir yaşamından uzaklaşarak köy yaşamına geçiş yapan İsmail ve Reyhan Yenigün çiftinin yaşam öyküsü anlatılıyor.</desc>
-  </programme>
-  <programme start="20260818060500 +0000" stop="20260818070000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Büyülü Ormanların Sırları Bölüm 2</title>
-  </programme>
-  <programme start="20260818070000 +0000" stop="20260818073500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Su Altı Ustaları Bölüm 22</title>
-  </programme>
-  <programme start="20260818073500 +0000" stop="20260818082500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Lezzet Türevleri Bölüm 7</title>
-  </programme>
-  <programme start="20260818082500 +0000" stop="20260818090000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Kronovizör Bölüm 22</title><desc lang="tr">Tıp biliminin gelişiminin 30.000 yıllık bilinen tarihi ekranlara taşınıyor. Hipokrat&apos;tan Galen&apos;e, İbni Sina&apos;dan Pasteur&apos;e önemli bilim insanlarının çalışmaları; Vesalius&apos;un anatomi modelinden Harvey&apos;in dolaşım sistemini keşfine tıp alanındaki büyük atılımları; ilk stetoskoptan ilk tansiyon cihazına, ilk kan naklinden seruma, ilk X-Ray filminden tomografiye büyük bilimsel icatlar sizlerle buluşuyor. Tıp bilgisi ve medikalin binlerce yıllık hikayesi &apos;&apos;Kronovizör - Tıp&apos;&apos; bölümünde...</desc>
-  </programme>
-  <programme start="20260818090000 +0000" stop="20260818091500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Doğanın Saklı Hazineleri Bölüm 2</title>
-  </programme>
-  <programme start="20260818091500 +0000" stop="20260818094500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Doğu&apos;nun Kayıp Silüetleri Bölüm 29</title><desc lang="tr">Doğu&apos;nun Kayıp Silüetleri gayretin ve umudun bir arada olduğu, dağların gökyüzü ile birleştiği bölgelerde devam eden insanların hayat öykülerine tanıklık etmeye devam ediyor. Koçkor... Kırgizistan&apos;ın Narin Bölgesi&apos;ne bağlı bir kasaba. Kasabada yaşayan 33 yaşındaki Taland doğuştan cüce hastalığıyla dünyaya geldi. O, gerçeğinden ayırt edilemeyen oyuncak kamyonlarını yapmak için tüm zorlukların üstesinden geliyor.</desc>
-  </programme>
-  <programme start="20260818094500 +0000" stop="20260818102000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Forma Balkan &apos;&apos;Gönül Sahaları&apos;&apos; Bölüm 11</title>
-  </programme>
-  <programme start="20260818102000 +0000" stop="20260818105000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Hasat Vakti Bölüm 2</title>
-  </programme>
-  <programme start="20260818105000 +0000" stop="20260818114500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Ağaçkakanlar: Bir Kovuk Hikayesi</title>
-  </programme>
-  <programme start="20260818114500 +0000" stop="20260818123500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yok Olmadan Keşfet 35/12</title><desc lang="tr">Yok Olmadan Keşfet ekibi bu bölümde Ardahan Posof&apos;ta Kafkas Arısı&apos;nın peşinde. Prof. Dr. Çağan Şekercioğlu Kafkas Dağları coğrafyasında yaşayan bu özel türü görüntülemek için Prof. Dr. İrfan Kandemir&apos;den destek alıyor.</desc>
-  </programme>
-  <programme start="20260818123500 +0000" stop="20260818133000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Gölge Diyarlar Bölüm 2</title>
-  </programme>
-  <programme start="20260818133000 +0000" stop="20260818142500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Gizemli Tarih &quot;Troya&quot;</title>
-  </programme>
-  <programme start="20260818142500 +0000" stop="20260818145500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Tuna Boyu Günlükleri Bölüm 6</title>
-  </programme>
-  <programme start="20260818145500 +0000" stop="20260818155500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Ailenin Yeni Üyesi 19/12</title><desc lang="tr">Reshad Strik bu bölümde dünyanın en geniş çölü Büyük Sahra‘dan geçerek, Fas&apos;ın güneyindeki Sou-Massa bölgesinde yer alan bir kasabaya, Tiznit&apos;e gidiyor. Ev sahibi Ali‘nin futbol aşkına tanıklık eden Reshad, Ali&apos;nin futbol öğrettiği çocuklarla bir takım kurarak sokak futbolu oynuyor. Fas‘ın önemli geçim kaynaklarından Argan Yağını yapan evin hanımlarına yardım ediyor. Onun için düzenlenen geleneksel bir gecede müziğin ritmine kendini kaptırıyor. Ve Ali‘ye çiftlikteki işlerinde yardımcı oluyor.</desc>
-  </programme>
-  <programme start="20260818155500 +0000" stop="20260818165500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Dev Kanatlar: Kara Akbaba</title>
-  </programme>
-  <programme start="20260818165500 +0000" stop="20260818180000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Şehirden Uzakta Bölüm 46</title><desc lang="tr">Ardahan Çıldır&apos;ın deniz seviyesinden 2000 metre yükseklikteki harika doğasına tanık olma zamanı... Kıvanç Kasabalı bu kez Çıldır Gölü&apos;nün kıyısında yer alan Gölbelen&apos;de. Altı ay kış yaşanan bu bölgede, yılın en soğuk dönemi ve Çıldır gölü buz tutmuş durumda. Hava sıcaklığı eksi on beş olsa da buz tutmuş bir göle ağ atmaktan ahır işlerine, hamile inek Panar&apos;ın saat başı kontrolüne kadar yapacak pek çok iş var.</desc>
-  </programme>
-  <programme start="20260818180000 +0000" stop="20260818183000 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Yiyeceğin Serüveni Bölüm 25</title><desc lang="tr">Peynir. Sofralarımızın vazgeçilmez kalsiyum deposu. Sağlıklı beslenmenin önde gelen aktörü. Enerji değeri en yüksek gıdalardan biri olan peynirler, coğrafik özellikler ve mevsimlerin süresi gibi doğal koşullar sebebiyle birçok farklı şekilde birçok farklı tatta karşımıza çıkar. Yeni beslenme alışkanlıklarına uygun, keyifle tüketilebilecek ürünler günümüzde tercih sebebi. Bu bölümde, gelişen teknolojiyle birlikte, yenilikçi tarzda üretilen peynirleri işleyeceğiz.</desc>
-  </programme>
-  <programme start="20260818183000 +0000" stop="20260818192500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Arktik Bölgesi &quot;Tehlike Altındaki Sığınak&quot;</title>
-  </programme>
-  <programme start="20260818192500 +0000" stop="20260818202500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">67 49 32 Kuzey</title>
-  </programme>
-  <programme start="20260818202500 +0000" stop="20260818232500 +0000" channel="TRTBelgesel.tr@SD">
-    <title lang="tr">Esme</title>
   </programme>
   <programme start="20260816210000 +0000" stop="20260816215500 +0000" channel="TRTHaber.tr@SD">
     <title lang="tr">Haber 24</title>
@@ -13744,639 +13141,6 @@
   <programme start="20260818205500 +0000" stop="20260818211000 +0000" channel="Cartoonito.uk@SD">
     <title lang="tr">Kral Şakir</title><category lang="tr">Genel</category><category lang="tr">Genel</category>
   </programme>
-  <programme start="20260816211000 +0000" stop="20260816212500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Andrew Basso: Büyüleyici Kaçış Ustası</title><desc lang="tr">Kaçış ustası Andrew Basso, ellerinden ve ayaklarından bağlıyken su tankından rekor sürede nasıl kaçmayı başardığını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816212500 +0000" stop="20260816213000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Çevre Dostu Plastikler</title><desc lang="tr">Bu bölümde, araştırmacıların doğada yok olan torbalar ve konteynırları ürettiği İspanya Zaragoza’ya gidiyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816213000 +0000" stop="20260816213500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Hayal Edilemeyeni Görmek</title><desc lang="tr">İkinci Dünya Savaşından sonra yok olan Bergen-Belsen esir kampını dijital olarak baştan inşa eden bilgisayar mühendisleri ile tanışın.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816213500 +0000" stop="20260816220000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Hottentots Holland Dağları - Yarım Kalmış İş</title><desc lang="tr">Ekip, Dönüşü Olmayan Nokta&apos;ya cesurca atladıktan sonra, girdaplarla yüzleşip, uçurumların üzerinden aşağıdaki derin havuzlara savruluyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816220000 +0000" stop="20260816220500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Uçaklardaki Buz Sorununa Çözüm</title><desc lang="tr">Uçağın yüzeyindeki buz çok tehlikelidir.Bilim insanları kimyasal buz çözücülerin yerine nano parçacıklar içeren bir kaplama geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816220500 +0000" stop="20260816221000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kriz Yönetimi</title><desc lang="tr">Kriz yönetimi için yapılan eğitim çalışmaları, işbirliğini ve bilgi alışverişini geliştirmek için teknolojik yenilikleri kullanmaktadır.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816221000 +0000" stop="20260816222500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">DNA harikaları</title><desc lang="tr">DNA&apos;nızın bir kısmını çıkartarak genetik keşfediliyor ve kromozomları ilk bulanın Joe Hin Tjio olduğu ortaya çıkıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816222500 +0000" stop="20260816223500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İlgi çeken robotlar</title><desc lang="tr">Robotları kendi robotunuzu yaparak keşfetmek ve robot ustası Hiroshi Ishiguro kendini kopyalayan adam olarak biliniyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816223500 +0000" stop="20260816224000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dış İskeletler</title><desc lang="tr">Havalı alüminyumdan yapılmış dış iskeletler, hastaların felçten sonra hareketliliğe kavuşmalarına yardımcı olmak için geliştirilmektedir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816224000 +0000" stop="20260816224500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dalış Robotları</title><desc lang="tr">Madencilik endüstrisinde kullanılan dalış robotları, insanlar için çok tehlikeli durumlarda çalışmak üzere geliştirilmişlerdir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816224500 +0000" stop="20260816230000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Alex Goulding ve Jimmy Choi: Güçlü İkilinin Becerileri</title><desc lang="tr">Ninja savaşçısı Jimmy Choi ve fitness tutkunu Alex Goulding bize dünya rekoru dahil takım olarak her şeyi nasıl başarabilecğimizi anlatıyor</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816230000 +0000" stop="20260816231500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mihaela Brinzoiu: Tava Büken Çelik Eller</title><desc lang="tr">Güçlü Kadın Mihaela Brinzoiu, alışılmadık bir mutfak ekipmanı olan kızartma tavasını bükmek için gereken gücü ve beceriyi gösteriyor!</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816231500 +0000" stop="20260816232000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mısır Bitkisi</title><desc lang="tr">Araştırmacılar, tarımsal ekosistemlerdeki çeşitliliği artırarak mahsul verimini,kalitesini ve tadını iyileştirmeye çalışıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816232000 +0000" stop="20260816232500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Nükleer Tarama</title><desc lang="tr">Küçük bir 3D harita tarayıcı, büyük yeraltı alanlarını gerçek zamanlı olarak haritalamak için geliştiriliyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816232500 +0000" stop="20260816235000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Sörfçü Salyangozlar</title><desc lang="tr">Bir grup genç maceracı, hayvanların hayatta kalmak için tuhaf uyum sağlama yollarını görme amacıyla Masa Dağı Ulusal Parkı&apos;na geri dönüyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816235000 +0000" stop="20260816235500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İyileştiren Zehirler</title><desc lang="tr">Avrupa’nın dört bir yanındaki araştırmacılar, zehir bazlı ilaçların diyabet ve alerjilerin çözümü olup olmadığını bulmaya çalışıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816235500 +0000" stop="20260817000000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Koca Çanta Teorisi</title><desc lang="tr">Bu bölümde temiz suyu ihtiyacı olmayan yerlerden ihtiyacı olan yerlere taşımanın hesaplı bir yolu olmadığını araştıracağız.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817000000 +0000" stop="20260817001500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mühendislik işleri</title><desc lang="tr">İnşaatı kendi kulemizi inşa ederek ve gökdelenlerde tüp sistemini kullanan Fazlur Rahman&apos;ı tanıyarak öğreneceğiz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817001500 +0000" stop="20260817002500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Müthiş astronomi</title><desc lang="tr">Astronomiyi kendi roketini kaldırarak, evrenin galaksilerle dolu olduğunu ve genişlediğini ispatlayan Edwin Hubble ile keşfediyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817002500 +0000" stop="20260817003000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Daha az atık, Daha çok Tat</title><desc lang="tr">Mikrobiyologlar, balıkların ayıklanmaları sırasında atılan parçalarının yenilebilir hale getirmek için bir yol arıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817003000 +0000" stop="20260817004500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Alan Silva: Hava Akrobasi Sanatçısı</title><desc lang="tr">Hava kayışı akrobatı Alan Silva, nasıl zarif performanslara imza attığını ve akrobatik becerileriyle nasıl dünya rekoru kırdığını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817004500 +0000" stop="20260817005500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bonetics: Olağanüstü Akrobat</title><desc lang="tr">Akrobat Bonetics insanüstü yeteneklerini kullanarak, bacakları başının arkasında, elleri üzerinde yürüyerek Guinness Dünya Rekoru&apos;nu kırıyor</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817005500 +0000" stop="20260817010000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Beyninizi Eğitin</title><desc lang="tr">Beynin, felç hastalarının iyileşme sürecinde rol oynayabileceğine inanan bilimadamları yenilikçi Sanal Gerçeklik aletleri geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817010000 +0000" stop="20260817013000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Denizin Altında</title><desc lang="tr">Bir grup genç maceracı, Masa Dağı Ulusal Parkı&apos;nda denize açılıyor ve denizyıldızı, deniz anemonları ve Geniş Burunlu Köpekbalığı görüyorlar</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817013000 +0000" stop="20260817013500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kabuklardan Domuzlara</title><desc lang="tr">Bu bölümde, bilimadamları yemek artıklarını hayvan yemi haline getirmenin güvenli, etkili ve endüstriyel yollarını arıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817013500 +0000" stop="20260817014500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dağınık ışıklar</title><desc lang="tr">Işımayı hava sistemini yaratarak ve dağınık ışıkların uzun dalgayı değiştirebileceğini icat eden C.V Raman&apos;ı keşfederek öğreneceğiz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817014500 +0000" stop="20260817020000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Isı ve enerji</title><desc lang="tr">Enerjinin doğasını bir su balonunu ısıtarak ve ısının mekaniğini bulan James Presscott Jolue&apos;u tanıyarak keşfediyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817020000 +0000" stop="20260817022000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kod Yazan Kızlar</title><desc lang="tr">Sunucu Alie Ward; kod yazmayı öğrenen kızları, katlanan bir kanoyu, ayakkabılar için bir feneri, ve yiyecekleri taze tutmanın yeni bir yolunu tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817022000 +0000" stop="20260817024000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mayın Avcısı Dronlar</title><desc lang="tr">Sunucu Alie Ward; sanatsal küreleri, ağaçlardaki köşkleri, oyuncaklardan yapılan tıbbi cihazları ve mayınları bulup temizleyen dronları tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817024000 +0000" stop="20260817024500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dış İskeletler</title><desc lang="tr">Havalı alüminyumdan yapılmış dış iskeletler, hastaların felçten sonra hareketliliğe kavuşmalarına yardımcı olmak için geliştirilmektedir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817024500 +0000" stop="20260817025000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dalış Robotları</title><desc lang="tr">Madencilik endüstrisinde kullanılan dalış robotları, insanlar için çok tehlikeli durumlarda çalışmak üzere geliştirilmişlerdir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817025000 +0000" stop="20260817031000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Büyüyen Ayakkabılar</title><desc lang="tr">Sunucu Alie Ward; alışılmadık bir ızgarayı, bir cep telefonu kamera sabitleyicisini, büyüyebilen bir ayakkabıyı ve cilt kontrolünüz için bir akıllı telefon eklentisini tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817031000 +0000" stop="20260817033000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Termal Kameralar</title><desc lang="tr">Sunucu Alie Ward; bilimle yemek yapan bir şefi, stres azaltan bir kol bandını, ısı görüntüleyen bir cihazı ve bir çalar saat kilimini tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817033000 +0000" stop="20260817034000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mısır Bitkisi</title><desc lang="tr">Araştırmacılar, tarımsal ekosistemlerdeki çeşitliliği artırarak mahsul verimini,kalitesini ve tadını iyileştirmeye çalışıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817034000 +0000" stop="20260817040500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Nükleer Tarama</title><desc lang="tr">Küçük bir 3D harita tarayıcı, büyük yeraltı alanlarını gerçek zamanlı olarak haritalamak için geliştiriliyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817040500 +0000" stop="20260817042500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Alacakaranlık Bölge</title><desc lang="tr">Kaiko ve Will, parlayan bir balığın büyüsüne kapılır. Ant ve Fontaine, göz bandı takarak ebeveynlerini kurtarmak zorundadır.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817042500 +0000" stop="20260817043000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İyileştiren Zehirler</title><desc lang="tr">Avrupa’nın dört bir yanındaki araştırmacılar, zehir bazlı ilaçların diyabet ve alerjilerin çözümü olup olmadığını bulmaya çalışıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817043000 +0000" stop="20260817043500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Koca Çanta Teorisi</title><desc lang="tr">Bu bölümde temiz suyu ihtiyacı olmayan yerlerden ihtiyacı olan yerlere taşımanın hesaplı bir yolu olmadığını araştıracağız.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817043500 +0000" stop="20260817044500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Robbert&apos;ın Sırrı</title><desc lang="tr">Munki ve Trunk, ormandaki en iyi arkadaşlardır. Küçük maceraları büyük boyutlara ulaşır, ancak dostluk ve eğlence galip gelir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817044500 +0000" stop="20260817050500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Loki’nin Kalesi</title><desc lang="tr">Nektonlar, Dark Orka denizaltısını ele geçirir. Ama korsanlar da Aronnax&apos;ı ele geçirir. Elbette kimse evlerinde yabancıları istememektedir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817050500 +0000" stop="20260817052500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tartaruga</title><desc lang="tr">Nektonlar yüzen bir adayı keşfeder ve eski Lemurya navigasyon cihazının parçalarını bulur. Peki, bu ada neden hareket ediyordur?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817052500 +0000" stop="20260817053000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Araba</title><desc lang="tr">Boom, Kırmızılar&apos;ın yere ne çizdiğini tahmin etmelidir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817053000 +0000" stop="20260817053500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Yarasa</title><desc lang="tr">Boom, Kırmızılar&apos;ın yere ne çizdiğini tahmin etmelidir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817053500 +0000" stop="20260817054500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bakışlar Önemsemektir</title><desc lang="tr">Munki ve Trunk, ormandaki en iyi arkadaşlardır. Küçük maceraları büyük boyutlara ulaşır, ancak dostluk ve eğlence galip gelir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817054500 +0000" stop="20260817055000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Etiketle, İşin Bitti</title><desc lang="tr">Munki ve Trunk, ormandaki en iyi arkadaşlardır. Küçük maceraları büyük boyutlara ulaşır, ancak dostluk ve eğlence galip gelir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817055000 +0000" stop="20260817060500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Uzağa Havalanma</title><desc lang="tr">Uçurtma festivalinde Zip rüzgar tarafından savrulunca işler yokuş aşağı gidiyor. Bitz&apos;in günü ve Zip&apos;i kurtarmasının zamanı geldi.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817060500 +0000" stop="20260817062000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Sürükleyici Hikaye</title><desc lang="tr">Robot Kurt, Rapunzel Purl&apos;ü kalenin kulesine kilitler. Sör Bevel da içeride mahsur kalır. Bitz ikisini de kurtarabilecek mi?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817062000 +0000" stop="20260817063500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Japonya&apos;nın Devleri</title><desc lang="tr">Doki, derin deniz videosunu yapmak ve nadir dev kalamarın görüntülerini çekmek için Japonya&apos;nın Ogasawara Adalarına gitmeye karar verir!</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817063500 +0000" stop="20260817065500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Uçan Balık</title><desc lang="tr">Anabella&apos;nın tuhaf balığı gerçekten uçabilir mi? Öğrenmek için ABD, Kaliforniya&apos;da bir &apos;kuş adam&apos; yarışmasına gidiyorlar!</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817065500 +0000" stop="20260817071000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Gözler</title><desc lang="tr">Dr Chris ve Dr Xand size kör noktanızı nasıl bulacağınızı gösteriyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817071000 +0000" stop="20260817071500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kahraman Okulu</title><desc lang="tr">Sprinter daha çok kahraman yetiştirmek için bir okul açar. Kötüler bir anda gelince, öğrenciler erken bir sınava girmek zorunda kalırlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817071500 +0000" stop="20260817072500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kazanan DiktaThor</title><desc lang="tr">DiktaThor sonunda Bhilka&apos;nın kontrolünü ele alır. Peki bu gerçekleşen bir rüya mı yoksa bir kabus mu?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817072500 +0000" stop="20260817074000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kale Değişimi</title><desc lang="tr">Bob, kalesinin Bitz&apos;inkine daha çok benzemesini ister ve herkes yardıma koşar, ancak işler planlandığı gibi gitmez.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817074000 +0000" stop="20260817075500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Marmelat Kargaşası</title><desc lang="tr">Bitz, marmelatını Orman Kafe&apos;de sunmaktan heyecan duyuyor. Sorun şu ki, Zip ve Pop yemeği servis etmek yerine yiyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817075500 +0000" stop="20260817081000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mantar Sorunu</title><desc lang="tr">Trüf mantarı nedir? Ve eğer çok nadirlerse, nasıl bulacağız? Doki, Gabi, Mundi ve Fico, İtalya&apos;nın Toskana bölgesine gidiyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817081000 +0000" stop="20260817082500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İrlandalı Şansı</title><desc lang="tr">Anabella bir aynayı kırınca, şansının kötü gideceğinden endişe eder ve İrlanda dans resitaline katılmayı reddeder!</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817082500 +0000" stop="20260817085500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İnanılmaz Salya ve İlk Tedavi Edilmesi Gereken</title><desc lang="tr">Dr Chris ve Dr Xand salyanın ne kadar inanılmaz olduğunu gösterirler ve avlanan kuşların hastane için önemini keşfederler.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817085500 +0000" stop="20260817090500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Maymun - Yükselmiş</title><desc lang="tr">Maymun kendini bulutların arasında dev bir ormanda bulur.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817090500 +0000" stop="20260817091500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Yunus - Kazanan Hepsini Alır</title><desc lang="tr">Yunus hayatının yarışına katılır cansız bir deniz kestanesi kabuğuna karşı.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817091500 +0000" stop="20260817093000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İşitme</title><desc lang="tr">Dr Chris ve Dr Xand size bir ses dalgası ile pirinç dansı yapmayı gösteriyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817093000 +0000" stop="20260817095500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Ejderha Çukuru</title><desc lang="tr">Bir ejderha avı gezisinde Ant, muazzam bir gizeme dair ipuçları barındıran eski bir belge bulur.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817095500 +0000" stop="20260817101500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kara Orka</title><desc lang="tr">Kara Orca korsanları, Nektonların denizaltılarında nadir bir hazine olduğunu düşünüp, onlara saldırıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817101500 +0000" stop="20260817102500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Yaşlı Ağaç</title><desc lang="tr">Devrilmiş bir ağaç yaşam döngülerini öğretir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817102500 +0000" stop="20260817103000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kağıt Tekneler</title><desc lang="tr">Tekne yarışları hileyle adaletsiz hale gelir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817103000 +0000" stop="20260817104500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Marmelat Kargaşası</title><desc lang="tr">Bitz, marmelatını Orman Kafe&apos;de sunmaktan heyecan duyuyor. Sorun şu ki, Zip ve Pop yemeği servis etmek yerine yiyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817104500 +0000" stop="20260817111000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tebrik Kartları</title><desc lang="tr">Sunucu Alie Ward; açılır tebrik kartlarını, evsizler için teknolojik çadırlar yapan gençleri ve sıra dışı bir yük gemisini tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817111000 +0000" stop="20260817114000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Gözümün Köşesinin Dışında</title><desc lang="tr">Doktorlar özel göz kaslarını keşfederler ve hastane animatörüyle tanışırlar.Chris kanının kök hücrelerini görmek için bir laboratuara gider.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817114000 +0000" stop="20260817120500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Başkan (F.W. de Klerk) ve Öncü (Valerie Amos)</title><desc lang="tr">Nobel Barış Ödülü sahibi Başkan F.W. de Klerk ve öncü İngiliz diplomat Valerie Amos hayatları boyunca öğrendiklerini paylaşıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817120500 +0000" stop="20260817122000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Isı ve enerji</title><desc lang="tr">Enerjinin doğasını bir su balonunu ısıtarak ve ısının mekaniğini bulan James Presscott Jolue&apos;u tanıyarak keşfediyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817122000 +0000" stop="20260817124500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Denizin Altında</title><desc lang="tr">Bir grup genç maceracı, Masa Dağı Ulusal Parkı&apos;nda denize açılıyor ve denizyıldızı, deniz anemonları ve Geniş Burunlu Köpekbalığı görüyorlar</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817124500 +0000" stop="20260817125500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mancınık</title><desc lang="tr">Fire, Tom Thomas’ın oyuncak mancınığını kullanarak Nolik&apos;i pencereden dışarı ve Ay&apos;a kadar atmak ister.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817125500 +0000" stop="20260817130500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Havalandırma</title><desc lang="tr">Simka ve Verda arasındaki çekişme, Verda&apos;nın bir Tamircik yıldızının imzalı fotoğrafı havalandırma deliğine girdiğinde sona erer.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817130500 +0000" stop="20260817132000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kemikler</title><desc lang="tr">Dr Chris ve Dr Xand kemiklerin nasıl büküleceğini gösteriyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817132000 +0000" stop="20260817134000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Gürültü</title><desc lang="tr">The Nektonlar, benzersiz bir yaşam formunu tanımlamaya çalışırken, Ant ı da bir su altı madencilik makinesi yok etmeye çalışıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817134000 +0000" stop="20260817140000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Alan Silva: Hava Akrobasi Sanatçısı</title><desc lang="tr">Hava kayışı akrobatı Alan Silva, nasıl zarif performanslara imza attığını ve akrobatik becerileriyle nasıl dünya rekoru kırdığını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817140000 +0000" stop="20260817141000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bonetics: Olağanüstü Akrobat</title><desc lang="tr">Akrobat Bonetics insanüstü yeteneklerini kullanarak, bacakları başının arkasında, elleri üzerinde yürüyerek Guinness Dünya Rekoru&apos;nu kırıyor</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817141000 +0000" stop="20260817144500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bağışıklık Ordusu</title><desc lang="tr">Dr Chris ve Xand bağışıklık sisteminizi oluşturan inanılmaz mikrop savaşçılarını çıkarır.Bebek kuvözünün nasıl temizlendiğini öğrenirler.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817144500 +0000" stop="20260817145500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Hazır, Kontrol Et</title><desc lang="tr">Beceri Şehri&apos;nde yarış günü. Bob, bir felaket gelip aracı dağılmaya başlayana kadar kupayı kazanmaya kararlıdır.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817145500 +0000" stop="20260817152000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Süzülen Hamak</title><desc lang="tr">Sunucu Alie Ward; gen bir araba tasarımcısını, süper hızlı bir diş fırçasını, sisi suya dönüştürmenin bir yolunu ve süzülen bir hamağı tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817152000 +0000" stop="20260817154500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Altın Kız (Kelly Holmes) ve Astronot (Tim Peake)</title><desc lang="tr">Çifte Olimpiyat altın madalyası sahibi Kelly Holmes ve Avrupa Uzay Ajansı astronotu Tim Peake olağanüstü kariyerlerini anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817154500 +0000" stop="20260817161500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İçeriden görmek</title><desc lang="tr">Doktorlar neden geğirdiğimizi ve nasıl iyi bir ambulans şoförü olunduğunu tespit ederler. Dr Xand radyoloji bölümünü ziyaret eder.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817161500 +0000" stop="20260817164000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Alacakaranlık Bölge</title><desc lang="tr">Kaiko ve Will, parlayan bir balığın büyüsüne kapılır. Ant ve Fontaine, göz bandı takarak ebeveynlerini kurtarmak zorundadır.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817164000 +0000" stop="20260817171000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Büyük Çekişme</title><desc lang="tr">Bir grup genç maceracı, teleferikle Masa Dağı Ulusal Parkı&apos;nın zirvesine çıkıyor ve orada inanılmaz bitkiler ve hayvanlar buluyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817171000 +0000" stop="20260817174000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İtfaiyeci (Sabrina Cohen-Hatton) ve Biyonik Adam (Mark Ormrod)</title><desc lang="tr">Kıdemli itfaiyeci ve yazar Sabrina Cohen-Hatton ve üç uzvunu kaybetmiş ve ödüllü Mark Ormrod, inanılmaz dayanıklılık hikayelerini paylaşıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817174000 +0000" stop="20260817180000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Wes P: Dünyaca Ünlü Fiziksel Komedyen</title><desc lang="tr">Sosyal medya fenomeni Wes P, namı diğer Bay Uekusa, şaşırtıcı ve tuhaf becerileriyle nasıl dünya şampiyonu olduğunu anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817180000 +0000" stop="20260817182500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">En İyisi (Roger Federer) ve Yarışçı (Danica Patrick)</title><desc lang="tr">Tenis efsanesi Roger Federer ve Indy 500 yıldızı Danica Patrick, dünyanın en iyisi olma hikayelerini paylaşıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817182500 +0000" stop="20260817184500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Penguen Robotu</title><desc lang="tr">Sunucu Alie Ward; yenilikçi bir sörf parkını, havada süzülen şişirilebilir bir balığı, 3 boyutlu basılan heykelleri ve yavru bir penguen yavrusunu tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817184500 +0000" stop="20260817185000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dikenli Kirpi</title><desc lang="tr">Bu dikenli kirpiyi yapabilir misiniz?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817185000 +0000" stop="20260817185500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Sünger Levrek</title><desc lang="tr">Sünger levrek yapabilir misiniz? Parmaklarınıza dikkat edin.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817185500 +0000" stop="20260817190500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Sanat Fırıldağı</title><desc lang="tr">Bu hünerli düzenek ile, döndürerek yaratıcılığınızı konuşturun.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817190500 +0000" stop="20260817191000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Daha az atık, Daha çok Tat</title><desc lang="tr">Mikrobiyologlar, balıkların ayıklanmaları sırasında atılan parçalarının yenilebilir hale getirmek için bir yol arıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817191000 +0000" stop="20260817191500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tehlikeli Bir Hayata Kırmızı Kart</title><desc lang="tr">EuroFIT projesinin araştırmacıları maç izlerken formda kalmamıza yardımcı olacak yenilikçi teknolojiler geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817191500 +0000" stop="20260817192000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mucize Değişim</title><desc lang="tr">İki resmi karıştırıp nasıl bir resim yaparsınız? Başınızı döndürecek bir görsel yanılsamayla size göstereceğiz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817192000 +0000" stop="20260817192500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Milking Plants</title><desc lang="tr">Avrupalı bilim insanları ve girişimciler tarafından geliştirilen müthiş heyecan verici ürünlerden bazılarına göz atın.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817192500 +0000" stop="20260817193000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Beyninizi Eğitin</title><desc lang="tr">Beynin, felç hastalarının iyileşme sürecinde rol oynayabileceğine inanan bilimadamları yenilikçi Sanal Gerçeklik aletleri geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817193000 +0000" stop="20260817193500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Daha Yüksek Güç</title><desc lang="tr">Bu bölümde, düşük bir masrafla üç kilometre yükseklikten enerji transfer etmeyi başaran bir grup bilimadamıyla tanışıyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817193500 +0000" stop="20260817195500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Yıldız (Julia Roberts) ve Dövüşçü (Wladimir Klitschko)</title><desc lang="tr">Oscar ödüllü aktris Julia Roberts ve eski dünya ağır sıklet boks şampiyonu Wladimir Klitschko zirveye giden yolculuklarını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817195500 +0000" stop="20260817200000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kabuklardan Domuzlara</title><desc lang="tr">Bu bölümde, bilimadamları yemek artıklarını hayvan yemi haline getirmenin güvenli, etkili ve endüstriyel yollarını arıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817200000 +0000" stop="20260817200500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kemik Yetiştirmek</title><desc lang="tr">Bilimadamları, yeni yenileyici tedavilerin geliştirilmesine ön ayak olacak kemik yenileyici aletler geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817200500 +0000" stop="20260817202000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">DNA harikaları</title><desc lang="tr">DNA&apos;nızın bir kısmını çıkartarak genetik keşfediliyor ve kromozomları ilk bulanın Joe Hin Tjio olduğu ortaya çıkıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817202000 +0000" stop="20260817203000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İlgi çeken robotlar</title><desc lang="tr">Robotları kendi robotunuzu yaparak keşfetmek ve robot ustası Hiroshi Ishiguro kendini kopyalayan adam olarak biliniyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817203000 +0000" stop="20260817203500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Çevre Dostu Plastikler</title><desc lang="tr">Bu bölümde, araştırmacıların doğada yok olan torbalar ve konteynırları ürettiği İspanya Zaragoza’ya gidiyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817203500 +0000" stop="20260817204000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Hayal Edilemeyeni Görmek</title><desc lang="tr">İkinci Dünya Savaşından sonra yok olan Bergen-Belsen esir kampını dijital olarak baştan inşa eden bilgisayar mühendisleri ile tanışın.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817204000 +0000" stop="20260817205500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Giang Kardeşler: Renowned Circus Performers</title><desc lang="tr">Giang kardeşler, inanılmaz sirk becerilerini kullanarak heyecan verici Guinness Dünya Rekorunu nasıl kırdıklarını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817205500 +0000" stop="20260817211000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Incredible Mallakhamb: Kadim Hint Cimnastiği</title><desc lang="tr">Müthiş Mallakhamb ekibi, Mallakhamb direğinde kadim becerilerini Guiness Dünya Rekoru&apos;na ulaşmak için nasıl kullandıklarını gösteriyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817211000 +0000" stop="20260817211500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Benim Robotum, Benim Arkadaşım</title><desc lang="tr">Eğlenceli ufak bir robot olan Casper, genç kanser hastalarının iyileşmesine pozitif etki sağlayabilecek mi?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817211500 +0000" stop="20260817212000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Daha Kaliteli Ekmek Yapmak</title><desc lang="tr">Acaba soğuk su sisi ekmeğin tadını ve yapısını arttırabilir mi? Bunu öğrenmek için Alman gıda teknologları ile buluştuk.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817212000 +0000" stop="20260817214500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kogelberg - Deniz İçin Kaynak</title><desc lang="tr">Gençler, korkutucu coşkun bir nehirden geçip, sonunda dev bir bitki krallığını keşfetmeden önce, zorlu bir arazide yola çıkıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817214500 +0000" stop="20260817215000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dış İskeletler</title><desc lang="tr">Havalı alüminyumdan yapılmış dış iskeletler, hastaların felçten sonra hareketliliğe kavuşmalarına yardımcı olmak için geliştirilmektedir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817215000 +0000" stop="20260817215500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dalış Robotları</title><desc lang="tr">Madencilik endüstrisinde kullanılan dalış robotları, insanlar için çok tehlikeli durumlarda çalışmak üzere geliştirilmişlerdir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817215500 +0000" stop="20260817221000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bitkiler nasıl yer?</title><desc lang="tr">Botaniği gökkuşağı renklerinden bir çiçek yaparak keşfeden usta J.C Bose&apos;nin, bitkilerin doğasıyla ilgili yaptığı çalışmaları görüyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817221000 +0000" stop="20260817222000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bükülen ışık</title><desc lang="tr">Işığın doğasını suyla yağı karıştırarak ortaya çıkaran ay ışığı yansımalarının aynaya benzediğini tespit eden Zhang Heng ile tanışacağız.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817222000 +0000" stop="20260817222500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mısır Bitkisi</title><desc lang="tr">Araştırmacılar, tarımsal ekosistemlerdeki çeşitliliği artırarak mahsul verimini,kalitesini ve tadını iyileştirmeye çalışıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817222500 +0000" stop="20260817223000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Nükleer Tarama</title><desc lang="tr">Küçük bir 3D harita tarayıcı, büyük yeraltı alanlarını gerçek zamanlı olarak haritalamak için geliştiriliyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817223000 +0000" stop="20260817224500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Alan Silva: Hava Akrobasi Sanatçısı</title><desc lang="tr">Hava kayışı akrobatı Alan Silva, nasıl zarif performanslara imza attığını ve akrobatik becerileriyle nasıl dünya rekoru kırdığını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817224500 +0000" stop="20260817225500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bonetics: Olağanüstü Akrobat</title><desc lang="tr">Akrobat Bonetics insanüstü yeteneklerini kullanarak, bacakları başının arkasında, elleri üzerinde yürüyerek Guinness Dünya Rekoru&apos;nu kırıyor</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817225500 +0000" stop="20260817230500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İyileştiren Zehirler</title><desc lang="tr">Avrupa’nın dört bir yanındaki araştırmacılar, zehir bazlı ilaçların diyabet ve alerjilerin çözümü olup olmadığını bulmaya çalışıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817230500 +0000" stop="20260817233500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Koca Çanta Teorisi</title><desc lang="tr">Bu bölümde temiz suyu ihtiyacı olmayan yerlerden ihtiyacı olan yerlere taşımanın hesaplı bir yolu olmadığını araştıracağız.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817233500 +0000" stop="20260817234000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Daha az atık, Daha çok Tat</title><desc lang="tr">Mikrobiyologlar, balıkların ayıklanmaları sırasında atılan parçalarının yenilebilir hale getirmek için bir yol arıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817234000 +0000" stop="20260817234500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tehlikeli Bir Hayata Kırmızı Kart</title><desc lang="tr">EuroFIT projesinin araştırmacıları maç izlerken formda kalmamıza yardımcı olacak yenilikçi teknolojiler geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817234500 +0000" stop="20260817235500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dağınık ışıklar</title><desc lang="tr">Işımayı hava sistemini yaratarak ve dağınık ışıkların uzun dalgayı değiştirebileceğini icat eden C.V Raman&apos;ı keşfederek öğreneceğiz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817235500 +0000" stop="20260818001000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Isı ve enerji</title><desc lang="tr">Enerjinin doğasını bir su balonunu ısıtarak ve ısının mekaniğini bulan James Presscott Jolue&apos;u tanıyarak keşfediyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818001000 +0000" stop="20260818001500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Beyninizi Eğitin</title><desc lang="tr">Beynin, felç hastalarının iyileşme sürecinde rol oynayabileceğine inanan bilimadamları yenilikçi Sanal Gerçeklik aletleri geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818001500 +0000" stop="20260818002000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Daha Yüksek Güç</title><desc lang="tr">Bu bölümde, düşük bir masrafla üç kilometre yükseklikten enerji transfer etmeyi başaran bir grup bilimadamıyla tanışıyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818002000 +0000" stop="20260818003500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Wes P: Dünyaca Ünlü Fiziksel Komedyen</title><desc lang="tr">Sosyal medya fenomeni Wes P, namı diğer Bay Uekusa, şaşırtıcı ve tuhaf becerileriyle nasıl dünya şampiyonu olduğunu anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818003500 +0000" stop="20260818004500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Andrew Basso: Büyüleyici Kaçış Ustası</title><desc lang="tr">Kaçış ustası Andrew Basso, ellerinden ve ayaklarından bağlıyken su tankından rekor sürede nasıl kaçmayı başardığını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818004500 +0000" stop="20260818005500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kabuklardan Domuzlara</title><desc lang="tr">Bu bölümde, bilimadamları yemek artıklarını hayvan yemi haline getirmenin güvenli, etkili ve endüstriyel yollarını arıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818005500 +0000" stop="20260818012500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kemik Yetiştirmek</title><desc lang="tr">Bilimadamları, yeni yenileyici tedavilerin geliştirilmesine ön ayak olacak kemik yenileyici aletler geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818012500 +0000" stop="20260818013000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Çevre Dostu Plastikler</title><desc lang="tr">Bu bölümde, araştırmacıların doğada yok olan torbalar ve konteynırları ürettiği İspanya Zaragoza’ya gidiyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818013000 +0000" stop="20260818013500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Hayal Edilemeyeni Görmek</title><desc lang="tr">İkinci Dünya Savaşından sonra yok olan Bergen-Belsen esir kampını dijital olarak baştan inşa eden bilgisayar mühendisleri ile tanışın.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818013500 +0000" stop="20260818014500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">DNA harikaları</title><desc lang="tr">DNA&apos;nızın bir kısmını çıkartarak genetik keşfediliyor ve kromozomları ilk bulanın Joe Hin Tjio olduğu ortaya çıkıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818014500 +0000" stop="20260818020000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İlgi çeken robotlar</title><desc lang="tr">Robotları kendi robotunuzu yaparak keşfetmek ve robot ustası Hiroshi Ishiguro kendini kopyalayan adam olarak biliniyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818020000 +0000" stop="20260818022000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Büyüyen Ayakkabılar</title><desc lang="tr">Sunucu Alie Ward; alışılmadık bir ızgarayı, bir cep telefonu kamera sabitleyicisini, büyüyebilen bir ayakkabıyı ve cilt kontrolünüz için bir akıllı telefon eklentisini tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818022000 +0000" stop="20260818024000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Termal Kameralar</title><desc lang="tr">Sunucu Alie Ward; bilimle yemek yapan bir şefi, stres azaltan bir kol bandını, ısı görüntüleyen bir cihazı ve bir çalar saat kilimini tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818024000 +0000" stop="20260818024500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mısır Bitkisi</title><desc lang="tr">Araştırmacılar, tarımsal ekosistemlerdeki çeşitliliği artırarak mahsul verimini,kalitesini ve tadını iyileştirmeye çalışıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818024500 +0000" stop="20260818025000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Nükleer Tarama</title><desc lang="tr">Küçük bir 3D harita tarayıcı, büyük yeraltı alanlarını gerçek zamanlı olarak haritalamak için geliştiriliyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818025000 +0000" stop="20260818031000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tebrik Kartları</title><desc lang="tr">Sunucu Alie Ward; açılır tebrik kartlarını, evsizler için teknolojik çadırlar yapan gençleri ve sıra dışı bir yük gemisini tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818031000 +0000" stop="20260818033000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Süzülen Hamak</title><desc lang="tr">Sunucu Alie Ward; gen bir araba tasarımcısını, süper hızlı bir diş fırçasını, sisi suya dönüştürmenin bir yolunu ve süzülen bir hamağı tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818033000 +0000" stop="20260818033500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İyileştiren Zehirler</title><desc lang="tr">Avrupa’nın dört bir yanındaki araştırmacılar, zehir bazlı ilaçların diyabet ve alerjilerin çözümü olup olmadığını bulmaya çalışıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818033500 +0000" stop="20260818034000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Koca Çanta Teorisi</title><desc lang="tr">Bu bölümde temiz suyu ihtiyacı olmayan yerlerden ihtiyacı olan yerlere taşımanın hesaplı bir yolu olmadığını araştıracağız.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818034000 +0000" stop="20260818040500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Loki’nin Kalesi</title><desc lang="tr">Nektonlar, Dark Orka denizaltısını ele geçirir. Ama korsanlar da Aronnax&apos;ı ele geçirir. Elbette kimse evlerinde yabancıları istememektedir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818040500 +0000" stop="20260818042500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tartaruga</title><desc lang="tr">Nektonlar yüzen bir adayı keşfeder ve eski Lemurya navigasyon cihazının parçalarını bulur. Peki, bu ada neden hareket ediyordur?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818042500 +0000" stop="20260818043000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Daha az atık, Daha çok Tat</title><desc lang="tr">Mikrobiyologlar, balıkların ayıklanmaları sırasında atılan parçalarının yenilebilir hale getirmek için bir yol arıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818043000 +0000" stop="20260818043500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tehlikeli Bir Hayata Kırmızı Kart</title><desc lang="tr">EuroFIT projesinin araştırmacıları maç izlerken formda kalmamıza yardımcı olacak yenilikçi teknolojiler geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818043500 +0000" stop="20260818044000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Siyah Muz</title><desc lang="tr">Munki ve Trunk, ormandaki en iyi arkadaşlardır. Küçük maceraları büyük boyutlara ulaşır, ancak dostluk ve eğlence galip gelir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818044000 +0000" stop="20260818050500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Ejderha Çukuru</title><desc lang="tr">Bir ejderha avı gezisinde Ant, muazzam bir gizeme dair ipuçları barındıran eski bir belge bulur.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818050500 +0000" stop="20260818052500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kara Orka</title><desc lang="tr">Kara Orca korsanları, Nektonların denizaltılarında nadir bir hazine olduğunu düşünüp, onlara saldırıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818052500 +0000" stop="20260818053000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tişört</title><desc lang="tr">Boom, Kırmızılar&apos;ın yere ne çizdiğini tahmin etmelidir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818053000 +0000" stop="20260818053500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Eldiven</title><desc lang="tr">Boom, Kırmızılar&apos;ın yere ne çizdiğini tahmin etmelidir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818053500 +0000" stop="20260818054500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Çim</title><desc lang="tr">Munki, Humph&apos;un çimlerinde saklambaç oynuyor. Trunk onu yakalamaya çalışırken çimi yırtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818054500 +0000" stop="20260818055000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Yokuş Aşağı Yarışı</title><desc lang="tr">Munki ve Trunk, ormandaki en iyi arkadaşlardır. Küçük maceraları büyük boyutlara ulaşır, ancak dostluk ve eğlence galip gelir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818055000 +0000" stop="20260818060500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kale Değişimi</title><desc lang="tr">Bob, kalesinin Bitz&apos;inkine daha çok benzemesini ister ve herkes yardıma koşar, ancak işler planlandığı gibi gitmez.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818060500 +0000" stop="20260818062000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Marmelat Kargaşası</title><desc lang="tr">Bitz, marmelatını Orman Kafe&apos;de sunmaktan heyecan duyuyor. Sorun şu ki, Zip ve Pop yemeği servis etmek yerine yiyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818062000 +0000" stop="20260818063500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mantar Sorunu</title><desc lang="tr">Trüf mantarı nedir? Ve eğer çok nadirlerse, nasıl bulacağız? Doki, Gabi, Mundi ve Fico, İtalya&apos;nın Toskana bölgesine gidiyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818063500 +0000" stop="20260818065500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İrlandalı Şansı</title><desc lang="tr">Anabella bir aynayı kırınca, şansının kötü gideceğinden endişe eder ve İrlanda dans resitaline katılmayı reddeder!</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818065500 +0000" stop="20260818071000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İşitme</title><desc lang="tr">Dr Chris ve Dr Xand size bir ses dalgası ile pirinç dansı yapmayı gösteriyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818071000 +0000" stop="20260818071500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kardeş Sevgisi</title><desc lang="tr">DiktaThor ve Kleopatra güç için savaşıyorlar. Sprinter şehri kurtarmaya ve iki kötü arasında barış sağlamaya çalışıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818071500 +0000" stop="20260818073000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Büyük Boom</title><desc lang="tr">Boom şimdiye kadarki en büyük planını yaptı. Boom&apos;u durdurmak ve Bhilka&apos;yı kurtarmak için dostlar ve düşmanlar bir araya gelmelidir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818073000 +0000" stop="20260818074000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Hazır, Kontrol Et</title><desc lang="tr">Beceri Şehri&apos;nde yarış günü. Bob, bir felaket gelip aracı dağılmaya başlayana kadar kupayı kazanmaya kararlıdır.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818074000 +0000" stop="20260818075500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Çöl Yolculuğu</title><desc lang="tr">Çölde bir yolculuğa çıkma zamanı. Ancak Bitz ve Purl, araçlarına aşırı mühendislik uyguladıklarında yarış yavaşlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818075500 +0000" stop="20260818081000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İnanılmaz Labirent</title><desc lang="tr">Mundi, yeteneğini kanıtlamak için İngiltere&apos;deki bir labirente gitmek ister. Doki zaten labirentten nasıl çıkıldığını merak ediyordu.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818081000 +0000" stop="20260818082500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Doki&apos;nin Yunusu</title><desc lang="tr">Fico, kendisi için ideal evcil hayvanın bir yunus olduğuna karar verdi. Ekip, bir tane bulmak için Avustralya kıyılarına uçar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818082500 +0000" stop="20260818085500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Gözümün Köşesinin Dışında</title><desc lang="tr">Doktorlar özel göz kaslarını keşfederler ve hastane animatörüyle tanışırlar.Chris kanının kök hücrelerini görmek için bir laboratuara gider.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818085500 +0000" stop="20260818090500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Arı - Duvarda Bir Tuğla Daha</title><desc lang="tr">Tembel Arı, kovanın peteklerini bitirmek için kendi başına bırakılır.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818090500 +0000" stop="20260818091500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Keşiş Yengeci - Ev Gibisi Yok</title><desc lang="tr">Keşiş Yengeci kabuğunu kaybettikten sonra dehşete kapılır.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818091500 +0000" stop="20260818093000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kemikler</title><desc lang="tr">Dr Chris ve Dr Xand kemiklerin nasıl büküleceğini gösteriyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818093000 +0000" stop="20260818095500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Yapay Zeka Programı</title><desc lang="tr">Yeni bir yapay zeka programı, Nektonları bir kürekçiyi kurtarmaktan alıkoyar. Ant, onu alt etmeyi başarabilecek ve günü kurtarabilecek mi?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818095500 +0000" stop="20260818102000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Okyanusun En Derini</title><desc lang="tr">Will ve Ant&apos;ın okyanusun en derin noktasından almak için uğraştıkları nesne, bekledikleri gibi değil. Aldatılmışlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818102000 +0000" stop="20260818102500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Yalnız Zaman</title><desc lang="tr">Arkadaşlar kişisel alana saygı duymayı öğrenir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818102500 +0000" stop="20260818103000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Uçurtma</title><desc lang="tr">Ollie uçurtmasıyla sabretmeyi öğrenir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818103000 +0000" stop="20260818104500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Çöl Yolculuğu</title><desc lang="tr">Çölde bir yolculuğa çıkma zamanı. Ancak Bitz ve Purl, araçlarına aşırı mühendislik uyguladıklarında yarış yavaşlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818104500 +0000" stop="20260818111000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Penguen Robotu</title><desc lang="tr">Sunucu Alie Ward; yenilikçi bir sörf parkını, havada süzülen şişirilebilir bir balığı, 3 boyutlu basılan heykelleri ve yavru bir penguen yavrusunu tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818111000 +0000" stop="20260818114000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bağışıklık Ordusu</title><desc lang="tr">Dr Chris ve Xand bağışıklık sisteminizi oluşturan inanılmaz mikrop savaşçılarını çıkarır.Bebek kuvözünün nasıl temizlendiğini öğrenirler.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818114000 +0000" stop="20260818120500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Altın Kız (Kelly Holmes) ve Astronot (Tim Peake)</title><desc lang="tr">Çifte Olimpiyat altın madalyası sahibi Kelly Holmes ve Avrupa Uzay Ajansı astronotu Tim Peake olağanüstü kariyerlerini anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818120500 +0000" stop="20260818122000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İlgi çeken robotlar</title><desc lang="tr">Robotları kendi robotunuzu yaparak keşfetmek ve robot ustası Hiroshi Ishiguro kendini kopyalayan adam olarak biliniyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818122000 +0000" stop="20260818125000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Büyük Çekişme</title><desc lang="tr">Bir grup genç maceracı, teleferikle Masa Dağı Ulusal Parkı&apos;nın zirvesine çıkıyor ve orada inanılmaz bitkiler ve hayvanlar buluyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818125000 +0000" stop="20260818130000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Leke</title><desc lang="tr">Tom Thomas’ın gömleğindeki boya lekesi, Nolik&apos;in onu nasıl çıkaracağına dair farklı fikirlerini denerken daha da kötüleşiyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818130000 +0000" stop="20260818130500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Sürtünme</title><desc lang="tr">Nolik, Tom Thomas&apos;la kızak yapmaya gidemediği için üzülüyor ve masanın üzerine yağ dökerek masanın süper kaygan olmasını sağlıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818130500 +0000" stop="20260818132000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Akciğerler</title><desc lang="tr">Dr Chris ve Dr Xand bu ev deneyinde akciğer kapasitesini ölçüyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818132000 +0000" stop="20260818134500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Loki’nin Kalesi</title><desc lang="tr">Nektonlar, Dark Orka denizaltısını ele geçirir. Ama korsanlar da Aronnax&apos;ı ele geçirir. Elbette kimse evlerinde yabancıları istememektedir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818134500 +0000" stop="20260818140000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Wes P: Dünyaca Ünlü Fiziksel Komedyen</title><desc lang="tr">Sosyal medya fenomeni Wes P, namı diğer Bay Uekusa, şaşırtıcı ve tuhaf becerileriyle nasıl dünya şampiyonu olduğunu anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818140000 +0000" stop="20260818141500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Andrew Basso: Büyüleyici Kaçış Ustası</title><desc lang="tr">Kaçış ustası Andrew Basso, ellerinden ve ayaklarından bağlıyken su tankından rekor sürede nasıl kaçmayı başardığını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818141500 +0000" stop="20260818145000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İçeriden görmek</title><desc lang="tr">Doktorlar neden geğirdiğimizi ve nasıl iyi bir ambulans şoförü olunduğunu tespit ederler. Dr Xand radyoloji bölümünü ziyaret eder.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818145000 +0000" stop="20260818150000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Canavar Dağı</title><desc lang="tr">Bob, Robot Bob Dağı&apos;nın tepesine tabelasını dikmek istiyor. Grup kar canavarlarıyla karşılaştığında yolculuk tehlikeli hale geliyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818150000 +0000" stop="20260818152500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Lüks Ağaç Evleri</title><desc lang="tr">Sunucu Alie Ward; ağaçlardaki köşkleri, parmak uçlarındaki ışıkları, su filtreleyen bir kitabı ve sıra dışı bir penguen yavrusunu tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818152500 +0000" stop="20260818155500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">İtfaiyeci (Sabrina Cohen-Hatton) ve Biyonik Adam (Mark Ormrod)</title><desc lang="tr">Kıdemli itfaiyeci ve yazar Sabrina Cohen-Hatton ve üç uzvunu kaybetmiş ve ödüllü Mark Ormrod, inanılmaz dayanıklılık hikayelerini paylaşıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818155500 +0000" stop="20260818162500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Pankres ve Postacı</title><desc lang="tr">Doktorlar pankreasın yaptığı inanılmaz görevi ortaya çıkarır ve hastane postacısıyla tanışırlar. Dr Xand bio camı araştırır.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818162500 +0000" stop="20260818164500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tartaruga</title><desc lang="tr">Nektonlar yüzen bir adayı keşfeder ve eski Lemurya navigasyon cihazının parçalarını bulur. Peki, bu ada neden hareket ediyordur?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818164500 +0000" stop="20260818171500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Yarı Kara Yarı Su</title><desc lang="tr">Dört genç maceracı, Güney Afrika&apos;daki West Coast Ulusal Parkı&apos;na gidiyor ve orada deniz kuşları ve yılanların dünyasını keşfediyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818171500 +0000" stop="20260818174500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">En İyisi (Roger Federer) ve Yarışçı (Danica Patrick)</title><desc lang="tr">Tenis efsanesi Roger Federer ve Indy 500 yıldızı Danica Patrick, dünyanın en iyisi olma hikayelerini paylaşıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818174500 +0000" stop="20260818180000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Giang Kardeşler: Renowned Circus Performers</title><desc lang="tr">Giang kardeşler, inanılmaz sirk becerilerini kullanarak heyecan verici Guinness Dünya Rekorunu nasıl kırdıklarını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818180000 +0000" stop="20260818182500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Yıldız (Julia Roberts) ve Dövüşçü (Wladimir Klitschko)</title><desc lang="tr">Oscar ödüllü aktris Julia Roberts ve eski dünya ağır sıklet boks şampiyonu Wladimir Klitschko zirveye giden yolculuklarını anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818182500 +0000" stop="20260818185000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Sörf Parkı</title><desc lang="tr">Sunucu Alie Ward; yenilikçi bir Sörf Parkı&apos;nı, evcil hayvan teknolojisini, masaj koltuklarını ve Meksika otobanlarındaki dikey bahçeleri tanıtıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818185000 +0000" stop="20260818185500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Sünger Levrek</title><desc lang="tr">Sünger levrek yapabilir misiniz? Parmaklarınıza dikkat edin.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818185500 +0000" stop="20260818190000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Komik Parmak Kuklası</title><desc lang="tr">Komik Parmak Kuklası yapın.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818190000 +0000" stop="20260818190500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Mucize Değişim</title><desc lang="tr">İki resmi karıştırıp nasıl bir resim yaparsınız? Başınızı döndürecek bir görsel yanılsamayla size göstereceğiz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818190500 +0000" stop="20260818191000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Beyninizi Eğitin</title><desc lang="tr">Beynin, felç hastalarının iyileşme sürecinde rol oynayabileceğine inanan bilimadamları yenilikçi Sanal Gerçeklik aletleri geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818191000 +0000" stop="20260818191500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Daha Yüksek Güç</title><desc lang="tr">Bu bölümde, düşük bir masrafla üç kilometre yükseklikten enerji transfer etmeyi başaran bir grup bilimadamıyla tanışıyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818191500 +0000" stop="20260818192000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Misket Labirenti</title><desc lang="tr">Nasıl müthiş bir misket labirenti yaparsınız? Kaybolmamanız için size adım adım göstereceğiz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818192000 +0000" stop="20260818192500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">New Green Materials</title><desc lang="tr">Avrupalı bilim insanları ve girişimciler tarafından geliştirilen müthiş heyecan verici ürünlerden bazılarına göz atın.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818192500 +0000" stop="20260818193000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kabuklardan Domuzlara</title><desc lang="tr">Bu bölümde, bilimadamları yemek artıklarını hayvan yemi haline getirmenin güvenli, etkili ve endüstriyel yollarını arıyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818193000 +0000" stop="20260818193500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kemik Yetiştirmek</title><desc lang="tr">Bilimadamları, yeni yenileyici tedavilerin geliştirilmesine ön ayak olacak kemik yenileyici aletler geliştiriyorlar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818193500 +0000" stop="20260818195500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Kaleci (Maddie Hinch) ve Kâşif (Ranulph Fiennes)</title><desc lang="tr">Dünyanın en iyi çim hokeyi kalecisi Maddie Hinch ve dünyaca ünlü kâşif Ranulph Fiennes, rekor kıran yolculuklarını paylaşıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818195500 +0000" stop="20260818200000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Çevre Dostu Plastikler</title><desc lang="tr">Bu bölümde, araştırmacıların doğada yok olan torbalar ve konteynırları ürettiği İspanya Zaragoza’ya gidiyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818200000 +0000" stop="20260818200500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Hayal Edilemeyeni Görmek</title><desc lang="tr">İkinci Dünya Savaşından sonra yok olan Bergen-Belsen esir kampını dijital olarak baştan inşa eden bilgisayar mühendisleri ile tanışın.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818200500 +0000" stop="20260818202000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bitkiler nasıl yer?</title><desc lang="tr">Botaniği gökkuşağı renklerinden bir çiçek yaparak keşfeden usta J.C Bose&apos;nin, bitkilerin doğasıyla ilgili yaptığı çalışmaları görüyoruz.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818202000 +0000" stop="20260818203000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Bükülen ışık</title><desc lang="tr">Işığın doğasını suyla yağı karıştırarak ortaya çıkaran ay ışığı yansımalarının aynaya benzediğini tespit eden Zhang Heng ile tanışacağız.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818203000 +0000" stop="20260818203500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Benim Robotum, Benim Arkadaşım</title><desc lang="tr">Eğlenceli ufak bir robot olan Casper, genç kanser hastalarının iyileşmesine pozitif etki sağlayabilecek mi?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818203500 +0000" stop="20260818204000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Daha Kaliteli Ekmek Yapmak</title><desc lang="tr">Acaba soğuk su sisi ekmeğin tadını ve yapısını arttırabilir mi? Bunu öğrenmek için Alman gıda teknologları ile buluştuk.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818204000 +0000" stop="20260818205500 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Tori Boggs: Atlama İpi Şampiyonu</title><desc lang="tr">Efsanevi atlama ipçisi Tori Boggs, rekor kıran atlama becerilerinin dünyanın en iyisi olmasına nasıl yardımcı olduğunu gösteriyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260818205500 +0000" stop="20260818211000 +0000" channel="DaVinci.de@SD">
-    <title lang="tr">Dashaun Morris: Amerian Futbolu Fenomeni</title><desc lang="tr">American football player Dashaun Morris II demonstrates his world record one-handed ball-catching skills.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
-  </programme>
   <programme start="20260816212500 +0000" stop="20260816222000 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Keops&apos;un Sırları</title><desc lang="tr">Keops&apos;un Büyük Piramidi, tüm Firavun yapıları arasında en yüksek, en büyük ve en gizemli olanıdır. 45 yüzyıl sonra gizem hâlâ devam ediyor: piramit gerçekte nasıl inşa edildi? Fransız mimar Jean-Pierre Houdin araştırıyor. Sanki her şeyi kendisi yeniden inşa edecekmiş gibi anıtı uzman gözüyle inceledi. Yeni teknolojinin yardımıyla şimdi devrimci bir çözüm sunuyor. Büyük Piramit&apos;in gizemini çözmeyi başardı mı?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category>
   </programme>
@@ -18832,57 +17596,6 @@
   <programme start="20260818201500 +0000" stop="20260818211000 +0000" channel="TarihTV.tr@SD">
     <title lang="tr">Tarihin Dijital İzleri</title><desc lang="tr">Bu altı bölümlük belgesel serisi, arkeolojiyi ileri teknolojiyle bir araya getirerek antik dünyanın gizli kalmış hikâyelerini gün yüzüne çıkarıyor. Yapım, insanlık tarihine dair bilinmeyenleri keşfetmek için lidar, radar ve 3D görüntüleme gibi modern teknolojilerden yararlanıyor.</desc><category lang="tr">Sinema</category><category lang="tr">Bilim-kurgu</category>
   </programme>
-  <programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Emsal Doğan İle Güzelliğin Geçeği</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817020000 +0000" stop="20260817060000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Bende Varım</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817070000 +0000" stop="20260817090000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Sahne Arası</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817100000 +0000" stop="20260817110000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Zeynep Yılmazok İle Yerinde Lezzet</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817110000 +0000" stop="20260817120000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Bin Dava Bin Çözüm</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817120000 +0000" stop="20260817140000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Sahne Arası</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817150000 +0000" stop="20260817160000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Yasemin Tekin Bire Bir</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817160000 +0000" stop="20260817190000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Afet Gündemi</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260817200000 +0000" stop="20260817230000 +0000" channel="679b51bdcfef0b3744a77893">
-    <title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category>
-  </programme>
   <programme start="20260816214500 +0000" stop="20260816220000 +0000" channel="TRT2.tr@SD">
     <title lang="tr">Öz&apos;ün Yolculuğu Bölüm 13</title><desc lang="tr">Öz&apos;ün Yolculuğu programında bu bölüm taş restoratörü Dr. Halit S. Canon, bu mesleğe nasıl başladığını, hangi eserleri restore ettiğini ve restorasyon süreçlerinin neler olduğunu anlatıyor.</desc>
   </programme>
@@ -19203,6 +17916,216 @@
   </programme>
   <programme start="20260818200000 +0000" stop="20260818230000 +0000" channel="TRT4K.tr@SD">
     <title lang="tr">Vuslat Bölüm 31</title><desc lang="tr">Aziz, şüphelerinden arınmasının tek yolunun Necmi&apos;nin verdiği görevi yerine getirmekten geçtiğini anlar. Tuzağa düşürüldüğü yere geri döndüğünde gizli düşmanının sembolüyle karşılaşır. Kerem, Bülent&apos;le karşı karşıya geldikten sonra kendisine söylenen yalanların peşine düşer.</desc>
+  </programme>
+  <programme start="20260816210500 +0000" stop="20260816220000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Tuhaf Vahşi Ve Harikulade</title>
+  </programme>
+  <programme start="20260816220000 +0000" stop="20260816225500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">İlkbahar Öyküleri</title>
+  </programme>
+  <programme start="20260816225500 +0000" stop="20260816235000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Çita Sürüsü Bölüm 3</title>
+  </programme>
+  <programme start="20260816235000 +0000" stop="20260817004500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Kaya Kartalı &quot;Vahşi Yaşamın Çağrısı&quot; Bölüm 2</title>
+  </programme>
+  <programme start="20260817004500 +0000" stop="20260817014000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Ulak Bölüm 17</title><desc lang="tr">Serdar Kılıç yolculuğuna Nepal&apos;de devam ediyor... Katmandu&apos;dan yola çıkarak Himalaya Dağları&apos;nın en yüksek zirvelerinden biri olan Annapurna Dağı&apos;na doğru yol alıyor. Kılıç&apos;ın macera dolu yolculuğu TRT Belgesel ekranlarında!</desc>
+  </programme>
+  <programme start="20260817014000 +0000" stop="20260817023000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Çocuğum İçin Bölüm 1</title><desc lang="tr">Bir Amazon yerlisi olan Jose, ormanda bulduğu bir çocukları evlat edinir. Bir yandan kendi kültürüne sahip çıkmaya çalışan Jose, diğer yandan kendi insanlarını eleştirir. Bu ruh haliyle ailesini büyütmeye çalışır.</desc>
+  </programme>
+  <programme start="20260817023000 +0000" stop="20260817030000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Doğu&apos;nun Kayıp Silüetleri Bölüm 27</title><desc lang="tr">Doğu&apos;nun Kayıp Silüetleri kimsenin bilmediği, gizli kalmış bölgelerde süren hayatlara tanıklık etmeye devam ediyor. Zardali... Kırgızistan&apos;ın güneybatı sınırında yer alan Batken bölgesine bağlı bir köy. Tacikistan&apos;a sınır olan bu köy, Korgun Dağlarının eteklerinde ve Sokh Nehri kenarında bulunan bir vadide yer alıyor. Uçsuz bucaksız dağların arasında yaşayan köy halkını, çetin geçen kış şartları &quot;ölüm yoluna&quot; mecbur bırakıyor.</desc>
+  </programme>
+  <programme start="20260817030000 +0000" stop="20260817035500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Dev Pandanın Yolculuğu</title>
+  </programme>
+  <programme start="20260817035500 +0000" stop="20260817035800 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Tanıtım</title>
+  </programme>
+  <programme start="20260817035800 +0000" stop="20260817040000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">İstiklal Marşı</title>
+  </programme>
+  <programme start="20260817040000 +0000" stop="20260817043500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Antika Dedektifi Bölüm 21</title>
+  </programme>
+  <programme start="20260817043500 +0000" stop="20260817051000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Sıfır Atık Bölüm 5</title><desc lang="tr">Doğan Akdoğan&apos;la bu bölümde, çevre kirliliğinin hızla arttığı günümüzde metal atıkların çevreye verdiği zararları öğrenecek ve onların geri dönüşüm sürecine tanıklık edeceğiz.</desc>
+  </programme>
+  <programme start="20260817051000 +0000" stop="20260817055500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yeni Köylü 1/3</title><desc lang="tr">İstanbul&apos;dan Arhavi&apos;nin Dereüstü köyüne göçerek köy hayatı yaşayan Gülmenek Karabulut ve Zeki Karabulut çiftinin hikayesi anlatılıyor.</desc>
+  </programme>
+  <programme start="20260817055500 +0000" stop="20260817064500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Büyülü Ormanların Sırları Bölüm 1</title>
+  </programme>
+  <programme start="20260817064500 +0000" stop="20260817071500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Su Altı Ustaları Bölüm 21</title>
+  </programme>
+  <programme start="20260817071500 +0000" stop="20260817080500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Lezzet Türevleri Bölüm 6</title>
+  </programme>
+  <programme start="20260817080500 +0000" stop="20260817084000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Kronovizör Bölüm 21</title><desc lang="tr">İnsanlığın en eski becerileri olan ateş ve suyu kullanma bilgisi ekranlara taşınıyor. Arşimet&apos;ten Newton&apos;a önemli bilim insanlarının çalışmaları, Galileo&apos;nun termometresinden Toraçelli&apos;nin barometresine büyük atılımları, buhar makinesinin icadından sıcak hava balonuna tüm büyük icatlar büyük bilimsel formüllerle birlikte inceleniyor. Ateşin ve suyun on binlerce yıllık hikayesi &apos;&apos;Kronovizör - Ateş ve Su&apos;&apos; bölümünde...</desc>
+  </programme>
+  <programme start="20260817084000 +0000" stop="20260817085500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Doğanın Saklı Hazineleri Bölüm 1</title>
+  </programme>
+  <programme start="20260817085500 +0000" stop="20260817092500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Doğu&apos;nun Kayıp Silüetleri Bölüm 28</title><desc lang="tr">Sarı-Bulak Köyü... Kırgizistan&apos;ın Narin iline bağlı, Tanrı Dağları&apos;nda Koçkor ile Narin şehri arasında yer alan bir dağ köyü. Sarp kayalıkların arasında şehirden uzak olan bu köyde okula gitmek isteyen 10 yaşındaki Fatma her gün tüm zorlukları aşarak okuluna ulaşıyor. Doğu&apos;nun Kayıp Silüetleri ise kimsenin bilmediği bu hayatlara tanıklık etmenizi sağlamaya devam ediyor.</desc>
+  </programme>
+  <programme start="20260817092500 +0000" stop="20260817100000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Forma Balkan &apos;&apos;Gönül Sahaları&apos;&apos; Bölüm 10</title>
+  </programme>
+  <programme start="20260817100000 +0000" stop="20260817103000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yeşil Güzergah</title>
+  </programme>
+  <programme start="20260817103000 +0000" stop="20260817112500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Güney Afrika&apos;nın Vahşi Doğası</title>
+  </programme>
+  <programme start="20260817112500 +0000" stop="20260817120000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yok Olmadan Keşfet 34/12</title><desc lang="tr">Çağan Şekercioğlu bu bölümde dünyanın en güzel şehirlerinden biri olan İstanbul&apos;da. Bu şehirde sadece insan kalabalığını değil, deniz canlılarından, böceklerden ve kuşlardan oluşan birçok farklı türü de bulabilirsiniz. Tabi, doğru yere bakarsanız.</desc>
+  </programme>
+  <programme start="20260817120000 +0000" stop="20260817125500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Gölge Diyarlar Bölüm 1</title>
+  </programme>
+  <programme start="20260817125500 +0000" stop="20260817132500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Hasat Vakti Bölüm 2</title>
+  </programme>
+  <programme start="20260817132500 +0000" stop="20260817135500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Tuna Boyu Günlükleri Bölüm 5</title><desc lang="tr">Sırbistan&apos;ın Gradac köyünde ailesi ile yaşayan Beşir ve Makedonya&apos;nın Dorfullu köyünde geleneksel yöntemlerle arıcılık yapan Hatice&apos;nin hikayesi &apos;&apos;Tuna Boyu Günlükleri&apos;&apos;ne ev sahipliği yapıyor.</desc>
+  </programme>
+  <programme start="20260817135500 +0000" stop="20260817145000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Ailenin Yeni Üyesi 18/12</title><desc lang="tr">Reshad Strik bu bölümde Egzotik bir coğrafyaya, okyanus ve çölün tam ortasındaki kızıl şehir Marakeş&apos;e gidiyor. Fas&apos;ın renkli kültürüne tanıklık edecek olan Reshad, çöl savaşçıları ile at koşturacak, geleneksel ritimlerle dans edecek, şifa için bir çöl ejderinin peşine düşecek, sabanla tarla sürecek . Fas mutfağının ünlü yemeğini Tajin&apos;i tadacak, ferhalatıcı nane çayı ile yorgunluğunu atacak.</desc>
+  </programme>
+  <programme start="20260817145000 +0000" stop="20260817152500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Gümrük 24 Saat Bölüm 20</title>
+  </programme>
+  <programme start="20260817152500 +0000" stop="20260817163500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Şehirden Uzakta Bölüm 47</title><desc lang="tr">Yüzlerce yıldır süren bir gelenek, meşhur ayak yağı... Kıvanç Kasabalı bu kez zeytinin vatanı, efelerin diyarı Aydın&apos;ın Tekeler Köyü&apos;nde! Tamamen doğal yöntemlerle elde edilen zeytinyağının lezzetini siz de merak edeceksiniz. Kıvanç, değirmeni döndürecek, kadifenin ayağına çakılacak naldan, vurulacak semere kadar tüm detayları eksiksiz bir şekilde tamamlamaya çalışacak. Tekelerin efeleriyle önce futbol, sonra da zeybek oynayacak. Dağların ardında yer alan ve enerjik insanların yaşadığı o huzurlu köye gitmeye hazır olun.</desc>
+  </programme>
+  <programme start="20260817163500 +0000" stop="20260817170500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yiyeceğin Serüveni Bölüm 56</title><desc lang="tr">Yiyeceğin Serüveni&apos;nin bu bölümünde, UNESCO&apos;nun tescilli gastronomi şehri Afyonkarahisar&apos;dayız. Birçok özel zaman için hazırlanan, her öğün tüketilebilen Şuhut Keşkeği, farklı bir aroması olan manda kaymağı, kaymaklı ekmek kadayıfı, bükmesi, ağzı açığı ve göce köftesiyle lezzeti bol bir bölüm sizlerle olacak.</desc>
+  </programme>
+  <programme start="20260817170500 +0000" stop="20260817180000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Anadolu İnsanı Bölüm 15</title><desc lang="tr">Denizli&apos;nin Baklan bölgesindeki dağların serin sularını yaşatan çeşmelerin bakım ve onarımını sevgiyle üstlenen Önder, Mersin Silifke&apos;nin büyüleyici Aşağı Dünya Obruğu&apos;nun yakınlarında yaşamlarını hayvancılıkla sürdüren Ahmet ve Döne, İzmir Tire Başköy&apos;ün bereketli doğasından faydalanarak Tire pazarında yirmi yıllık bir serüvene imza atan Binnaz, Balıkesir Havran&apos;da tıbbi aromatik bitkilerin gizemli dünyasına babasından miras aldığı bitki sevgisini yaşatarak devam eden Nazım Tanrıkulu ve Hatay&apos;ın eşsiz Harbiye Şelalesi&apos;nde yarım asrı aşkın bir süredir serpantin taşına ruhunu işleyen İsa Usta. &apos;&apos;Anadolu İnsanı&apos;&apos; ilham verici hikayeleriyle ekranlarınızda.</desc>
+  </programme>
+  <programme start="20260817180000 +0000" stop="20260817184000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Derinlerdeki Hayat Bölüm 2</title>
+  </programme>
+  <programme start="20260817184000 +0000" stop="20260817194000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Büyük Mücadele 4/13</title><desc lang="tr">Her bölümünde farklı ülkelerde, yoksulluk sınırında yaşayan insanların hayatlarını ekrana getiren Büyük Mücadele, bu bölümünde; Nijer&apos;de çölün ortasında, aylarca yerin altından ilkel yollarla altın çıkarmaya çalışan İbrahim ve ekibinin, Tanzanya&apos;da Hint Okyanusu&apos;nda şiddetli dalgalarında balık tutmaya çalışan Feyruz&apos;un ve Güney Asya&apos;da Kamboçya&apos;da son ipek böceği yetiştiricilerinden olan Rin&apos;in yaşam mücadelesini veriyor.</desc>
+  </programme>
+  <programme start="20260817194000 +0000" stop="20260817203500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Ağaçkakanlar: Bir Kovuk Hikayesi</title>
+  </programme>
+  <programme start="20260817203500 +0000" stop="20260817210500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yeşil Güzergah</title>
+  </programme>
+  <programme start="20260817210500 +0000" stop="20260817215500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Büyülü Ormanların Sırları Bölüm 1</title>
+  </programme>
+  <programme start="20260817215500 +0000" stop="20260817225000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Gölge Diyarlar Bölüm 1</title>
+  </programme>
+  <programme start="20260817225000 +0000" stop="20260817232000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Doğu&apos;nun Kayıp Silüetleri Bölüm 28</title><desc lang="tr">Sarı-Bulak Köyü... Kırgizistan&apos;ın Narin iline bağlı, Tanrı Dağları&apos;nda Koçkor ile Narin şehri arasında yer alan bir dağ köyü. Sarp kayalıkların arasında şehirden uzak olan bu köyde okula gitmek isteyen 10 yaşındaki Fatma her gün tüm zorlukları aşarak okuluna ulaşıyor. Doğu&apos;nun Kayıp Silüetleri ise kimsenin bilmediği bu hayatlara tanıklık etmenizi sağlamaya devam ediyor.</desc>
+  </programme>
+  <programme start="20260817232000 +0000" stop="20260818001000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Lezzet Türevleri Bölüm 6</title>
+  </programme>
+  <programme start="20260818001000 +0000" stop="20260818004500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yok Olmadan Keşfet 34/12</title><desc lang="tr">Çağan Şekercioğlu bu bölümde dünyanın en güzel şehirlerinden biri olan İstanbul&apos;da. Bu şehirde sadece insan kalabalığını değil, deniz canlılarından, böceklerden ve kuşlardan oluşan birçok farklı türü de bulabilirsiniz. Tabi, doğru yere bakarsanız.</desc>
+  </programme>
+  <programme start="20260818004500 +0000" stop="20260818014000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Güney Afrika&apos;nın Vahşi Doğası</title>
+  </programme>
+  <programme start="20260818014000 +0000" stop="20260818021000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Tuna Boyu Günlükleri Bölüm 5</title><desc lang="tr">Sırbistan&apos;ın Gradac köyünde ailesi ile yaşayan Beşir ve Makedonya&apos;nın Dorfullu köyünde geleneksel yöntemlerle arıcılık yapan Hatice&apos;nin hikayesi &apos;&apos;Tuna Boyu Günlükleri&apos;&apos;ne ev sahipliği yapıyor.</desc>
+  </programme>
+  <programme start="20260818021000 +0000" stop="20260818024000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yiyeceğin Serüveni Bölüm 56</title><desc lang="tr">Yiyeceğin Serüveni&apos;nin bu bölümünde, UNESCO&apos;nun tescilli gastronomi şehri Afyonkarahisar&apos;dayız. Birçok özel zaman için hazırlanan, her öğün tüketilebilen Şuhut Keşkeği, farklı bir aroması olan manda kaymağı, kaymaklı ekmek kadayıfı, bükmesi, ağzı açığı ve göce köftesiyle lezzeti bol bir bölüm sizlerle olacak.</desc>
+  </programme>
+  <programme start="20260818024000 +0000" stop="20260818032000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Derinlerdeki Hayat Bölüm 2</title>
+  </programme>
+  <programme start="20260818032000 +0000" stop="20260818035500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Forma Balkan &apos;&apos;Gönül Sahaları&apos;&apos; Bölüm 10</title>
+  </programme>
+  <programme start="20260818035500 +0000" stop="20260818035800 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Tanıtım</title>
+  </programme>
+  <programme start="20260818035800 +0000" stop="20260818040000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">İstiklal Marşı</title>
+  </programme>
+  <programme start="20260818040000 +0000" stop="20260818043500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Antika Dedektifi Bölüm 22</title>
+  </programme>
+  <programme start="20260818043500 +0000" stop="20260818051000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Sıfır Atık Bölüm 6</title><desc lang="tr">İnsanoğlunun en temel ihtiyacı yiyeceklerdir. Bu yiyeceklerde sıklıkla yağlar kullanılır. Peki, bu yiyeceklerle işimiz bittiğinde yağları ne yapıyoruz? Doğan Akdoğan bu bölümde, hayatımızda yer edinmiş olan atık yağların çevreye verdiği zararı ve geri dönüşüm sürecini işliyor.</desc>
+  </programme>
+  <programme start="20260818051000 +0000" stop="20260818060500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yeni Köylü 2/3</title><desc lang="tr">Şehir yaşamından uzaklaşarak köy yaşamına geçiş yapan İsmail ve Reyhan Yenigün çiftinin yaşam öyküsü anlatılıyor.</desc>
+  </programme>
+  <programme start="20260818060500 +0000" stop="20260818070000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Büyülü Ormanların Sırları Bölüm 2</title>
+  </programme>
+  <programme start="20260818070000 +0000" stop="20260818073500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Su Altı Ustaları Bölüm 22</title>
+  </programme>
+  <programme start="20260818073500 +0000" stop="20260818082500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Lezzet Türevleri Bölüm 7</title>
+  </programme>
+  <programme start="20260818082500 +0000" stop="20260818090000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Kronovizör Bölüm 22</title><desc lang="tr">Tıp biliminin gelişiminin 30.000 yıllık bilinen tarihi ekranlara taşınıyor. Hipokrat&apos;tan Galen&apos;e, İbni Sina&apos;dan Pasteur&apos;e önemli bilim insanlarının çalışmaları; Vesalius&apos;un anatomi modelinden Harvey&apos;in dolaşım sistemini keşfine tıp alanındaki büyük atılımları; ilk stetoskoptan ilk tansiyon cihazına, ilk kan naklinden seruma, ilk X-Ray filminden tomografiye büyük bilimsel icatlar sizlerle buluşuyor. Tıp bilgisi ve medikalin binlerce yıllık hikayesi &apos;&apos;Kronovizör - Tıp&apos;&apos; bölümünde...</desc>
+  </programme>
+  <programme start="20260818090000 +0000" stop="20260818091500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Doğanın Saklı Hazineleri Bölüm 2</title>
+  </programme>
+  <programme start="20260818091500 +0000" stop="20260818094500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Doğu&apos;nun Kayıp Silüetleri Bölüm 29</title><desc lang="tr">Doğu&apos;nun Kayıp Silüetleri gayretin ve umudun bir arada olduğu, dağların gökyüzü ile birleştiği bölgelerde devam eden insanların hayat öykülerine tanıklık etmeye devam ediyor. Koçkor... Kırgizistan&apos;ın Narin Bölgesi&apos;ne bağlı bir kasaba. Kasabada yaşayan 33 yaşındaki Taland doğuştan cüce hastalığıyla dünyaya geldi. O, gerçeğinden ayırt edilemeyen oyuncak kamyonlarını yapmak için tüm zorlukların üstesinden geliyor.</desc>
+  </programme>
+  <programme start="20260818094500 +0000" stop="20260818102000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Forma Balkan &apos;&apos;Gönül Sahaları&apos;&apos; Bölüm 11</title>
+  </programme>
+  <programme start="20260818102000 +0000" stop="20260818105000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Hasat Vakti Bölüm 2</title>
+  </programme>
+  <programme start="20260818105000 +0000" stop="20260818114500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Ağaçkakanlar: Bir Kovuk Hikayesi</title>
+  </programme>
+  <programme start="20260818114500 +0000" stop="20260818123500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yok Olmadan Keşfet 35/12</title><desc lang="tr">Yok Olmadan Keşfet ekibi bu bölümde Ardahan Posof&apos;ta Kafkas Arısı&apos;nın peşinde. Prof. Dr. Çağan Şekercioğlu Kafkas Dağları coğrafyasında yaşayan bu özel türü görüntülemek için Prof. Dr. İrfan Kandemir&apos;den destek alıyor.</desc>
+  </programme>
+  <programme start="20260818123500 +0000" stop="20260818133000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Gölge Diyarlar Bölüm 2</title>
+  </programme>
+  <programme start="20260818133000 +0000" stop="20260818142500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Gizemli Tarih &quot;Troya&quot;</title>
+  </programme>
+  <programme start="20260818142500 +0000" stop="20260818145500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Tuna Boyu Günlükleri Bölüm 6</title>
+  </programme>
+  <programme start="20260818145500 +0000" stop="20260818155500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Ailenin Yeni Üyesi 19/12</title><desc lang="tr">Reshad Strik bu bölümde dünyanın en geniş çölü Büyük Sahra‘dan geçerek, Fas&apos;ın güneyindeki Sou-Massa bölgesinde yer alan bir kasabaya, Tiznit&apos;e gidiyor. Ev sahibi Ali‘nin futbol aşkına tanıklık eden Reshad, Ali&apos;nin futbol öğrettiği çocuklarla bir takım kurarak sokak futbolu oynuyor. Fas‘ın önemli geçim kaynaklarından Argan Yağını yapan evin hanımlarına yardım ediyor. Onun için düzenlenen geleneksel bir gecede müziğin ritmine kendini kaptırıyor. Ve Ali‘ye çiftlikteki işlerinde yardımcı oluyor.</desc>
+  </programme>
+  <programme start="20260818155500 +0000" stop="20260818165500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Dev Kanatlar: Kara Akbaba</title>
+  </programme>
+  <programme start="20260818165500 +0000" stop="20260818180000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Şehirden Uzakta Bölüm 46</title><desc lang="tr">Ardahan Çıldır&apos;ın deniz seviyesinden 2000 metre yükseklikteki harika doğasına tanık olma zamanı... Kıvanç Kasabalı bu kez Çıldır Gölü&apos;nün kıyısında yer alan Gölbelen&apos;de. Altı ay kış yaşanan bu bölgede, yılın en soğuk dönemi ve Çıldır gölü buz tutmuş durumda. Hava sıcaklığı eksi on beş olsa da buz tutmuş bir göle ağ atmaktan ahır işlerine, hamile inek Panar&apos;ın saat başı kontrolüne kadar yapacak pek çok iş var.</desc>
+  </programme>
+  <programme start="20260818180000 +0000" stop="20260818183000 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Yiyeceğin Serüveni Bölüm 25</title><desc lang="tr">Peynir. Sofralarımızın vazgeçilmez kalsiyum deposu. Sağlıklı beslenmenin önde gelen aktörü. Enerji değeri en yüksek gıdalardan biri olan peynirler, coğrafik özellikler ve mevsimlerin süresi gibi doğal koşullar sebebiyle birçok farklı şekilde birçok farklı tatta karşımıza çıkar. Yeni beslenme alışkanlıklarına uygun, keyifle tüketilebilecek ürünler günümüzde tercih sebebi. Bu bölümde, gelişen teknolojiyle birlikte, yenilikçi tarzda üretilen peynirleri işleyeceğiz.</desc>
+  </programme>
+  <programme start="20260818183000 +0000" stop="20260818192500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Arktik Bölgesi &quot;Tehlike Altındaki Sığınak&quot;</title>
+  </programme>
+  <programme start="20260818192500 +0000" stop="20260818202500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">67 49 32 Kuzey</title>
+  </programme>
+  <programme start="20260818202500 +0000" stop="20260818232500 +0000" channel="TRTBelgesel.tr@SD">
+    <title lang="tr">Esme</title>
   </programme>
   <programme start="20260816221500 +0000" stop="20260816232000 +0000" channel="TRTKurdi.tr@SD">
     <title lang="tr">Klasik Kürt Edebiyatı Bölüm 4</title>
