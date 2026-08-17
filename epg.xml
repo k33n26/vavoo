@@ -919,9 +919,6 @@
   <channel id="8310527316ed669cb8b77">
     <display-name>CINE 1 .c</display-name>
   </channel>
-  <channel id="2660902091c248c72d0cd6">
-    <display-name>D Ğ N TV (GERMANY) .b</display-name>
-  </channel>
   <channel id="3983067532b2b6b5e2298f">
     <display-name>DA VINC KIDS HD .b</display-name>
   </channel>
@@ -977,9 +974,6 @@
   </channel>
   <channel id="385304349522b5e6fe1462">
     <display-name>DREAM BEIN OFFICE 10 .b</display-name>
-  </channel>
-  <channel id="382239321182403c667cfc">
-    <display-name>DREAM BEIN OFFICE 2 .b</display-name>
   </channel>
   <channel id="373642004344d287985a44">
     <display-name>DREAM BEIN OFFICE 3 .b</display-name>
@@ -1047,9 +1041,6 @@
   </channel>
   <channel id="127844757686ca7d664ae5">
     <display-name>DIGI MAX .s</display-name>
-  </channel>
-  <channel id="1104559360fc7735351211">
-    <display-name>DIGI MAX 2 .s</display-name>
   </channel>
   <channel id="1072972009ade9e4b4a779">
     <display-name>DIM TV .c</display-name>
@@ -1255,9 +1246,6 @@
   <channel id="1134525301f8ecc928b4b1">
     <display-name>ENO WESTERN .s</display-name>
   </channel>
-  <channel id="34986587209d7d94f684e5">
-    <display-name>ER TV .b</display-name>
-  </channel>
   <channel id="29014575503efc1f62c0c9">
     <display-name>ERCIS TV .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=2901457550.png"/>
@@ -1360,9 +1348,6 @@
   </channel>
   <channel id="3814925371b27457afc78f">
     <display-name>EXXEN TV SPOR 1 UHD .b</display-name>
-  </channel>
-  <channel id="3377046146a9c27858fc04">
-    <display-name>EXXEN TV SPOR 2 HD .b</display-name>
   </channel>
   <channel id="3673037054bbf23da360dd">
     <display-name>EXXEN TV SPOR 2 UHD .b</display-name>
@@ -1523,10 +1508,6 @@
     <display-name>GRT TV .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=2577534278.png"/>
   </channel>
-  <channel id="424042932536399e482d69">
-    <display-name>GS TV .s</display-name>
-    <icon src="https://i.imgur.com/fC3KuwT.jpg"/>
-  </channel>
   <channel id="454047044e689f6c02bf8">
     <display-name>GUNEYDOGU .s</display-name>
   </channel>
@@ -1612,13 +1593,6 @@
   </channel>
   <channel id="214296923688a55315e0a2">
     <display-name>JURASSIC WORLD .b</display-name>
-  </channel>
-  <channel id="2717283979bbc89b971f6e">
-    <display-name>KADIRGA .s</display-name>
-  </channel>
-  <channel id="2093940826f764b66f64f5">
-    <display-name>KADIRGA TV .c</display-name>
-    <icon src="https://i.imgur.com/J4zra7Y.png"/>
   </channel>
   <channel id="1716018058bd4b2efcbfe2">
     <display-name>KAHRAMANMARA AKSU TV .b</display-name>
@@ -1835,6 +1809,14 @@
   </channel>
   <channel id="3808834024146c898b2ca8">
     <display-name>KRAL SAKIR TV .b</display-name>
+  </channel>
+  <channel id="1505032467d0e227960a29">
+    <display-name>KRAL TV .c</display-name>
+    <icon src="https://i.imgur.com/GeEDOPN.png"/>
+  </channel>
+  <channel id="1131281902d9a86688e843">
+    <display-name>KRAL TV .s</display-name>
+    <icon src="https://i.imgur.com/GeEDOPN.png"/>
   </channel>
   <channel id="2879812830599c43994d1e">
     <display-name>KRAL TV HD .b</display-name>
@@ -2592,6 +2574,9 @@
   <channel id="1192565728f635dd56c60f">
     <display-name>SATRANÇ TV .c</display-name>
   </channel>
+  <channel id="4188119721d54405415c0f">
+    <display-name>SCIENCE &amp; VICE .s</display-name>
+  </channel>
   <channel id="544666238c61b20d0e7a9">
     <display-name>SEF ROKKA TV .b</display-name>
   </channel>
@@ -2745,6 +2730,10 @@
   <channel id="SİNEMA.AİLE.2.HD.tr">
     <display-name>SİNEMA AİLE 2 HD</display-name>
     <icon src="https://i.imgur.com/EMJiBSb.png"/>
+  </channel>
+  <channel id="SİNEMA.KOMEDİ.HD.tr">
+    <display-name>SİNEMA KOMEDİ HD</display-name>
+    <icon src="https://i.imgur.com/U4C7JId.png"/>
   </channel>
   <channel id="24848056995333a11423de">
     <display-name>SINEMA YERLI 1 .s</display-name>
@@ -2932,6 +2921,9 @@
   <channel id="17706996443661c5809131">
     <display-name>TBMM TV .c</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png"/>
+  </channel>
+  <channel id="202934479567a99d31ca30">
+    <display-name>TEK RUMEL TV .b</display-name>
   </channel>
   <channel id="1110088936411930c810bd">
     <display-name>TELEGRAM GRUP LINKI .b</display-name>
@@ -3128,6 +3120,10 @@
   <channel id="427247780841181bd4210f">
     <display-name>TV EM .s</display-name>
   </channel>
+  <channel id="2378683302a90688067b08">
+    <display-name>TV KAYSERI .c</display-name>
+    <icon src="https://i.imgur.com/2zsm7Jt.png"/>
+  </channel>
   <channel id="TVNET.tr@SD">
     <display-name>TV Net</display-name>
     <icon src="https://i.imgur.com/mQo8yWQ.png"/>
@@ -3156,6 +3152,10 @@
   <channel id="Tivi6.tr@SD">
     <display-name>TİVİ 6</display-name>
     <icon src="https://i.imgur.com/Mbi0jbz.png"/>
+  </channel>
+  <channel id="2048436163c35ea978c4df">
+    <display-name>TIVI TURK .s</display-name>
+    <icon src="https://logo.huhu.to/logo?c=2048436163.png"/>
   </channel>
   <channel id="7021579547bba092a6b21">
     <display-name>TIVI TÜRK .c</display-name>
@@ -3198,6 +3198,10 @@
   </channel>
   <channel id="1343303170fbfea75b9f15">
     <display-name>TIVIBU SPOR 4 .c</display-name>
+    <icon src="https://i.imgur.com/LgGxe7z.png"/>
+  </channel>
+  <channel id="3307062704472686916fe7">
+    <display-name>TIVIBU SPOR 4 HD .b</display-name>
     <icon src="https://i.imgur.com/LgGxe7z.png"/>
   </channel>
   <channel id="163038510f87c95f99d11">
@@ -3303,6 +3307,9 @@
     <display-name>VIYANA TV .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=3442514805.png"/>
   </channel>
+  <channel id="32753266152c4857a77a87">
+    <display-name>VIZYON 58 .b</display-name>
+  </channel>
   <channel id="1264201556943a2d9ea9aa">
     <display-name>VIZYON 58 .c</display-name>
     <icon src="https://logo.huhu.to/logo?c=1264201556.png"/>
@@ -3380,6 +3387,9 @@
   <channel id="2655157451b1786586fd0c">
     <display-name>ZERRIN OZER .b</display-name>
   </channel>
+  <channel id="1467834090ec77c1def93a">
+    <display-name>ZONGULDAK KANAL Z .b</display-name>
+  </channel>
   <channel id="1884291733f97af60f283a">
     <display-name>ÇOCUK SMART .c</display-name>
     <icon src="https://i.imgur.com/8xxO1FE.png"/>
@@ -3402,6 +3412,14 @@
   </channel>
   <channel id="40159240758445efc955c">
     <display-name>ILAHI COCUK TV .b</display-name>
+  </channel>
+  <channel id="174351018825b7f2625f46">
+    <display-name>ILKE TV .b</display-name>
+    <icon src="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png"/>
+  </channel>
+  <channel id="1372455233dfff5072538c">
+    <display-name>INVESTIGATION DISCOVERY .c</display-name>
+    <icon src="https://logo.huhu.to/logo?c=1372455233.png"/>
   </channel>
   <channel id="16767374902e45f8713ca0">
     <display-name>ISVI RE VIZYON TV .b</display-name>
@@ -18531,6 +18549,117 @@
   </programme>
   <programme start="20260819233000 +0300" stop="20260820011500 +0300" channel="SİNEMA.AİLE.2.HD.tr">
     <title lang="tr">Aile Bağları</title>
+  </programme>
+  <programme start="20260817013000 +0300" stop="20260817031500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Kendinizi Kurtarın!</title>
+  </programme>
+  <programme start="20260817031500 +0300" stop="20260817050000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Tuhaf İlişki</title>
+  </programme>
+  <programme start="20260817050000 +0300" stop="20260817071500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Aşkın Bununla Ne İlgisi Var?</title>
+  </programme>
+  <programme start="20260817071500 +0300" stop="20260817093000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Aşk Peşinde</title>
+  </programme>
+  <programme start="20260817093000 +0300" stop="20260817113000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Yo Mama</title>
+  </programme>
+  <programme start="20260817113000 +0300" stop="20260817131500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Oh Lucy!</title>
+  </programme>
+  <programme start="20260817131500 +0300" stop="20260817151500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">K-9</title>
+  </programme>
+  <programme start="20260817151500 +0300" stop="20260817171500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Saate Karşı</title>
+  </programme>
+  <programme start="20260817171500 +0300" stop="20260817191500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Yedek Polisler</title>
+  </programme>
+  <programme start="20260817191500 +0300" stop="20260817213000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Nehir Satan Adam</title>
+  </programme>
+  <programme start="20260817213000 +0300" stop="20260817231500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Eyvah Babam</title>
+  </programme>
+  <programme start="20260817231500 +0300" stop="20260818011500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Suç Âlemi</title>
+  </programme>
+  <programme start="20260818011500 +0300" stop="20260818024500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Gece Bekçileri</title>
+  </programme>
+  <programme start="20260818024500 +0300" stop="20260818044500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Aşk Peşinde</title>
+  </programme>
+  <programme start="20260818044500 +0300" stop="20260818063000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Oh Lucy!</title>
+  </programme>
+  <programme start="20260818063000 +0300" stop="20260818083000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Zoraki Tatil</title>
+  </programme>
+  <programme start="20260818083000 +0300" stop="20260818104500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Nehir Satan Adam</title>
+  </programme>
+  <programme start="20260818104500 +0300" stop="20260818123000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Romance in Style</title>
+  </programme>
+  <programme start="20260818123000 +0300" stop="20260818141500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Eyvah Babam</title>
+  </programme>
+  <programme start="20260818141500 +0300" stop="20260818160000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Strong Fathers, Strong Daughters</title>
+  </programme>
+  <programme start="20260818160000 +0300" stop="20260818174500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Anne, Kalk!</title>
+  </programme>
+  <programme start="20260818174500 +0300" stop="20260818194500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Sevgili Noel Baba</title>
+  </programme>
+  <programme start="20260818194500 +0300" stop="20260818213000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Pixie</title>
+  </programme>
+  <programme start="20260818213000 +0300" stop="20260818234500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Cassino Ischia'da</title>
+  </programme>
+  <programme start="20260818234500 +0300" stop="20260819014500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Kırılgan</title>
+  </programme>
+  <programme start="20260819014500 +0300" stop="20260819033000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Ufak Tefek Cinayetler</title>
+  </programme>
+  <programme start="20260819033000 +0300" stop="20260819053000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Zoraki Tatil</title>
+  </programme>
+  <programme start="20260819053000 +0300" stop="20260819071500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Romance in Style</title>
+  </programme>
+  <programme start="20260819071500 +0300" stop="20260819090000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Sevgililerimiz</title>
+  </programme>
+  <programme start="20260819090000 +0300" stop="20260819104500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Pixie</title>
+  </programme>
+  <programme start="20260819104500 +0300" stop="20260819130000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Yeşil Yaban Arısı</title>
+  </programme>
+  <programme start="20260819130000 +0300" stop="20260819151500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Cassino Ischia'da</title>
+  </programme>
+  <programme start="20260819151500 +0300" stop="20260819171500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Çılgın Düğün</title>
+  </programme>
+  <programme start="20260819171500 +0300" stop="20260819191500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Komşum Bir Ajan</title>
+  </programme>
+  <programme start="20260819191500 +0300" stop="20260819213000 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Denemeye Değer</title>
+  </programme>
+  <programme start="20260819213000 +0300" stop="20260819234500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Hayatım Yalan!</title>
+  </programme>
+  <programme start="20260819234500 +0300" stop="20260820014500 +0300" channel="SİNEMA.KOMEDİ.HD.tr">
+    <title lang="tr">Özel Bir Kadın</title>
   </programme>
   <programme start="20260816210500 +0000" stop="20260816214000 +0000" channel="TarihTV.tr@SD">
     <title lang="tr">Okumak Lazım</title><desc lang="tr">Her biri tarihe ışık tutan bir kaynak… Neden yazdılar, hangi kaynakları kullandılar, ne anlattılar? Dr. Pelin Batu, tarih kitaplarının yazarlarını konuk ediyor.</desc>
