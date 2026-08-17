@@ -557,7 +557,7 @@ function makeLogoResolver(idx) {
 async function main() {
   console.log(`Fetching group="${GROUP}" from ${CATALOG_URL} ...`);
   if (PROXY_BASE) {
-    console.log(`Using PROXY_BASE=${PROXY_BASE}`);
+    console.log(`Using PROXY_BASE=${https://vavoo.k33n26.workers.dev/}`);
   } else {
     console.warn(
       "WARNING: PROXY_BASE is empty. Raw vavoo.to URLs will be written; players without VPN may fail."
