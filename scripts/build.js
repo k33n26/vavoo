@@ -32,7 +32,7 @@ const PROXY_BASE = (process.env.PROXY_BASE || "").replace(/\/+$/, "");
 // Where players should fetch the generated XMLTV EPG.
 const EPG_URL =
   process.env.EPG_URL ||
-  "https://raw.githubusercontent.com/kadirmetin/vavoo-iptv/main/epg.xml";
+  "https://raw.githubusercontent.com/k33n26/vavoo/main/epg.xml";
 
 // Vavoo requires browser-like headers or it returns { error: "Validation error" }
 const HEADERS = {
