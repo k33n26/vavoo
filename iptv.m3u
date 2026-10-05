@@ -3,6 +3,8 @@
 https://vavoo.k33n26.workers.dev/play/17029379329ed4b84db05f
 #EXTINF:-1 tvg-id="3828793616b62b9cc5834c" tvg-name="24 HABER HD+ SD .b" tvg-logo="" group-title="Haber",24 HABER HD+ SD .b
 https://vavoo.k33n26.workers.dev/play/3828793616b62b9cc5834c
+#EXTINF:-1 tvg-id="329569928726734a4497dc" tvg-name="24 KITCHEN .c" tvg-logo="https://logo.huhu.to/logo?c=3295699287.png" group-title="Yaşam",24 KITCHEN .c
+https://vavoo.k33n26.workers.dev/play/329569928726734a4497dc
 #EXTINF:-1 tvg-id="332950484357e3f01f03c1" tvg-name="24 KITCHEN .s" tvg-logo="" group-title="Yaşam",24 KITCHEN .s
 https://vavoo.k33n26.workers.dev/play/332950484357e3f01f03c1
 #EXTINF:-1 tvg-id="42853502477bb17264f322" tvg-name="24 KITCHEN HD .b" tvg-logo="" group-title="Yaşam",24 KITCHEN HD .b
@@ -29,6 +31,8 @@ https://vavoo.k33n26.workers.dev/play/1064954896a21f89fb6b5c
 https://vavoo.k33n26.workers.dev/play/1771137539fa2adff8ebd5
 #EXTINF:-1 tvg-id="A2TV.tr@SD" tvg-name="4K TR: A2 HD .b" tvg-logo="" group-title="Ulusal",4K TR: A2 HD .b
 https://vavoo.k33n26.workers.dev/play/201905527745e40d41f657
+#EXTINF:-1 tvg-id="AKİT.TV.tr" tvg-name="4K TR: AK T TV HD .b" tvg-logo="https://i.imgur.com/oGto929.png" group-title="Dini",4K TR: AK T TV HD .b
+https://vavoo.k33n26.workers.dev/play/344558568784e9a5583953
 #EXTINF:-1 tvg-id="ATV.am@SD" tvg-name="4K TR: ATV HD .b" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Ulusal",4K TR: ATV HD .b
 https://vavoo.k33n26.workers.dev/play/2325261286cc81b01cf95d
 #EXTINF:-1 tvg-id="BabyTV.uk@UK" tvg-name="4K TR: BABYTV .b" tvg-logo="" group-title="Çocuk",4K TR: BABYTV .b
@@ -59,6 +63,8 @@ https://vavoo.k33n26.workers.dev/play/4017734592f45fd8456678
 https://vavoo.k33n26.workers.dev/play/6492287228e9a72f932b5
 #EXTINF:-1 tvg-id="66337391cfef0b02d78776c8" tvg-name="4K TR: EKOL TV .b" tvg-logo="" group-title="Haber",4K TR: EKOL TV .b
 https://vavoo.k33n26.workers.dev/play/2706210049a80b69a6323c
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-name="4K TR: ENGLISH CLUB TV .b" tvg-logo="" group-title="Çocuk",4K TR: ENGLISH CLUB TV .b
+https://vavoo.k33n26.workers.dev/play/925055356337611dcda8b
 #EXTINF:-1 tvg-id="EpicDrama.uk@Turkiye" tvg-name="4K TR: EPIC DRAMA .b" tvg-logo="" group-title="Belgesel",4K TR: EPIC DRAMA .b
 https://vavoo.k33n26.workers.dev/play/6782616930c5115ad7507
 #EXTINF:-1 tvg-id="Eurosport1.fr@France" tvg-name="4K TR: EUROSPORT 1 HD .b" tvg-logo="" group-title="Spor",4K TR: EUROSPORT 1 HD .b
@@ -163,8 +169,6 @@ https://vavoo.k33n26.workers.dev/play/190715470454a282dd6577
 https://vavoo.k33n26.workers.dev/play/27949369132f08a592203d
 #EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-name="4K TR: TRT 1 HD .b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Ulusal",4K TR: TRT 1 HD .b
 https://vavoo.k33n26.workers.dev/play/1762199258e25181300f62
-#EXTINF:-1 tvg-id="TRT2.tr@SD" tvg-name="4K TR: TRT 2 HD .b" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Ulusal",4K TR: TRT 2 HD .b
-https://vavoo.k33n26.workers.dev/play/38843190334c7e81c1c6fc
 #EXTINF:-1 tvg-id="418740351278f04c94b243" tvg-name="4K TR: TRT 3 .b" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="Ulusal",4K TR: TRT 3 .b
 https://vavoo.k33n26.workers.dev/play/418740351278f04c94b243
 #EXTINF:-1 tvg-id="TRTAvaz.tr@SD" tvg-name="4K TR: TRT AVAZ .b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" group-title="Ulusal",4K TR: TRT AVAZ .b
@@ -195,8 +199,6 @@ https://vavoo.k33n26.workers.dev/play/2693299013444c726b1ee4
 https://vavoo.k33n26.workers.dev/play/18867436247890d4c5bd71
 #EXTINF:-1 tvg-id="TVNET.HD.tr" tvg-name="4K TR: TVNET HD .b" tvg-logo="https://i.imgur.com/mQo8yWQ.png" group-title="Dini",4K TR: TVNET HD .b
 https://vavoo.k33n26.workers.dev/play/1738739277a6ed7f08cfb3
-#EXTINF:-1 tvg-id="ViasatExplore.tr@SD" tvg-name="4K TR: VIASAT EXPLORE .b" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Belgesel",4K TR: VIASAT EXPLORE .b
-https://vavoo.k33n26.workers.dev/play/1451950581e94c106d97f3
 #EXTINF:-1 tvg-id="ViasatHistory.tr@SD" tvg-name="4K TR: VIASAT HISTORY HD .b" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Belgesel",4K TR: VIASAT HISTORY HD .b
 https://vavoo.k33n26.workers.dev/play/1335130209de4b92f31496
 #EXTINF:-1 tvg-id="AHaber.tr@SD" tvg-name="A HABER .c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A HABER .c
@@ -223,6 +225,8 @@ https://vavoo.k33n26.workers.dev/play/389201701482a8da622d92
 https://vavoo.k33n26.workers.dev/play/4202445834678957f05238
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-name="A SPOR .c" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Spor",A SPOR .c
 https://vavoo.k33n26.workers.dev/play/81927269637ef82886825
+#EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-name="A SPOR .s" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Spor",A SPOR .s
+https://vavoo.k33n26.workers.dev/play/15619589713a6387b378e8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-name="A SPOR FHD .b" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Spor",A SPOR FHD .b
 https://vavoo.k33n26.workers.dev/play/911836506e50aacc3a9e9
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-name="A SPOR HD .b" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Spor",A SPOR HD .b
@@ -261,6 +265,8 @@ https://vavoo.k33n26.workers.dev/play/1782534194ec2d619f7548
 https://vavoo.k33n26.workers.dev/play/163358782054d9002fa0b0
 #EXTINF:-1 tvg-id="29298467541e1d36e1991" tvg-name="AHMET KAYA .b" tvg-logo="" group-title="Müzik",AHMET KAYA .b
 https://vavoo.k33n26.workers.dev/play/29298467541e1d36e1991
+#EXTINF:-1 tvg-id="3737299250dadf300b85e4" tvg-name="AKLILI TV .s" tvg-logo="" group-title="Çocuk",AKLILI TV .s
+https://vavoo.k33n26.workers.dev/play/3737299250dadf300b85e4
 #EXTINF:-1 tvg-id="9558066722545d9635261" tvg-name="AKSARAY KANAL 68 .b" tvg-logo="" group-title="Yerel",AKSARAY KANAL 68 .b
 https://vavoo.k33n26.workers.dev/play/9558066722545d9635261
 #EXTINF:-1 tvg-id="2170702658173e1813ae19" tvg-name="AKSU TV .c" tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="Yerel",AKSU TV .c
@@ -271,6 +277,8 @@ https://vavoo.k33n26.workers.dev/play/2914289476ab2b9b77fc43
 https://vavoo.k33n26.workers.dev/play/3728553873d44cfc7c12c6
 #EXTINF:-1 tvg-id="4093001640e8d2942477e2" tvg-name="AKILLI TAVSAN MOMO .s" tvg-logo="" group-title="Çocuk",AKILLI TAVSAN MOMO .s
 https://vavoo.k33n26.workers.dev/play/4093001640e8d2942477e2
+#EXTINF:-1 tvg-id="AKİT.TV.tr" tvg-name="AKIT TV .b" tvg-logo="https://i.imgur.com/oGto929.png" group-title="Dini",AKIT TV .b
+https://vavoo.k33n26.workers.dev/play/2702391715e85c3d67a4ee
 #EXTINF:-1 tvg-id="AKİT.TV.tr" tvg-name="AKIT TV .c" tvg-logo="https://i.imgur.com/oGto929.png" group-title="Dini",AKIT TV .c
 https://vavoo.k33n26.workers.dev/play/194868101172e4362de24e
 #EXTINF:-1 tvg-id="AKİT.TV.tr" tvg-name="AKIT TV .s" tvg-logo="https://i.imgur.com/oGto929.png" group-title="Dini",AKIT TV .s
@@ -279,6 +287,8 @@ https://vavoo.k33n26.workers.dev/play/1862240206bdae999f9066
 https://vavoo.k33n26.workers.dev/play/208882947efd1028551d8
 #EXTINF:-1 tvg-id="287303002844eef20b99c6" tvg-name="ALANYA POSTA TV .c" tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="Yerel",ALANYA POSTA TV .c
 https://vavoo.k33n26.workers.dev/play/287303002844eef20b99c6
+#EXTINF:-1 tvg-id="19087142537ee96a6ffbf3" tvg-name="ALEM FM RADYOLAND .b" tvg-logo="" group-title="Radyo",ALEM FM RADYOLAND .b
+https://vavoo.k33n26.workers.dev/play/19087142537ee96a6ffbf3
 #EXTINF:-1 tvg-id="809445873afba8a319cea" tvg-name="ALEM RADYO .b" tvg-logo="" group-title="Radyo",ALEM RADYO .b
 https://vavoo.k33n26.workers.dev/play/809445873afba8a319cea
 #EXTINF:-1 tvg-id="76941483786c9c7e5bf21" tvg-name="ALTAS TV .c" tvg-logo="https://i.imgur.com/XaJ7fp6.png" group-title="Yerel",ALTAS TV .c
@@ -295,12 +305,18 @@ https://vavoo.k33n26.workers.dev/play/3978460736eee7cf5d26f1
 https://vavoo.k33n26.workers.dev/play/1917558455120761543969
 #EXTINF:-1 tvg-id="1943578223ce7cc4b1c284" tvg-name="ANAKKALE BOĞAZ TV .b" tvg-logo="" group-title="Yerel",ANAKKALE BOĞAZ TV .b
 https://vavoo.k33n26.workers.dev/play/1943578223ce7cc4b1c284
+#EXTINF:-1 tvg-id="4250561695aeafaa1af43b" tvg-name="ANAKKALE TON TV .b" tvg-logo="" group-title="Yerel",ANAKKALE TON TV .b
+https://vavoo.k33n26.workers.dev/play/4250561695aeafaa1af43b
+#EXTINF:-1 tvg-id="1443355363db5023a8a584" tvg-name="ANKARA T RKIYEM TV .b" tvg-logo="" group-title="Yerel",ANKARA T RKIYEM TV .b
+https://vavoo.k33n26.workers.dev/play/1443355363db5023a8a584
 #EXTINF:-1 tvg-id="7548683513f8b3f808009" tvg-name="ANLIURFA KANAL URFA .b" tvg-logo="" group-title="Yerel",ANLIURFA KANAL URFA .b
 https://vavoo.k33n26.workers.dev/play/7548683513f8b3f808009
 #EXTINF:-1 tvg-id="19407670052f2ca6260436" tvg-name="ANTALYA KANAL V .b" tvg-logo="" group-title="Yerel",ANTALYA KANAL V .b
 https://vavoo.k33n26.workers.dev/play/19407670052f2ca6260436
 #EXTINF:-1 tvg-id="ANIMAL.PLANET.HD.tr" tvg-name="ANIMAL PLANET .s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Belgesel",ANIMAL PLANET .s
 https://vavoo.k33n26.workers.dev/play/211016135533c46812e566
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.HD.tr" tvg-name="ANIMAL PLANET HD .b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Belgesel",ANIMAL PLANET HD .b
+https://vavoo.k33n26.workers.dev/play/3913298991ebe0634b3649
 #EXTINF:-1 tvg-id="7274274379cbbe0c37b06" tvg-name="ANIMATION 1 HD .b" tvg-logo="" group-title="Çocuk",ANIMATION 1 HD .b
 https://vavoo.k33n26.workers.dev/play/7274274379cbbe0c37b06
 #EXTINF:-1 tvg-id="ANIMAUX.tr" tvg-name="ANIMAUX .b" tvg-logo="" group-title="Belgesel",ANIMAUX .b
@@ -343,6 +359,10 @@ https://vavoo.k33n26.workers.dev/play/962169494c61eb5a2ee2f
 https://vavoo.k33n26.workers.dev/play/64543153093b2057929eb
 #EXTINF:-1 tvg-id="AUTOMOTO.HD.tr" tvg-name="AUTOMOTO (FR) .s" tvg-logo="" group-title="Yaşam",AUTOMOTO (FR) .s
 https://vavoo.k33n26.workers.dev/play/3033512963c208a7f26dc2
+#EXTINF:-1 tvg-id="154080342742a01f2d589" tvg-name="AV TV .b" tvg-logo="" group-title="Yerel",AV TV .b
+https://vavoo.k33n26.workers.dev/play/154080342742a01f2d589
+#EXTINF:-1 tvg-id="40965694547a9def110e6c" tvg-name="BABA RADYO ARABESK .b" tvg-logo="" group-title="Radyo",BABA RADYO ARABESK .b
+https://vavoo.k33n26.workers.dev/play/40965694547a9def110e6c
 #EXTINF:-1 tvg-id="BabyTV.uk@France" tvg-name="BABY TV .c" tvg-logo="https://logo.huhu.to/logo?c=3820420855.png" group-title="Çocuk",BABY TV .c
 https://vavoo.k33n26.workers.dev/play/382042085583b289bf81e2
 #EXTINF:-1 tvg-id="BabyTV.uk@France" tvg-name="BABY TV .s" tvg-logo="" group-title="Çocuk",BABY TV .s
@@ -357,6 +377,8 @@ https://vavoo.k33n26.workers.dev/play/280573123054a8c61dd62
 https://vavoo.k33n26.workers.dev/play/2618455562938e9a0e0faf
 #EXTINF:-1 tvg-id="58d29bb0eefad3db9c6062bc" tvg-name="BBC EARTH HD .b" tvg-logo="" group-title="Belgesel",BBC EARTH HD .b
 https://vavoo.k33n26.workers.dev/play/22284968562a623d1b95b4
+#EXTINF:-1 tvg-id="3542661904b4290d308828" tvg-name="BBC EARTH PREMIERE .s" tvg-logo="" group-title="Belgesel",BBC EARTH PREMIERE .s
+https://vavoo.k33n26.workers.dev/play/3542661904b4290d308828
 #EXTINF:-1 tvg-id="3030241554f63b28d76ab2" tvg-name="BENGU TURK .c" tvg-logo="https://logo.huhu.to/logo?c=3030241554.png" group-title="Haber",BENGU TURK .c
 https://vavoo.k33n26.workers.dev/play/3030241554f63b28d76ab2
 #EXTINF:-1 tvg-id="3677880546b91991c857cd" tvg-name="BENGUTURK .s" tvg-logo="" group-title="Haber",BENGUTURK .s
@@ -369,12 +391,18 @@ https://vavoo.k33n26.workers.dev/play/182242511854592ad20a83
 https://vavoo.k33n26.workers.dev/play/1566323467670298603f5b
 #EXTINF:-1 tvg-id="4099015608239c33b463bc" tvg-name="BEST DRAM .b" tvg-logo="" group-title="Film",BEST DRAM .b
 https://vavoo.k33n26.workers.dev/play/4099015608239c33b463bc
+#EXTINF:-1 tvg-id="2591986518ae00754c4ef2" tvg-name="BEST FM T RK E POP .b" tvg-logo="" group-title="Radyo",BEST FM T RK E POP .b
+https://vavoo.k33n26.workers.dev/play/2591986518ae00754c4ef2
 #EXTINF:-1 tvg-id="4228481876db7dd6acf5b" tvg-name="BEST HABABAM SINIFI .b" tvg-logo="" group-title="Film",BEST HABABAM SINIFI .b
 https://vavoo.k33n26.workers.dev/play/4228481876db7dd6acf5b
+#EXTINF:-1 tvg-id="17233265984e83c5ef5947" tvg-name="BEST KOMEDI .b" tvg-logo="" group-title="Film",BEST KOMEDI .b
+https://vavoo.k33n26.workers.dev/play/17233265984e83c5ef5947
 #EXTINF:-1 tvg-id="2298271695faed3c96249f" tvg-name="BEST KORKU .b" tvg-logo="" group-title="Film",BEST KORKU .b
 https://vavoo.k33n26.workers.dev/play/2298271695faed3c96249f
 #EXTINF:-1 tvg-id="1063857052f07e2eec0c52" tvg-name="BEST LOCA 1 .b" tvg-logo="" group-title="Film",BEST LOCA 1 .b
 https://vavoo.k33n26.workers.dev/play/1063857052f07e2eec0c52
+#EXTINF:-1 tvg-id="20264594681bd1479ca3f0" tvg-name="BEST LOCA 2 .b" tvg-logo="" group-title="Film",BEST LOCA 2 .b
+https://vavoo.k33n26.workers.dev/play/20264594681bd1479ca3f0
 #EXTINF:-1 tvg-id="116873446031ff5e217441" tvg-name="BEST LOCA 3 .b" tvg-logo="" group-title="Film",BEST LOCA 3 .b
 https://vavoo.k33n26.workers.dev/play/116873446031ff5e217441
 #EXTINF:-1 tvg-id="35317279904b909276b540" tvg-name="BEST NETFLIX .b" tvg-logo="" group-title="Film",BEST NETFLIX .b
@@ -387,10 +415,14 @@ https://vavoo.k33n26.workers.dev/play/37198947412070cf7796ed
 https://vavoo.k33n26.workers.dev/play/37723339252eec59344208
 #EXTINF:-1 tvg-id="13586163859ba90852bd44" tvg-name="BEST SAVAS .b" tvg-logo="" group-title="Film",BEST SAVAS .b
 https://vavoo.k33n26.workers.dev/play/13586163859ba90852bd44
+#EXTINF:-1 tvg-id="11961982805779396d2f21" tvg-name="BEST TURK .b" tvg-logo="" group-title="Film",BEST TURK .b
+https://vavoo.k33n26.workers.dev/play/11961982805779396d2f21
 #EXTINF:-1 tvg-id="1324126222234c1f7f8a74" tvg-name="BEST WESTERN .b" tvg-logo="" group-title="Film",BEST WESTERN .b
 https://vavoo.k33n26.workers.dev/play/1324126222234c1f7f8a74
 #EXTINF:-1 tvg-id="36523472636e2b2a3ca9ec" tvg-name="BEST YESILCAM .b" tvg-logo="" group-title="Film",BEST YESILCAM .b
 https://vavoo.k33n26.workers.dev/play/36523472636e2b2a3ca9ec
+#EXTINF:-1 tvg-id="19675163050cdefd6160c5" tvg-name="BEST IMBD .b" tvg-logo="" group-title="Film",BEST IMBD .b
+https://vavoo.k33n26.workers.dev/play/19675163050cdefd6160c5
 #EXTINF:-1 tvg-id="1020985035552180fe7152" tvg-name="BEYAZ HD+ SD .b" tvg-logo="https://logo.huhu.to/logo?c=1020985035.png" group-title="Ulusal",BEYAZ HD+ SD .b
 https://vavoo.k33n26.workers.dev/play/1020985035552180fe7152
 #EXTINF:-1 tvg-id="BeyazTV.tr@SD" tvg-name="BEYAZ TV .c" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Ulusal",BEYAZ TV .c
@@ -411,8 +443,10 @@ https://vavoo.k33n26.workers.dev/play/1363827223a1c98515d612
 https://vavoo.k33n26.workers.dev/play/3692337241ec1b0872b06e
 #EXTINF:-1 tvg-id="2919229346c4e9a95ddb3f" tvg-name="BEIN 1 SD (480P) .b" tvg-logo="https://logo.huhu.to/logo?c=2919229346.png" group-title="Spor",BEIN 1 SD (480P) .b
 https://vavoo.k33n26.workers.dev/play/2919229346c4e9a95ddb3f
-#EXTINF:-1 tvg-id="1320363850bcb8f1b5542a" tvg-name="BEIN BOX OFFICE 1 .s" tvg-logo="https://i.imgur.com/MGrJFVN.png" group-title="Film",BEIN BOX OFFICE 1 .s
-https://vavoo.k33n26.workers.dev/play/1320363850bcb8f1b5542a
+#EXTINF:-1 tvg-id="391012970274e1f1b46029" tvg-name="BEIN BOX OFFICE 2 .c" tvg-logo="https://i.imgur.com/Kg7oOcO.png" group-title="Film",BEIN BOX OFFICE 2 .c
+https://vavoo.k33n26.workers.dev/play/391012970274e1f1b46029
+#EXTINF:-1 tvg-id="152264090d704f6769888" tvg-name="BEIN BOX OFFICE 2 .s" tvg-logo="https://i.imgur.com/Kg7oOcO.png" group-title="Film",BEIN BOX OFFICE 2 .s
+https://vavoo.k33n26.workers.dev/play/152264090d704f6769888
 #EXTINF:-1 tvg-id="35641061340ab1a36ee3bd" tvg-name="BEIN BOX OFFICE 3 .c" tvg-logo="https://i.imgur.com/5NZur1S.png" group-title="Film",BEIN BOX OFFICE 3 .c
 https://vavoo.k33n26.workers.dev/play/35641061340ab1a36ee3bd
 #EXTINF:-1 tvg-id="8799816103c5f180837cf" tvg-name="BEIN BOX OFFICE 3 .s" tvg-logo="https://i.imgur.com/5NZur1S.png" group-title="Film",BEIN BOX OFFICE 3 .s
@@ -441,10 +475,16 @@ https://vavoo.k33n26.workers.dev/play/94298722454d1a7fefabb
 https://vavoo.k33n26.workers.dev/play/21977479648205db1b3061
 #EXTINF:-1 tvg-id="22440690938318303270a5" tvg-name="BEIN MOVIES PREMIERE 2 .c" tvg-logo="https://i.imgur.com/4Uuxk4T.png" group-title="Film",BEIN MOVIES PREMIERE 2 .c
 https://vavoo.k33n26.workers.dev/play/22440690938318303270a5
+#EXTINF:-1 tvg-id="2120218356a82436bd0e59" tvg-name="BEIN MOVIES PREMIERE 2 .s" tvg-logo="https://i.imgur.com/4Uuxk4T.png" group-title="Film",BEIN MOVIES PREMIERE 2 .s
+https://vavoo.k33n26.workers.dev/play/2120218356a82436bd0e59
 #EXTINF:-1 tvg-id="250091316466da3ef72786" tvg-name="BEIN MOVIES STARS .c" tvg-logo="https://i.imgur.com/eryPkrT.png" group-title="Film",BEIN MOVIES STARS .c
 https://vavoo.k33n26.workers.dev/play/250091316466da3ef72786
 #EXTINF:-1 tvg-id="19637487849304979bfdcb" tvg-name="BEIN MOVIES STARS .s" tvg-logo="https://i.imgur.com/eryPkrT.png" group-title="Film",BEIN MOVIES STARS .s
 https://vavoo.k33n26.workers.dev/play/19637487849304979bfdcb
+#EXTINF:-1 tvg-id="33905759489e0915a21ca8" tvg-name="BEIN MOVIES TURK .c" tvg-logo="https://i.imgur.com/nw8Sa2z.png" group-title="Film",BEIN MOVIES TURK .c
+https://vavoo.k33n26.workers.dev/play/33905759489e0915a21ca8
+#EXTINF:-1 tvg-id="1835579025e6a7c2daa604" tvg-name="BEIN MOVIES TURK .s" tvg-logo="https://i.imgur.com/nw8Sa2z.png" group-title="Film",BEIN MOVIES TURK .s
+https://vavoo.k33n26.workers.dev/play/1835579025e6a7c2daa604
 #EXTINF:-1 tvg-id="2190922298d7f7ef0a716a" tvg-name="BEIN SERIES 1 .c" tvg-logo="https://logo.huhu.to/logo?c=2190922298.png" group-title="Dizi",BEIN SERIES 1 .c
 https://vavoo.k33n26.workers.dev/play/2190922298d7f7ef0a716a
 #EXTINF:-1 tvg-id="33086937382c63181dc831" tvg-name="BEIN SERIES 2 .c" tvg-logo="https://logo.huhu.to/logo?c=3308693738.png" group-title="Dizi",BEIN SERIES 2 .c
@@ -503,8 +543,6 @@ https://vavoo.k33n26.workers.dev/play/17005958018c5d23b49ef0
 https://vavoo.k33n26.workers.dev/play/206371329905d7f81fb9d
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-name="BEIN SPORTS 3 UHD .b" tvg-logo="https://logo.huhu.to/logo?c=3410167560.png" group-title="Spor",BEIN SPORTS 3 UHD .b
 https://vavoo.k33n26.workers.dev/play/3410167560f6960a0d6de9
-#EXTINF:-1 tvg-id="beIN.SPORTS.4.tr" tvg-name="BEIN SPORTS 4 .s" tvg-logo="" group-title="Spor",BEIN SPORTS 4 .s
-https://vavoo.k33n26.workers.dev/play/450076655d706ff73e384
 #EXTINF:-1 tvg-id="beIN.SPORTS.4.tr" tvg-name="BEIN SPORTS 4 HD .b" tvg-logo="https://logo.huhu.to/logo?c=1872232768.png" group-title="Spor",BEIN SPORTS 4 HD .b
 https://vavoo.k33n26.workers.dev/play/1872232768c7c65ceb9862
 #EXTINF:-1 tvg-id="beIN.SPORTS.4.tr" tvg-name="BEIN SPORTS 4 SD .b" tvg-logo="" group-title="Spor",BEIN SPORTS 4 SD .b
@@ -539,6 +577,8 @@ https://vavoo.k33n26.workers.dev/play/280607961285361f558fc8
 https://vavoo.k33n26.workers.dev/play/3989995533d0efea1c8696
 #EXTINF:-1 tvg-id="beINSportsHaber.tr@SD" tvg-name="BEIN SPORTS HABER RAW .b" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="Spor",BEIN SPORTS HABER RAW .b
 https://vavoo.k33n26.workers.dev/play/164663282518e6179f90af
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.1.tr" tvg-name="BEIN SPORTS MAX 1 .c" tvg-logo="https://logo.huhu.to/logo?c=1221587067.png" group-title="Spor",BEIN SPORTS MAX 1 .c
+https://vavoo.k33n26.workers.dev/play/1221587067c43d5b265b10
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.1.tr" tvg-name="BEIN SPORTS MAX 1 .s" tvg-logo="" group-title="Spor",BEIN SPORTS MAX 1 .s
 https://vavoo.k33n26.workers.dev/play/283243053554cc6eb0a10a
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.1.tr" tvg-name="BEIN SPORTS MAX 1 FHD .b" tvg-logo="https://logo.huhu.to/logo?c=4071474743.png" group-title="Spor",BEIN SPORTS MAX 1 FHD .b
@@ -553,14 +593,16 @@ https://vavoo.k33n26.workers.dev/play/3407936242f95c33ae8820
 https://vavoo.k33n26.workers.dev/play/2212659820b109b476a4d3
 #EXTINF:-1 tvg-id="143239535a2e3c23c1d16" tvg-name="BEIN SPOTS1 SD .b" tvg-logo="" group-title="Spor",BEIN SPOTS1 SD .b
 https://vavoo.k33n26.workers.dev/play/143239535a2e3c23c1d16
+#EXTINF:-1 tvg-id="16912230784a73b11d66ed" tvg-name="BEIN IZ .c" tvg-logo="https://i.imgur.com/K8HU6aQ.png" group-title="Ulusal",BEIN IZ .c
+https://vavoo.k33n26.workers.dev/play/16912230784a73b11d66ed
+#EXTINF:-1 tvg-id="31561783590bdea7d4bf69" tvg-name="BEIN IZ TV .s" tvg-logo="" group-title="Belgesel",BEIN IZ TV .s
+https://vavoo.k33n26.workers.dev/play/31561783590bdea7d4bf69
 #EXTINF:-1 tvg-id="1505" tvg-name="BLOOMBERG .s" tvg-logo="" group-title="Haber",BLOOMBERG .s
 https://vavoo.k33n26.workers.dev/play/260322414100d6583c3f2b
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" tvg-name="BLOOMBERG HT .c" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Haber",BLOOMBERG HT .c
 https://vavoo.k33n26.workers.dev/play/2238665354014ee25dcf7
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" tvg-name="BLOOMBERG HT HD .b" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Haber",BLOOMBERG HT HD .b
 https://vavoo.k33n26.workers.dev/play/236989031b5bce3e87ca9
-#EXTINF:-1 tvg-id="BloombergHT.tr@SD" tvg-name="BLOOMBERG HT HD+ SD .b" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Haber",BLOOMBERG HT HD+ SD .b
-https://vavoo.k33n26.workers.dev/play/2563486225460803675883
 #EXTINF:-1 tvg-id="8585683074b88a84fea71" tvg-name="BLOOMBERGHT HD .b" tvg-logo="https://logo.huhu.to/logo?c=858568307.png" group-title="Haber",BLOOMBERGHT HD .b
 https://vavoo.k33n26.workers.dev/play/8585683074b88a84fea71
 #EXTINF:-1 tvg-id="35781502601487862e9ea4" tvg-name="BLOOMBERGHT RAW .b" tvg-logo="" group-title="Haber",BLOOMBERGHT RAW .b
@@ -587,14 +629,14 @@ https://vavoo.k33n26.workers.dev/play/134086061839e644f1eaa
 https://vavoo.k33n26.workers.dev/play/2224047651b7df1fd1adc5
 #EXTINF:-1 tvg-id="25407700892aa536e1a9ff" tvg-name="BIR TV .c" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" group-title="Yerel",BIR TV .c
 https://vavoo.k33n26.workers.dev/play/25407700892aa536e1a9ff
+#EXTINF:-1 tvg-id="182252574160a3b3c54187" tvg-name="CAN TV .b" tvg-logo="https://i.imgur.com/oIMtuwB.png" group-title="Yerel",CAN TV .b
+https://vavoo.k33n26.workers.dev/play/182252574160a3b3c54187
 #EXTINF:-1 tvg-id="3900702315d5891138ec1d" tvg-name="CAN TV .c" tvg-logo="https://i.imgur.com/oIMtuwB.png" group-title="Yerel",CAN TV .c
 https://vavoo.k33n26.workers.dev/play/3900702315d5891138ec1d
 #EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-name="CARTOON NETWORK .c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Çocuk",CARTOON NETWORK .c
 https://vavoo.k33n26.workers.dev/play/16965737237b7911f24b84
 #EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-name="CARTOON NETWORK .s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Çocuk",CARTOON NETWORK .s
 https://vavoo.k33n26.workers.dev/play/47854903297efb645a3fe
-#EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-name="CARTOON NETWORK HD .b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Çocuk",CARTOON NETWORK HD .b
-https://vavoo.k33n26.workers.dev/play/13136008519d72a40b3d39
 #EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-name="CARTOON NETWORK HD .b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Çocuk",CARTOON NETWORK HD .b
 https://vavoo.k33n26.workers.dev/play/13136008519d72a40b3d39
 #EXTINF:-1 tvg-id="Cartoonito.uk@SD" tvg-name="CARTOONITO .c" tvg-logo="" group-title="Çocuk",CARTOONITO .c
@@ -643,6 +685,10 @@ https://vavoo.k33n26.workers.dev/play/8310527316ed669cb8b77
 https://vavoo.k33n26.workers.dev/play/2660902091c248c72d0cd6
 #EXTINF:-1 tvg-id="3983067532b2b6b5e2298f" tvg-name="DA VINC KIDS HD .b" tvg-logo="" group-title="Çocuk",DA VINC KIDS HD .b
 https://vavoo.k33n26.workers.dev/play/3983067532b2b6b5e2298f
+#EXTINF:-1 tvg-id="220576533165e4633695d4" tvg-name="DA VINCI .c" tvg-logo="https://logo.huhu.to/logo?c=2205765331.png" group-title="Belgesel",DA VINCI .c
+https://vavoo.k33n26.workers.dev/play/220576533165e4633695d4
+#EXTINF:-1 tvg-id="DaVinci.de@SD" tvg-name="DA VINCI LEARNING .s" tvg-logo="" group-title="Belgesel",DA VINCI LEARNING .s
+https://vavoo.k33n26.workers.dev/play/1268465409d81cf808f3af
 #EXTINF:-1 tvg-id="183207521594fc65b3f956" tvg-name="DENIZ POSTASI TV .c" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="Yerel",DENIZ POSTASI TV .c
 https://vavoo.k33n26.workers.dev/play/183207521594fc65b3f956
 #EXTINF:-1 tvg-id="23018905930073141351c" tvg-name="DENIZLI DEHA TV .b" tvg-logo="" group-title="Yerel",DENIZLI DEHA TV .b
@@ -667,12 +713,16 @@ https://vavoo.k33n26.workers.dev/play/36503860629402933193b7
 https://vavoo.k33n26.workers.dev/play/3762421108d8f2958be035
 #EXTINF:-1 tvg-id="896813028168206a0e06b" tvg-name="DOST TV .c" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" group-title="Dini",DOST TV .c
 https://vavoo.k33n26.workers.dev/play/896813028168206a0e06b
+#EXTINF:-1 tvg-id="799884057e7cb32a0489c" tvg-name="DOST TV .s" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" group-title="Dini",DOST TV .s
+https://vavoo.k33n26.workers.dev/play/799884057e7cb32a0489c
 #EXTINF:-1 tvg-id="151464353675c87d7e86f2" tvg-name="DREAM AKSIYON .b" tvg-logo="" group-title="Film",DREAM AKSIYON .b
 https://vavoo.k33n26.workers.dev/play/151464353675c87d7e86f2
 #EXTINF:-1 tvg-id="3968360733afa6795a0a87" tvg-name="DREAM ANIMASYON .b" tvg-logo="" group-title="Çocuk",DREAM ANIMASYON .b
 https://vavoo.k33n26.workers.dev/play/3968360733afa6795a0a87
 #EXTINF:-1 tvg-id="2759159211bf8b5c4a304d" tvg-name="DREAM BEIN OFFICE 1 .b" tvg-logo="" group-title="Film",DREAM BEIN OFFICE 1 .b
 https://vavoo.k33n26.workers.dev/play/2759159211bf8b5c4a304d
+#EXTINF:-1 tvg-id="385304349522b5e6fe1462" tvg-name="DREAM BEIN OFFICE 10 .b" tvg-logo="" group-title="Film",DREAM BEIN OFFICE 10 .b
+https://vavoo.k33n26.workers.dev/play/385304349522b5e6fe1462
 #EXTINF:-1 tvg-id="382239321182403c667cfc" tvg-name="DREAM BEIN OFFICE 2 .b" tvg-logo="" group-title="Film",DREAM BEIN OFFICE 2 .b
 https://vavoo.k33n26.workers.dev/play/382239321182403c667cfc
 #EXTINF:-1 tvg-id="373642004344d287985a44" tvg-name="DREAM BEIN OFFICE 3 .b" tvg-logo="" group-title="Film",DREAM BEIN OFFICE 3 .b
@@ -691,12 +741,18 @@ https://vavoo.k33n26.workers.dev/play/28419726988ea14fc81958
 https://vavoo.k33n26.workers.dev/play/2483365482c48056254ba2
 #EXTINF:-1 tvg-id="37613920139dff0571ebd1" tvg-name="DREAM BOX ACTION .c" tvg-logo="" group-title="Film",DREAM BOX ACTION .c
 https://vavoo.k33n26.workers.dev/play/37613920139dff0571ebd1
+#EXTINF:-1 tvg-id="855745980e86f566e4e12" tvg-name="DREAM BOX-SET .b" tvg-logo="" group-title="Film",DREAM BOX-SET .b
+https://vavoo.k33n26.workers.dev/play/855745980e86f566e4e12
 #EXTINF:-1 tvg-id="3548409764f53722499655" tvg-name="DREAM DRAM .b" tvg-logo="" group-title="Film",DREAM DRAM .b
 https://vavoo.k33n26.workers.dev/play/3548409764f53722499655
 #EXTINF:-1 tvg-id="95010505e71c34846cce" tvg-name="DREAM KEMAL SUNAL .b" tvg-logo="" group-title="Film",DREAM KEMAL SUNAL .b
 https://vavoo.k33n26.workers.dev/play/95010505e71c34846cce
 #EXTINF:-1 tvg-id="330122636235999c4a5f41" tvg-name="DREAM KOMEDI .b" tvg-logo="" group-title="Film",DREAM KOMEDI .b
 https://vavoo.k33n26.workers.dev/play/330122636235999c4a5f41
+#EXTINF:-1 tvg-id="263155556411d21a29172d" tvg-name="DREAM KORKU .b" tvg-logo="" group-title="Film",DREAM KORKU .b
+https://vavoo.k33n26.workers.dev/play/263155556411d21a29172d
+#EXTINF:-1 tvg-id="263575868806b9d7bd7df4" tvg-name="DREAM LOCA 1 .b" tvg-logo="" group-title="Film",DREAM LOCA 1 .b
+https://vavoo.k33n26.workers.dev/play/263575868806b9d7bd7df4
 #EXTINF:-1 tvg-id="3669624496050e9be68346" tvg-name="DREAM LOCA 2 .b" tvg-logo="" group-title="Film",DREAM LOCA 2 .b
 https://vavoo.k33n26.workers.dev/play/3669624496050e9be68346
 #EXTINF:-1 tvg-id="3889835776671d9bb9a169" tvg-name="DREAM LOCA 3 .b" tvg-logo="" group-title="Film",DREAM LOCA 3 .b
@@ -715,22 +771,36 @@ https://vavoo.k33n26.workers.dev/play/6787946153f4f9e30bf05
 https://vavoo.k33n26.workers.dev/play/712098411f4dd9def5cdc
 #EXTINF:-1 tvg-id="DreamTurk.tr@SD" tvg-name="DREAM TV .b" tvg-logo="" group-title="Ulusal",DREAM TV .b
 https://vavoo.k33n26.workers.dev/play/1383473435135cf669b662
+#EXTINF:-1 tvg-id="41988499024059e546ac2f" tvg-name="DREAM WESTERN .b" tvg-logo="" group-title="Film",DREAM WESTERN .b
+https://vavoo.k33n26.workers.dev/play/41988499024059e546ac2f
 #EXTINF:-1 tvg-id="1107525733e42b6c7abd3" tvg-name="DUCU BOX .b" tvg-logo="" group-title="Diğer",DUCU BOX .b
 https://vavoo.k33n26.workers.dev/play/1107525733e42b6c7abd3
+#EXTINF:-1 tvg-id="2838364281c66447dda010" tvg-name="DURSUN AL ERZINCANLI .b" tvg-logo="" group-title="Müzik",DURSUN AL ERZINCANLI .b
+https://vavoo.k33n26.workers.dev/play/2838364281c66447dda010
 #EXTINF:-1 tvg-id="127844757686ca7d664ae5" tvg-name="DIGI MAX .s" tvg-logo="" group-title="Ulusal",DIGI MAX .s
 https://vavoo.k33n26.workers.dev/play/127844757686ca7d664ae5
 #EXTINF:-1 tvg-id="1072972009ade9e4b4a779" tvg-name="DIM TV .c" tvg-logo="https://i.imgur.com/X4QFDhk.png" group-title="Diğer",DIM TV .c
 https://vavoo.k33n26.workers.dev/play/1072972009ade9e4b4a779
 #EXTINF:-1 tvg-id="2337350974aa27a20a6514" tvg-name="DINAMIK AKSIYON .b" tvg-logo="" group-title="Film",DINAMIK AKSIYON .b
 https://vavoo.k33n26.workers.dev/play/2337350974aa27a20a6514
+#EXTINF:-1 tvg-id="231764826926671978818a" tvg-name="DINAMIK ANIMASYON .b" tvg-logo="" group-title="Çocuk",DINAMIK ANIMASYON .b
+https://vavoo.k33n26.workers.dev/play/231764826926671978818a
 #EXTINF:-1 tvg-id="8847660680807874b7aa4" tvg-name="DINAMIK BILIMKURGU .b" tvg-logo="" group-title="Film",DINAMIK BILIMKURGU .b
 https://vavoo.k33n26.workers.dev/play/8847660680807874b7aa4
+#EXTINF:-1 tvg-id="2706562550a39918648f3c" tvg-name="DINAMIK DRAM .b" tvg-logo="" group-title="Film",DINAMIK DRAM .b
+https://vavoo.k33n26.workers.dev/play/2706562550a39918648f3c
+#EXTINF:-1 tvg-id="1764108510f341d0b9b2b3" tvg-name="DINAMIK KOMEDI .b" tvg-logo="" group-title="Film",DINAMIK KOMEDI .b
+https://vavoo.k33n26.workers.dev/play/1764108510f341d0b9b2b3
 #EXTINF:-1 tvg-id="4329132861bddbfa6bb96" tvg-name="DINAMIK KORKU .b" tvg-logo="" group-title="Film",DINAMIK KORKU .b
 https://vavoo.k33n26.workers.dev/play/4329132861bddbfa6bb96
 #EXTINF:-1 tvg-id="306993094f3cd5715860a" tvg-name="DINAMIK TURK .b" tvg-logo="" group-title="Film",DINAMIK TURK .b
 https://vavoo.k33n26.workers.dev/play/306993094f3cd5715860a
 #EXTINF:-1 tvg-id="3331045719b0c99b128adf" tvg-name="DINAMIK VIZYON .b" tvg-logo="" group-title="Film",DINAMIK VIZYON .b
 https://vavoo.k33n26.workers.dev/play/3331045719b0c99b128adf
+#EXTINF:-1 tvg-id="7269150727f343c6d0f13" tvg-name="DINAMIK WESTERN .b" tvg-logo="" group-title="Film",DINAMIK WESTERN .b
+https://vavoo.k33n26.workers.dev/play/7269150727f343c6d0f13
+#EXTINF:-1 tvg-id="10475251689d5a1f09d886" tvg-name="DINAMIK YESILCAM .b" tvg-logo="" group-title="Film",DINAMIK YESILCAM .b
+https://vavoo.k33n26.workers.dev/play/10475251689d5a1f09d886
 #EXTINF:-1 tvg-id="541406431f598c1d4030c" tvg-name="DINAMIK IMBD .b" tvg-logo="" group-title="Film",DINAMIK IMBD .b
 https://vavoo.k33n26.workers.dev/play/541406431f598c1d4030c
 #EXTINF:-1 tvg-id="3079995901347079e2f045" tvg-name="DISCOVERY CHANNEL .s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Belgesel",DISCOVERY CHANNEL .s
@@ -789,6 +859,8 @@ https://vavoo.k33n26.workers.dev/play/215449252887e52acd6803
 https://vavoo.k33n26.workers.dev/play/658726604ae88a8e690ef
 #EXTINF:-1 tvg-id="2156922182c4160baf6fa4" tvg-name="EFKAR FM CANLI RADYO .b" tvg-logo="" group-title="Radyo",EFKAR FM CANLI RADYO .b
 https://vavoo.k33n26.workers.dev/play/2156922182c4160baf6fa4
+#EXTINF:-1 tvg-id="4225938876155a05d54219" tvg-name="EGE TURK TV .b" tvg-logo="https://i.imgur.com/TLUKrMb.png" group-title="Yerel",EGE TURK TV .b
+https://vavoo.k33n26.workers.dev/play/4225938876155a05d54219
 #EXTINF:-1 tvg-id="2625879722d77e234c308c" tvg-name="EGE ILE GAGA .s" tvg-logo="" group-title="Yaşam",EGE ILE GAGA .s
 https://vavoo.k33n26.workers.dev/play/2625879722d77e234c308c
 #EXTINF:-1 tvg-id="2999246297c78de5c9a770" tvg-name="EKO TURK .s" tvg-logo="https://logo.huhu.to/logo?c=2999246297.png" group-title="Haber",EKO TURK .s
@@ -815,6 +887,10 @@ https://vavoo.k33n26.workers.dev/play/350404585796b6d306497a
 https://vavoo.k33n26.workers.dev/play/634397776501ceff80d97
 #EXTINF:-1 tvg-id="24063236237528e0650313" tvg-name="ELIFIN DUSLERI .s" tvg-logo="" group-title="Çocuk",ELIFIN DUSLERI .s
 https://vavoo.k33n26.workers.dev/play/24063236237528e0650313
+#EXTINF:-1 tvg-id="633768195851d6f914620" tvg-name="ENO AKSIYON 1 .s" tvg-logo="" group-title="Film",ENO AKSIYON 1 .s
+https://vavoo.k33n26.workers.dev/play/633768195851d6f914620
+#EXTINF:-1 tvg-id="6596944878e4d33423978" tvg-name="ENO ANIMASYON .c" tvg-logo="" group-title="Çocuk",ENO ANIMASYON .c
+https://vavoo.k33n26.workers.dev/play/6596944878e4d33423978
 #EXTINF:-1 tvg-id="38337533385e11d005954b" tvg-name="ENO ANIMASYON .s" tvg-logo="" group-title="Çocuk",ENO ANIMASYON .s
 https://vavoo.k33n26.workers.dev/play/38337533385e11d005954b
 #EXTINF:-1 tvg-id="1949742603d0b9dbc5b085" tvg-name="ENO VIZYON 1 .s" tvg-logo="" group-title="Film",ENO VIZYON 1 .s
@@ -855,10 +931,14 @@ https://vavoo.k33n26.workers.dev/play/29014575503efc1f62c0c9
 https://vavoo.k33n26.workers.dev/play/221836468186fc17b1865
 #EXTINF:-1 tvg-id="1736962708902f1c3b6ce3" tvg-name="ERZURUM WEB TV .c" tvg-logo="https://i.imgur.com/HF7N4Li.png" group-title="Yerel",ERZURUM WEB TV .c
 https://vavoo.k33n26.workers.dev/play/1736962708902f1c3b6ce3
+#EXTINF:-1 tvg-id="1670462361617c4d6f0099" tvg-name="ES TV (ESKISEHIR) .c" tvg-logo="https://i.imgur.com/epAEBrp.png" group-title="Yerel",ES TV (ESKISEHIR) .c
+https://vavoo.k33n26.workers.dev/play/1670462361617c4d6f0099
 #EXTINF:-1 tvg-id="22071045493785e57aaf9a" tvg-name="ES TV (ESKISEHIR) .s" tvg-logo="https://i.imgur.com/epAEBrp.png" group-title="Yerel",ES TV (ESKISEHIR) .s
 https://vavoo.k33n26.workers.dev/play/22071045493785e57aaf9a
 #EXTINF:-1 tvg-id="409014197869da0d767e2b" tvg-name="ESK EH R KANAL 26 .b" tvg-logo="" group-title="Yerel",ESK EH R KANAL 26 .b
 https://vavoo.k33n26.workers.dev/play/409014197869da0d767e2b
+#EXTINF:-1 tvg-id="1218353983e56ceae753c3" tvg-name="ETV KAYSERI .c" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj" group-title="Yerel",ETV KAYSERI .c
+https://vavoo.k33n26.workers.dev/play/1218353983e56ceae753c3
 #EXTINF:-1 tvg-id="20249540025118ba1bc88c" tvg-name="ETV MANISA .c" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="Yerel",ETV MANISA .c
 https://vavoo.k33n26.workers.dev/play/20249540025118ba1bc88c
 #EXTINF:-1 tvg-id="EuroD.tr@SD" tvg-name="EURO D .b" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Ulusal",EURO D .b
@@ -941,8 +1021,6 @@ https://vavoo.k33n26.workers.dev/play/1540748539780d20f1eec6
 https://vavoo.k33n26.workers.dev/play/3806979011e0d72cfb10fc
 #EXTINF:-1 tvg-id="20273310967517aba18b29" tvg-name="FLASH TV HD .b" tvg-logo="https://i.imgur.com/L0NHKBM.png" group-title="Ulusal",FLASH TV HD .b
 https://vavoo.k33n26.workers.dev/play/20273310967517aba18b29
-#EXTINF:-1 tvg-id="1285510370f329ebb236e7" tvg-name="FM TV .b" tvg-logo="https://i.imgur.com/nCzpHWM.png" group-title="Müzik",FM TV .b
-https://vavoo.k33n26.workers.dev/play/1285510370f329ebb236e7
 #EXTINF:-1 tvg-id="3681963823264351faabac" tvg-name="FMTV .b" tvg-logo="" group-title="Radyo",FMTV .b
 https://vavoo.k33n26.workers.dev/play/3681963823264351faabac
 #EXTINF:-1 tvg-id="41929319076cd0eddc6be1" tvg-name="FORTUNA TV .c" tvg-logo="https://i.imgur.com/ZbUSlOC.png" group-title="Diğer",FORTUNA TV .c
@@ -1025,8 +1103,6 @@ https://vavoo.k33n26.workers.dev/play/454047044e689f6c02bf8
 https://vavoo.k33n26.workers.dev/play/3302625312acf4f83dd0ca
 #EXTINF:-1 tvg-id="55116964941a7acb8360" tvg-name="GURBET24 TV .c" tvg-logo="https://logo.huhu.to/logo?c=55116964.png" group-title="Ulusal",GURBET24 TV .c
 https://vavoo.k33n26.workers.dev/play/55116964941a7acb8360
-#EXTINF:-1 tvg-id="292300494652c302afd5d5" tvg-name="HABER 61 .c" tvg-logo="https://logo.huhu.to/logo?c=2923004946.png" group-title="Haber",HABER 61 .c
-https://vavoo.k33n26.workers.dev/play/292300494652c302afd5d5
 #EXTINF:-1 tvg-id="HaberGlobal.tr@SD" tvg-name="HABER GLOBAL .c" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="Haber",HABER GLOBAL .c
 https://vavoo.k33n26.workers.dev/play/6522100826dbe8b656800
 #EXTINF:-1 tvg-id="HaberGlobal.tr@SD" tvg-name="HABER GLOBAL .s" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="Haber",HABER GLOBAL .s
@@ -1057,6 +1133,8 @@ https://vavoo.k33n26.workers.dev/play/39864441068cba19bc41f2
 https://vavoo.k33n26.workers.dev/play/17719991006aa1a0ebf68a
 #EXTINF:-1 tvg-id="HalkTV.tr@SD" tvg-name="HALK TV SD .b" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Haber",HALK TV SD .b
 https://vavoo.k33n26.workers.dev/play/9403684fc992fae119e
+#EXTINF:-1 tvg-id="36148289175cd8b190c841" tvg-name="HASAN VE HUSEYIN .b" tvg-logo="" group-title="Dini",HASAN VE HUSEYIN .b
+https://vavoo.k33n26.workers.dev/play/36148289175cd8b190c841
 #EXTINF:-1 tvg-id="36119753125c0620550bed" tvg-name="HORROR 1 HD .b" tvg-logo="" group-title="Film",HORROR 1 HD .b
 https://vavoo.k33n26.workers.dev/play/36119753125c0620550bed
 #EXTINF:-1 tvg-id="15061057158ff2a8dd9cee" tvg-name="HORROR 2 HD .b" tvg-logo="" group-title="Film",HORROR 2 HD .b
@@ -1075,6 +1153,8 @@ https://vavoo.k33n26.workers.dev/play/12401934035a817f0d3f1d
 https://vavoo.k33n26.workers.dev/play/2773338492aa94862b5b31
 #EXTINF:-1 tvg-id="1602719314ed9049107b07" tvg-name="HUNAT TV .c" tvg-logo="https://i.imgur.com/NrxHGnb.png" group-title="Yerel",HUNAT TV .c
 https://vavoo.k33n26.workers.dev/play/1602719314ed9049107b07
+#EXTINF:-1 tvg-id="9613074964daf22a2c5fc" tvg-name="HZ MERYEM .b" tvg-logo="" group-title="Dini",HZ MERYEM .b
+https://vavoo.k33n26.workers.dev/play/9613074964daf22a2c5fc
 #EXTINF:-1 tvg-id="340307369a956333926c8" tvg-name="HZ OMER .b" tvg-logo="" group-title="Dini",HZ OMER .b
 https://vavoo.k33n26.workers.dev/play/340307369a956333926c8
 #EXTINF:-1 tvg-id="33626689306c6d20dc4db" tvg-name="HZ YUSUF .b" tvg-logo="" group-title="Dini",HZ YUSUF .b
@@ -1087,8 +1167,6 @@ https://vavoo.k33n26.workers.dev/play/420748756258a17d4693fc
 https://vavoo.k33n26.workers.dev/play/2717283979bbc89b971f6e
 #EXTINF:-1 tvg-id="2093940826f764b66f64f5" tvg-name="KADIRGA TV .c" tvg-logo="https://i.imgur.com/J4zra7Y.png" group-title="Yerel",KADIRGA TV .c
 https://vavoo.k33n26.workers.dev/play/2093940826f764b66f64f5
-#EXTINF:-1 tvg-id="1716018058bd4b2efcbfe2" tvg-name="KAHRAMANMARA AKSU TV .b" tvg-logo="" group-title="Yerel",KAHRAMANMARA AKSU TV .b
-https://vavoo.k33n26.workers.dev/play/1716018058bd4b2efcbfe2
 #EXTINF:-1 tvg-id="29173714095b974b9b47bc" tvg-name="KANAL 12 .c" tvg-logo="https://i.imgur.com/51xCkXG.png" group-title="Yerel",KANAL 12 .c
 https://vavoo.k33n26.workers.dev/play/29173714095b974b9b47bc
 #EXTINF:-1 tvg-id="5328942090f811960bbb5" tvg-name="KANAL 15 .c" tvg-logo="https://i.imgur.com/wb1Cdc9.png" group-title="Yerel",KANAL 15 .c
@@ -1101,8 +1179,6 @@ https://vavoo.k33n26.workers.dev/play/3706606233e15ade88c7a
 https://vavoo.k33n26.workers.dev/play/2146960844b985fa67702d
 #EXTINF:-1 tvg-id="4179564147cef11bb1db33" tvg-name="KANAL 24 HD .b" tvg-logo="https://logo.huhu.to/logo?c=4179564147.png" group-title="Yerel",KANAL 24 HD .b
 https://vavoo.k33n26.workers.dev/play/4179564147cef11bb1db33
-#EXTINF:-1 tvg-id="3740752511c05619e34353" tvg-name="KANAL 26 .c" tvg-logo="https://i.imgur.com/Mr7XPii.png" group-title="Yerel",KANAL 26 .c
-https://vavoo.k33n26.workers.dev/play/3740752511c05619e34353
 #EXTINF:-1 tvg-id="87578284c27a5347875c" tvg-name="KANAL 26 .s" tvg-logo="https://i.imgur.com/Mr7XPii.png" group-title="Yerel",KANAL 26 .s
 https://vavoo.k33n26.workers.dev/play/87578284c27a5347875c
 #EXTINF:-1 tvg-id="1558612099f5cdf062ccd3" tvg-name="KANAL 3 .c" tvg-logo="https://i.imgur.com/eXErSv0.png" group-title="Yerel",KANAL 3 .c
@@ -1129,8 +1205,6 @@ https://vavoo.k33n26.workers.dev/play/28027024539d984983ade4
 https://vavoo.k33n26.workers.dev/play/56371887593c852f21e1a
 #EXTINF:-1 tvg-id="Kanal7.tr@SD" tvg-name="KANAL 7 .c" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Dini",KANAL 7 .c
 https://vavoo.k33n26.workers.dev/play/284204601910a1d31e579f
-#EXTINF:-1 tvg-id="Kanal7.tr@SD" tvg-name="KANAL 7 .s" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Dini",KANAL 7 .s
-https://vavoo.k33n26.workers.dev/play/3015649982c331c4fb85f8
 #EXTINF:-1 tvg-id="916532487174bf814970d" tvg-name="KANAL 7 AVRUPA .c" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="Dini",KANAL 7 AVRUPA .c
 https://vavoo.k33n26.workers.dev/play/916532487174bf814970d
 #EXTINF:-1 tvg-id="4986459771133ab4a2f33" tvg-name="KANAL 7 AVRUPA .s" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="Dini",KANAL 7 AVRUPA .s
@@ -1149,8 +1223,6 @@ https://vavoo.k33n26.workers.dev/play/817959285c682bf3e522b
 https://vavoo.k33n26.workers.dev/play/1096791444308425496108
 #EXTINF:-1 tvg-id="4085283006575fbfb6b120" tvg-name="KANAL AVRUPA .s" tvg-logo="https://i.imgur.com/bIGk6RN.png" group-title="Ulusal",KANAL AVRUPA .s
 https://vavoo.k33n26.workers.dev/play/4085283006575fbfb6b120
-#EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-name="KANAL D .c" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Ulusal",KANAL D .c
-https://vavoo.k33n26.workers.dev/play/38723286086ff52dd7cac
 #EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-name="KANAL D .s" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Ulusal",KANAL D .s
 https://vavoo.k33n26.workers.dev/play/231583905a5fd80471ac8
 #EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-name="KANAL D FHD .b" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Ulusal",KANAL D FHD .b
@@ -1185,6 +1257,10 @@ https://vavoo.k33n26.workers.dev/play/127011060769330a43e05e
 https://vavoo.k33n26.workers.dev/play/1198414561ad7fab54a200
 #EXTINF:-1 tvg-id="23796466374e2ee05f0779" tvg-name="KAY TV .c" tvg-logo="https://i.imgur.com/MymuDJ1.png" group-title="Yerel",KAY TV .c
 https://vavoo.k33n26.workers.dev/play/23796466374e2ee05f0779
+#EXTINF:-1 tvg-id="1680483887afbf5bdf5ab" tvg-name="KAYSERI KAY TV .b" tvg-logo="" group-title="Yerel",KAYSERI KAY TV .b
+https://vavoo.k33n26.workers.dev/play/1680483887afbf5bdf5ab
+#EXTINF:-1 tvg-id="161664882db20229c6558" tvg-name="KAYSERI KENT TV .b" tvg-logo="" group-title="Yerel",KAYSERI KENT TV .b
+https://vavoo.k33n26.workers.dev/play/161664882db20229c6558
 #EXTINF:-1 tvg-id="82920494637269fca29fd" tvg-name="KAYSERI LIFE TV .b" tvg-logo="" group-title="Yaşam",KAYSERI LIFE TV .b
 https://vavoo.k33n26.workers.dev/play/82920494637269fca29fd
 #EXTINF:-1 tvg-id="2071472807593f1d194a5a" tvg-name="KAYSERI OLAY T RK TV .b" tvg-logo="" group-title="Ulusal",KAYSERI OLAY T RK TV .b
@@ -1195,20 +1271,26 @@ https://vavoo.k33n26.workers.dev/play/7506985355cc13fb952d5
 https://vavoo.k33n26.workers.dev/play/7046897870b9485f78db8
 #EXTINF:-1 tvg-id="3962582829ee477739be5f" tvg-name="KENT TÜRK .c" tvg-logo="https://i.imgur.com/FQKPjsm.png" group-title="Yerel",KENT TÜRK .c
 https://vavoo.k33n26.workers.dev/play/3962582829ee477739be5f
+#EXTINF:-1 tvg-id="3702528985a3c17ff125d1" tvg-name="KOCAELI TV .c" tvg-logo="https://i.imgur.com/LeTP4zq.png" group-title="Yerel",KOCAELI TV .c
+https://vavoo.k33n26.workers.dev/play/3702528985a3c17ff125d1
 #EXTINF:-1 tvg-id="KonTV.tr@SD" tvg-name="KON TV .c" tvg-logo="https://i.imgur.com/ex67TP8.png" group-title="Yerel",KON TV .c
 https://vavoo.k33n26.workers.dev/play/862610701d8d72799d50e
 #EXTINF:-1 tvg-id="KonTV.tr@SD" tvg-name="KON TV .s" tvg-logo="https://i.imgur.com/ex67TP8.png" group-title="Yerel",KON TV .s
 https://vavoo.k33n26.workers.dev/play/158799585456f0116e352b
 #EXTINF:-1 tvg-id="37593642738038d993fa1e" tvg-name="KONYA KON TV .b" tvg-logo="" group-title="Yerel",KONYA KON TV .b
 https://vavoo.k33n26.workers.dev/play/37593642738038d993fa1e
+#EXTINF:-1 tvg-id="5783808618f2bafca5dba" tvg-name="KONYA OLAY TV .c" tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg" group-title="Yerel",KONYA OLAY TV .c
+https://vavoo.k33n26.workers.dev/play/5783808618f2bafca5dba
 #EXTINF:-1 tvg-id="685300988b10d8590b08d" tvg-name="KOY TV .s" tvg-logo="https://i.imgur.com/RcjEHAG.png" group-title="Yerel",KOY TV .s
 https://vavoo.k33n26.workers.dev/play/685300988b10d8590b08d
 #EXTINF:-1 tvg-id="1047804470f83375a3863a" tvg-name="KOZA TV .c" tvg-logo="https://i.imgur.com/jeFTUGp.png" group-title="Yerel",KOZA TV .c
 https://vavoo.k33n26.workers.dev/play/1047804470f83375a3863a
 #EXTINF:-1 tvg-id="358503385607b86bf71c43" tvg-name="KRAL FM .b" tvg-logo="" group-title="Radyo",KRAL FM .b
 https://vavoo.k33n26.workers.dev/play/358503385607b86bf71c43
-#EXTINF:-1 tvg-id="416983899397e266de7f51" tvg-name="KRAL POP .s" tvg-logo="" group-title="Müzik",KRAL POP .s
-https://vavoo.k33n26.workers.dev/play/416983899397e266de7f51
+#EXTINF:-1 tvg-id="222080778325a1bcf07f54" tvg-name="KRAL FM ARABESK .b" tvg-logo="" group-title="Radyo",KRAL FM ARABESK .b
+https://vavoo.k33n26.workers.dev/play/222080778325a1bcf07f54
+#EXTINF:-1 tvg-id="401243274930b2f0a2040b" tvg-name="KRAL POP HD+ .b" tvg-logo="" group-title="Müzik",KRAL POP HD+ .b
+https://vavoo.k33n26.workers.dev/play/401243274930b2f0a2040b
 #EXTINF:-1 tvg-id="3295096268eab2a5c02580" tvg-name="KRAL POP RADYO T RK E POP .b" tvg-logo="" group-title="Radyo",KRAL POP RADYO T RK E POP .b
 https://vavoo.k33n26.workers.dev/play/3295096268eab2a5c02580
 #EXTINF:-1 tvg-id="157887264276aef2d064b9" tvg-name="KRAL SAKIR .s" tvg-logo="" group-title="Çocuk",KRAL SAKIR .s
@@ -1265,6 +1347,10 @@ https://vavoo.k33n26.workers.dev/play/3572490349f5368e3d7944
 https://vavoo.k33n26.workers.dev/play/1865892469c6a30088a293
 #EXTINF:-1 tvg-id="375599442073736b876622" tvg-name="M TÜRK TV .c" tvg-logo="https://logo.huhu.to/logo?c=3755994420.png" group-title="Film",M TÜRK TV .c
 https://vavoo.k33n26.workers.dev/play/375599442073736b876622
+#EXTINF:-1 tvg-id="23872380735387e7ce8a3f" tvg-name="MAHSUN KIRMIZIGUL .b" tvg-logo="" group-title="Müzik",MAHSUN KIRMIZIGUL .b
+https://vavoo.k33n26.workers.dev/play/23872380735387e7ce8a3f
+#EXTINF:-1 tvg-id="40628667609eeef2c85a17" tvg-name="MALATYA ERTV .b" tvg-logo="" group-title="Yerel",MALATYA ERTV .b
+https://vavoo.k33n26.workers.dev/play/40628667609eeef2c85a17
 #EXTINF:-1 tvg-id="1986235183c48888a68609" tvg-name="MAM EBU HANIFE .b" tvg-logo="" group-title="Dini",MAM EBU HANIFE .b
 https://vavoo.k33n26.workers.dev/play/1986235183c48888a68609
 #EXTINF:-1 tvg-id="408975653674b39bcbabbf" tvg-name="MASAL .s" tvg-logo="" group-title="Çocuk",MASAL .s
@@ -1331,12 +1417,8 @@ https://vavoo.k33n26.workers.dev/play/3177271965513a983a3778
 https://vavoo.k33n26.workers.dev/play/1480015488d6661e191760
 #EXTINF:-1 tvg-id="1751593588ad9f10b37811" tvg-name="MESAJ TV .b" tvg-logo="" group-title="Dini",MESAJ TV .b
 https://vavoo.k33n26.workers.dev/play/1751593588ad9f10b37811
-#EXTINF:-1 tvg-id="2073766557830de7c84b42" tvg-name="MGC .b" tvg-logo="" group-title="Diğer",MGC .b
-https://vavoo.k33n26.workers.dev/play/2073766557830de7c84b42
 #EXTINF:-1 tvg-id="2591544773260cb2042fa3" tvg-name="MGC TV .b" tvg-logo="" group-title="Diğer",MGC TV .b
 https://vavoo.k33n26.workers.dev/play/2591544773260cb2042fa3
-#EXTINF:-1 tvg-id="2862980701594d8f54db77" tvg-name="MONTAG & FREITAG BULLI .b" tvg-logo="" group-title="Çocuk",MONTAG & FREITAG BULLI .b
-https://vavoo.k33n26.workers.dev/play/2862980701594d8f54db77
 #EXTINF:-1 tvg-id="123746094865495ec9eb64" tvg-name="MOVIE SMART ACTION .s" tvg-logo="" group-title="Film",MOVIE SMART ACTION .s
 https://vavoo.k33n26.workers.dev/play/123746094865495ec9eb64
 #EXTINF:-1 tvg-id="3597292408836ecd197e13" tvg-name="MOVIE SMART CLASSIC .s" tvg-logo="" group-title="Film",MOVIE SMART CLASSIC .s
@@ -1467,8 +1549,6 @@ https://vavoo.k33n26.workers.dev/play/133847174052c905356751
 https://vavoo.k33n26.workers.dev/play/420347514452cefbd5e034
 #EXTINF:-1 tvg-id="760981668a4f92b6e73db" tvg-name="ORDU BUYUKSEHIR BELEDIYESI (OBB) .c" tvg-logo="https://logo.huhu.to/logo?c=760981668.png" group-title="Yerel",ORDU BUYUKSEHIR BELEDIYESI (OBB) .c
 https://vavoo.k33n26.workers.dev/play/760981668a4f92b6e73db
-#EXTINF:-1 tvg-id="17362928703b87a6c8217" tvg-name="OUTDOOR .b" tvg-logo="" group-title="Belgesel",OUTDOOR .b
-https://vavoo.k33n26.workers.dev/play/17362928703b87a6c8217
 #EXTINF:-1 tvg-id="42015485361f438f2db763" tvg-name="PAL STATION YABANCI M ZIK .b" tvg-logo="" group-title="Radyo",PAL STATION YABANCI M ZIK .b
 https://vavoo.k33n26.workers.dev/play/42015485361f438f2db763
 #EXTINF:-1 tvg-id="16478865713b5e4dfa0797" tvg-name="PAMUKKALE .s" tvg-logo="" group-title="Yerel",PAMUKKALE .s
@@ -1481,6 +1561,8 @@ https://vavoo.k33n26.workers.dev/play/293997207381a95b1f9966
 https://vavoo.k33n26.workers.dev/play/2502633157e4cecb0b9c9c
 #EXTINF:-1 tvg-id="11691035975409e65ccbdf" tvg-name="POKEMON HD .b" tvg-logo="" group-title="Çocuk",POKEMON HD .b
 https://vavoo.k33n26.workers.dev/play/11691035975409e65ccbdf
+#EXTINF:-1 tvg-id="198132618c765e006ed00" tvg-name="POWER .s" tvg-logo="" group-title="Müzik",POWER .s
+https://vavoo.k33n26.workers.dev/play/198132618c765e006ed00
 #EXTINF:-1 tvg-id="4234416466b6878ac343d7" tvg-name="POWER DANCE .c" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Müzik",POWER DANCE .c
 https://vavoo.k33n26.workers.dev/play/4234416466b6878ac343d7
 #EXTINF:-1 tvg-id="1299417291527618a1ccab" tvg-name="POWER FM YABANCI M ZIK .b" tvg-logo="" group-title="Radyo",POWER FM YABANCI M ZIK .b
@@ -1541,8 +1623,12 @@ https://vavoo.k33n26.workers.dev/play/10250618615799907394b
 https://vavoo.k33n26.workers.dev/play/3728165823dca073d0a662
 #EXTINF:-1 tvg-id="349052544410354f05ef9" tvg-name="PISI TV .b" tvg-logo="" group-title="Çocuk",PISI TV .b
 https://vavoo.k33n26.workers.dev/play/349052544410354f05ef9
+#EXTINF:-1 tvg-id="536559220e5347db638cf" tvg-name="RADIO ROCK .b" tvg-logo="" group-title="Radyo",RADIO ROCK .b
+https://vavoo.k33n26.workers.dev/play/536559220e5347db638cf
 #EXTINF:-1 tvg-id="2087444701eef4beb29a64" tvg-name="REAL BOX ACTION .c" tvg-logo="" group-title="Film",REAL BOX ACTION .c
 https://vavoo.k33n26.workers.dev/play/2087444701eef4beb29a64
+#EXTINF:-1 tvg-id="1149613711d37f7382b6da" tvg-name="REDBOX ARABESK TV .b" tvg-logo="" group-title="Müzik",REDBOX ARABESK TV .b
+https://vavoo.k33n26.workers.dev/play/1149613711d37f7382b6da
 #EXTINF:-1 tvg-id="2387657693a0888f6e12b2" tvg-name="REDBOX TURKCE POP .b" tvg-logo="" group-title="Müzik",REDBOX TURKCE POP .b
 https://vavoo.k33n26.workers.dev/play/2387657693a0888f6e12b2
 #EXTINF:-1 tvg-id="3839151666edd74f1c6236" tvg-name="REDBULL TV .b" tvg-logo="https://logo.huhu.to/logo?c=3839151666.png" group-title="Belgesel",REDBULL TV .b
@@ -1559,6 +1645,8 @@ https://vavoo.k33n26.workers.dev/play/34152992586965d75e9ba0
 https://vavoo.k33n26.workers.dev/play/399798825472229f330730
 #EXTINF:-1 tvg-id="391881588210ea08f92125" tvg-name="RUMELI TV .s" tvg-logo="https://i.imgur.com/xpRPX3a.png" group-title="Diğer",RUMELI TV .s
 https://vavoo.k33n26.workers.dev/play/391881588210ea08f92125
+#EXTINF:-1 tvg-id="460410710474124d4550a" tvg-name="S PER FM T RK E POP .b" tvg-logo="" group-title="Radyo",S PER FM T RK E POP .b
+https://vavoo.k33n26.workers.dev/play/460410710474124d4550a
 #EXTINF:-1 tvg-id="SSport.tr@SD" tvg-name="S SPORT .c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="Spor",S SPORT .c
 https://vavoo.k33n26.workers.dev/play/33465497225b9857743b71
 #EXTINF:-1 tvg-id="SSport.tr@SD" tvg-name="S SPORT .s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="Spor",S SPORT .s
@@ -1623,6 +1711,8 @@ https://vavoo.k33n26.workers.dev/play/25915983146f2f8e1e61c9
 https://vavoo.k33n26.workers.dev/play/1456645748ff34de7d4e2d
 #EXTINF:-1 tvg-id="36300148716d4630336614" tvg-name="SALON 16 HD .b" tvg-logo="" group-title="Film",SALON 16 HD .b
 https://vavoo.k33n26.workers.dev/play/36300148716d4630336614
+#EXTINF:-1 tvg-id="351772937233d26096292" tvg-name="SALON 17 HD .b" tvg-logo="" group-title="Film",SALON 17 HD .b
+https://vavoo.k33n26.workers.dev/play/351772937233d26096292
 #EXTINF:-1 tvg-id="3453465509feff2ce320bf" tvg-name="SALON 18 HD .b" tvg-logo="" group-title="Film",SALON 18 HD .b
 https://vavoo.k33n26.workers.dev/play/3453465509feff2ce320bf
 #EXTINF:-1 tvg-id="25015099ab9477fb2b92" tvg-name="SALON 19 HD .b" tvg-logo="" group-title="Film",SALON 19 HD .b
@@ -1641,12 +1731,16 @@ https://vavoo.k33n26.workers.dev/play/178779066e5e927c8ea2a
 https://vavoo.k33n26.workers.dev/play/915717266d3f2ea348618
 #EXTINF:-1 tvg-id="6486691c18ad2d668c4" tvg-name="SALON 4 HD .b" tvg-logo="" group-title="Film",SALON 4 HD .b
 https://vavoo.k33n26.workers.dev/play/6486691c18ad2d668c4
+#EXTINF:-1 tvg-id="3435723325ab403e9b76d6" tvg-name="SALON 5 HD .b" tvg-logo="" group-title="Film",SALON 5 HD .b
+https://vavoo.k33n26.workers.dev/play/3435723325ab403e9b76d6
 #EXTINF:-1 tvg-id="1112014302812e8b249160" tvg-name="SALON 6 HD .b" tvg-logo="" group-title="Film",SALON 6 HD .b
 https://vavoo.k33n26.workers.dev/play/1112014302812e8b249160
 #EXTINF:-1 tvg-id="2397961536f15ee4d58fca" tvg-name="SALON 7 HD .b" tvg-logo="" group-title="Film",SALON 7 HD .b
 https://vavoo.k33n26.workers.dev/play/2397961536f15ee4d58fca
 #EXTINF:-1 tvg-id="1473114092ad08fe38c131" tvg-name="SALON 8 HD .b" tvg-logo="" group-title="Film",SALON 8 HD .b
 https://vavoo.k33n26.workers.dev/play/1473114092ad08fe38c131
+#EXTINF:-1 tvg-id="26072799868f66d346f7b8" tvg-name="SALON 9 HD .b" tvg-logo="" group-title="Film",SALON 9 HD .b
+https://vavoo.k33n26.workers.dev/play/26072799868f66d346f7b8
 #EXTINF:-1 tvg-id="3962972352ea44b8b75128" tvg-name="SARAN SPORT 1 .s" tvg-logo="" group-title="Spor",SARAN SPORT 1 .s
 https://vavoo.k33n26.workers.dev/play/3962972352ea44b8b75128
 #EXTINF:-1 tvg-id="237609064654251acc3bd9" tvg-name="SAT 7 TURK .b" tvg-logo="" group-title="Dini",SAT 7 TURK .b
@@ -1679,6 +1773,8 @@ https://vavoo.k33n26.workers.dev/play/3537232978db7b25368a4b
 https://vavoo.k33n26.workers.dev/play/1495761327668bcd5072dc
 #EXTINF:-1 tvg-id="21962786526c864f9c84d4" tvg-name="SHOW MAX .s" tvg-logo="https://i.imgur.com/456FWA7.png" group-title="Film",SHOW MAX .s
 https://vavoo.k33n26.workers.dev/play/21962786526c864f9c84d4
+#EXTINF:-1 tvg-id="35098991442bd9c175ff50" tvg-name="SHOW RADYO .b" tvg-logo="" group-title="Radyo",SHOW RADYO .b
+https://vavoo.k33n26.workers.dev/play/35098991442bd9c175ff50
 #EXTINF:-1 tvg-id="12523068353d88301d1bd5" tvg-name="SHOW RADYO T RK E POP .b" tvg-logo="" group-title="Radyo",SHOW RADYO T RK E POP .b
 https://vavoo.k33n26.workers.dev/play/12523068353d88301d1bd5
 #EXTINF:-1 tvg-id="6059298215f8d058d8877" tvg-name="SHOW T RK EUROPA .b" tvg-logo="https://logo.huhu.to/logo?c=605929821.png" group-title="Ulusal",SHOW T RK EUROPA .b
@@ -1697,6 +1793,8 @@ https://vavoo.k33n26.workers.dev/play/144949986573359afbfeae
 https://vavoo.k33n26.workers.dev/play/351471337029c80ca4c64
 #EXTINF:-1 tvg-id="ShowTV.tr@SD" tvg-name="SHOW TV HEVC .b" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Ulusal",SHOW TV HEVC .b
 https://vavoo.k33n26.workers.dev/play/37476469073149a4f729bc
+#EXTINF:-1 tvg-id="ShowTV.tr@SD" tvg-name="SHOW TV RAW .b" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Ulusal",SHOW TV RAW .b
+https://vavoo.k33n26.workers.dev/play/33174058547853caa0e516
 #EXTINF:-1 tvg-id="1197572527f8384c637ae4" tvg-name="SHOWMAX .b" tvg-logo="https://logo.huhu.to/logo?c=1197572527.png" group-title="Film",SHOWMAX .b
 https://vavoo.k33n26.workers.dev/play/1197572527f8384c637ae4
 #EXTINF:-1 tvg-id="3491525845a8862ff934e0" tvg-name="SL NILOYA .c" tvg-logo="https://logo.huhu.to/logo?c=3491525845.png" group-title="Çocuk",SL NILOYA .c
@@ -1787,12 +1885,16 @@ https://vavoo.k33n26.workers.dev/play/24848056995333a11423de
 https://vavoo.k33n26.workers.dev/play/846127862b288e0183d23
 #EXTINF:-1 tvg-id="2789249461c1ad5d07b17a" tvg-name="SINEMAX DRAMA .s" tvg-logo="" group-title="Film",SINEMAX DRAMA .s
 https://vavoo.k33n26.workers.dev/play/2789249461c1ad5d07b17a
+#EXTINF:-1 tvg-id="14694844750eea4e90973f" tvg-name="SINEMAX FAMILY .s" tvg-logo="" group-title="Film",SINEMAX FAMILY .s
+https://vavoo.k33n26.workers.dev/play/14694844750eea4e90973f
 #EXTINF:-1 tvg-id="4201568953301b0088849e" tvg-name="SINEMAX TURK .s" tvg-logo="" group-title="Film",SINEMAX TURK .s
 https://vavoo.k33n26.workers.dev/play/4201568953301b0088849e
-#EXTINF:-1 tvg-id="3562169936e24369ffef8d" tvg-name="SINEVIZYON 1 .s" tvg-logo="" group-title="Film",SINEVIZYON 1 .s
-https://vavoo.k33n26.workers.dev/play/3562169936e24369ffef8d
 #EXTINF:-1 tvg-id="567459984fcc0c3381a21" tvg-name="SINEVIZYON 5 .s" tvg-logo="" group-title="Film",SINEVIZYON 5 .s
 https://vavoo.k33n26.workers.dev/play/567459984fcc0c3381a21
+#EXTINF:-1 tvg-id="237327525e72f36a04e37" tvg-name="SINEVIZYON TURK 1 .s" tvg-logo="" group-title="Film",SINEVIZYON TURK 1 .s
+https://vavoo.k33n26.workers.dev/play/237327525e72f36a04e37
+#EXTINF:-1 tvg-id="1233464949183c7280e3a4" tvg-name="SINEVIZYON TURK 2 .s" tvg-logo="" group-title="Film",SINEVIZYON TURK 2 .s
+https://vavoo.k33n26.workers.dev/play/1233464949183c7280e3a4
 #EXTINF:-1 tvg-id="4221956709ff9a263200e0" tvg-name="SINEVIZYON TURK 5 .s" tvg-logo="" group-title="Film",SINEVIZYON TURK 5 .s
 https://vavoo.k33n26.workers.dev/play/4221956709ff9a263200e0
 #EXTINF:-1 tvg-id="315447928559cf5bc5d2cd" tvg-name="SINEVIZYON TURK 6 .s" tvg-logo="" group-title="Film",SINEVIZYON TURK 6 .s
@@ -1807,8 +1909,10 @@ https://vavoo.k33n26.workers.dev/play/38334830340b3e0ebfcab
 https://vavoo.k33n26.workers.dev/play/17662417455982b1730d90
 #EXTINF:-1 tvg-id="9857690718548a212a15f" tvg-name="SIVAS .b" tvg-logo="" group-title="Yerel",SIVAS .b
 https://vavoo.k33n26.workers.dev/play/9857690718548a212a15f
-#EXTINF:-1 tvg-id="363376564553c0e5fb6262" tvg-name="T.A.Y TV .b" tvg-logo="https://logo.huhu.to/logo?c=3633765645.png" group-title="Yerel",T.A.Y TV .b
-https://vavoo.k33n26.workers.dev/play/363376564553c0e5fb6262
+#EXTINF:-1 tvg-id="716793106eede08a41963" tvg-name="SIVAS VIZYON 58 TV .b" tvg-logo="" group-title="Film",SIVAS VIZYON 58 TV .b
+https://vavoo.k33n26.workers.dev/play/716793106eede08a41963
+#EXTINF:-1 tvg-id="27868531047ce3c7e0c624" tvg-name="T RK E POP .b" tvg-logo="" group-title="Müzik",T RK E POP .b
+https://vavoo.k33n26.workers.dev/play/27868531047ce3c7e0c624
 #EXTINF:-1 tvg-id="1844863271513a413a321" tvg-name="TABII SPOR .c" tvg-logo="" group-title="Spor",TABII SPOR .c
 https://vavoo.k33n26.workers.dev/play/1844863271513a413a321
 #EXTINF:-1 tvg-id="10977951419d3dfac60f92" tvg-name="TABII SPOR 1 .c" tvg-logo="" group-title="Spor",TABII SPOR 1 .c
@@ -1827,6 +1931,8 @@ https://vavoo.k33n26.workers.dev/play/24901653728e4a187da4c4
 https://vavoo.k33n26.workers.dev/play/10013463414fd5f0938a50
 #EXTINF:-1 tvg-id="1489430754b4fd6e6dc327" tvg-name="TABII SPOR 3 HD .b" tvg-logo="https://logo.huhu.to/logo?c=1489430754.png" group-title="Spor",TABII SPOR 3 HD .b
 https://vavoo.k33n26.workers.dev/play/1489430754b4fd6e6dc327
+#EXTINF:-1 tvg-id="2546857708611b47e42ecf" tvg-name="TABII SPOR 3 UHD .b" tvg-logo="https://logo.huhu.to/logo?c=2546857708.png" group-title="Spor",TABII SPOR 3 UHD .b
+https://vavoo.k33n26.workers.dev/play/2546857708611b47e42ecf
 #EXTINF:-1 tvg-id="2307885365b7f1828e97ba" tvg-name="TABII SPOR 4 .c" tvg-logo="" group-title="Spor",TABII SPOR 4 .c
 https://vavoo.k33n26.workers.dev/play/2307885365b7f1828e97ba
 #EXTINF:-1 tvg-id="13759861713a771b4b4726" tvg-name="TABII SPOR 4 HD .b" tvg-logo="https://logo.huhu.to/logo?c=1375986171.png" group-title="Spor",TABII SPOR 4 HD .b
@@ -1835,6 +1941,8 @@ https://vavoo.k33n26.workers.dev/play/13759861713a771b4b4726
 https://vavoo.k33n26.workers.dev/play/3035603077ef0df0e5da67
 #EXTINF:-1 tvg-id="26619334135baa08b0bc1a" tvg-name="TABII SPOR 5 HD .b" tvg-logo="https://logo.huhu.to/logo?c=2661933413.png" group-title="Spor",TABII SPOR 5 HD .b
 https://vavoo.k33n26.workers.dev/play/26619334135baa08b0bc1a
+#EXTINF:-1 tvg-id="383933219867eefb660622" tvg-name="TABII SPOR 5 UHD .b" tvg-logo="https://logo.huhu.to/logo?c=3839332198.png" group-title="Spor",TABII SPOR 5 UHD .b
+https://vavoo.k33n26.workers.dev/play/383933219867eefb660622
 #EXTINF:-1 tvg-id="40820967253b1d74e19a7f" tvg-name="TABII SPOR 6 .c" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="Spor",TABII SPOR 6 .c
 https://vavoo.k33n26.workers.dev/play/40820967253b1d74e19a7f
 #EXTINF:-1 tvg-id="270984838ca5cfbf75daa" tvg-name="TABII SPOR 6 HD .b" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="Spor",TABII SPOR 6 HD .b
@@ -1915,8 +2023,6 @@ https://vavoo.k33n26.workers.dev/play/3465087001358304a0f232
 https://vavoo.k33n26.workers.dev/play/410018565922373c7100a2
 #EXTINF:-1 tvg-id="385559741691e8e41971e8" tvg-name="TON TV .c" tvg-logo="https://i.imgur.com/f0Soeob.png" group-title="Yerel",TON TV .c
 https://vavoo.k33n26.workers.dev/play/385559741691e8e41971e8
-#EXTINF:-1 tvg-id="1840643644b180a4d619d6" tvg-name="TRABZON HABER 61 TV HD .b" tvg-logo="" group-title="Haber",TRABZON HABER 61 TV HD .b
-https://vavoo.k33n26.workers.dev/play/1840643644b180a4d619d6
 #EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-name="TRT 1 .c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Ulusal",TRT 1 .c
 https://vavoo.k33n26.workers.dev/play/2041026135d10f9c36ff66
 #EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-name="TRT 1 .s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Ulusal",TRT 1 .s
@@ -1973,6 +2079,8 @@ https://vavoo.k33n26.workers.dev/play/3681071746569ac21b544f
 https://vavoo.k33n26.workers.dev/play/17020398633aafc0a6bc
 #EXTINF:-1 tvg-id="228765803362ec29207df8" tvg-name="TRT EBA ILKOKUL .s" tvg-logo="https://i.imgur.com/CRBfZi4.png" group-title="Ulusal",TRT EBA ILKOKUL .s
 https://vavoo.k33n26.workers.dev/play/228765803362ec29207df8
+#EXTINF:-1 tvg-id="16568633748bbdabdeb1d2" tvg-name="TRT GENÇ .c" tvg-logo="https://i.imgur.com/fCHQYWS.png" group-title="Ulusal",TRT GENÇ .c
+https://vavoo.k33n26.workers.dev/play/16568633748bbdabdeb1d2
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD" tvg-name="TRT HABER .c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Haber",TRT HABER .c
 https://vavoo.k33n26.workers.dev/play/2003703357957a75b3c760
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD" tvg-name="TRT HABER .s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Haber",TRT HABER .s
@@ -2047,6 +2155,8 @@ https://vavoo.k33n26.workers.dev/play/37694889827bcff8d6501a
 https://vavoo.k33n26.workers.dev/play/16852994727259ba10c029
 #EXTINF:-1 tvg-id="TV100.tr@SD" tvg-name="TV 100 .s" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" group-title="Ulusal",TV 100 .s
 https://vavoo.k33n26.workers.dev/play/1635207231a61cd1da15b
+#EXTINF:-1 tvg-id="TV100.tr@SD" tvg-name="TV 100 HD .b" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" group-title="Ulusal",TV 100 HD .b
+https://vavoo.k33n26.workers.dev/play/504009173395fc5e39b0f
 #EXTINF:-1 tvg-id="TV100.tr@SD" tvg-name="TV 100 HEVC .b" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" group-title="Ulusal",TV 100 HEVC .b
 https://vavoo.k33n26.workers.dev/play/3271096410d07fb733747f
 #EXTINF:-1 tvg-id="1984101968aa2ae3bca725" tvg-name="TV 264 .c" tvg-logo="https://i.imgur.com/tudXdOZ.png" group-title="Yerel",TV 264 .c
@@ -2065,8 +2175,6 @@ https://vavoo.k33n26.workers.dev/play/9760498644cca0d67323e
 https://vavoo.k33n26.workers.dev/play/12213538441d78d3ba3c7
 #EXTINF:-1 tvg-id="TV5.tr@SD" tvg-name="TV 5 .s" tvg-logo="https://i.imgur.com/ENvv42b.png" group-title="Dini",TV 5 .s
 https://vavoo.k33n26.workers.dev/play/205519968384925ef64834
-#EXTINF:-1 tvg-id="108017205852b77c50bdce" tvg-name="TV 52 .b" tvg-logo="https://i.imgur.com/k4R5CzO.png" group-title="Yerel",TV 52 .b
-https://vavoo.k33n26.workers.dev/play/108017205852b77c50bdce
 #EXTINF:-1 tvg-id="405074878169aaa15f6633" tvg-name="TV 52 .c" tvg-logo="https://i.imgur.com/k4R5CzO.png" group-title="Yerel",TV 52 .c
 https://vavoo.k33n26.workers.dev/play/405074878169aaa15f6633
 #EXTINF:-1 tvg-id="2602281851ee63662b2b6f" tvg-name="TV 52 ORDU .s" tvg-logo="" group-title="Yerel",TV 52 ORDU .s
@@ -2129,12 +2237,14 @@ https://vavoo.k33n26.workers.dev/play/2012038243cd78e54611e8
 https://vavoo.k33n26.workers.dev/play/7741680162cf446ba65c6
 #EXTINF:-1 tvg-id="25659723389efdd2098be1" tvg-name="TIVIBU SPOR 1 .c" tvg-logo="https://logo.huhu.to/logo?c=2565972338.png" group-title="Spor",TIVIBU SPOR 1 .c
 https://vavoo.k33n26.workers.dev/play/25659723389efdd2098be1
-#EXTINF:-1 tvg-id="1528949791210996169a6f" tvg-name="TIVIBU SPOR 1 .s" tvg-logo="" group-title="Spor",TIVIBU SPOR 1 .s
-https://vavoo.k33n26.workers.dev/play/1528949791210996169a6f
 #EXTINF:-1 tvg-id="2046583925cdbd476d8733" tvg-name="TIVIBU SPOR 1 HD .s" tvg-logo="" group-title="Spor",TIVIBU SPOR 1 HD .s
 https://vavoo.k33n26.workers.dev/play/2046583925cdbd476d8733
 #EXTINF:-1 tvg-id="37466838109fc1c67c228d" tvg-name="TIVIBU SPOR 2 .c" tvg-logo="https://i.imgur.com/fZMSjNE.png" group-title="Spor",TIVIBU SPOR 2 .c
 https://vavoo.k33n26.workers.dev/play/37466838109fc1c67c228d
+#EXTINF:-1 tvg-id="4782547993a1194125c51" tvg-name="TIVIBU SPOR 2 .s" tvg-logo="https://i.imgur.com/fZMSjNE.png" group-title="Spor",TIVIBU SPOR 2 .s
+https://vavoo.k33n26.workers.dev/play/4782547993a1194125c51
+#EXTINF:-1 tvg-id="415153448631eabe6978ed" tvg-name="TIVIBU SPOR 2 HD .s" tvg-logo="https://i.imgur.com/fZMSjNE.png" group-title="Spor",TIVIBU SPOR 2 HD .s
+https://vavoo.k33n26.workers.dev/play/415153448631eabe6978ed
 #EXTINF:-1 tvg-id="37949240505288959ad99c" tvg-name="TIVIBU SPOR 3 .c" tvg-logo="https://i.imgur.com/xLrgt2O.png" group-title="Spor",TIVIBU SPOR 3 .c
 https://vavoo.k33n26.workers.dev/play/37949240505288959ad99c
 #EXTINF:-1 tvg-id="568442751987b14d1ad00" tvg-name="TIVIBU SPOR 3 .s" tvg-logo="https://i.imgur.com/xLrgt2O.png" group-title="Spor",TIVIBU SPOR 3 .s
@@ -2203,8 +2313,6 @@ https://vavoo.k33n26.workers.dev/play/2730047464284a34ade8a0
 https://vavoo.k33n26.workers.dev/play/94903312294e3da09f3b7
 #EXTINF:-1 tvg-id="106175275801eef0c50dd7" tvg-name="VUSLAT TV .s" tvg-logo="https://i.imgur.com/5AiUlIJ.png" group-title="Dini",VUSLAT TV .s
 https://vavoo.k33n26.workers.dev/play/106175275801eef0c50dd7
-#EXTINF:-1 tvg-id="ViasatExplore.tr@SD" tvg-name="VIASAT EXPLORE .b" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Belgesel",VIASAT EXPLORE .b
-https://vavoo.k33n26.workers.dev/play/118325844000b303729ade
 #EXTINF:-1 tvg-id="ViasatExplore.tr@SD" tvg-name="VIASAT EXPLORE .c" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Belgesel",VIASAT EXPLORE .c
 https://vavoo.k33n26.workers.dev/play/10982410761d6faced1faa
 #EXTINF:-1 tvg-id="ViasatExplore.tr@SD" tvg-name="VIASAT EXPLORE .s" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Belgesel",VIASAT EXPLORE .s
@@ -2223,6 +2331,8 @@ https://vavoo.k33n26.workers.dev/play/344040122633a0c3af886a
 https://vavoo.k33n26.workers.dev/play/344251480556f9e5db0f41
 #EXTINF:-1 tvg-id="32753266152c4857a77a87" tvg-name="VIZYON 58 .b" tvg-logo="" group-title="Film",VIZYON 58 .b
 https://vavoo.k33n26.workers.dev/play/32753266152c4857a77a87
+#EXTINF:-1 tvg-id="1283602496384076ba9dda" tvg-name="VIZYON 58 .s" tvg-logo="" group-title="Film",VIZYON 58 .s
+https://vavoo.k33n26.workers.dev/play/1283602496384076ba9dda
 #EXTINF:-1 tvg-id="2278118654dd2b5fc7cf6c" tvg-name="VIZYON 58 TV SIVAS .s" tvg-logo="" group-title="Film",VIZYON 58 TV SIVAS .s
 https://vavoo.k33n26.workers.dev/play/2278118654dd2b5fc7cf6c
 #EXTINF:-1 tvg-id="3259520726e713e4000bfa" tvg-name="WM TV WOMAN KADIN .b" tvg-logo="" group-title="Yaşam",WM TV WOMAN KADIN .b
@@ -2251,6 +2361,8 @@ https://vavoo.k33n26.workers.dev/play/36035801315c2c657f7f29
 https://vavoo.k33n26.workers.dev/play/1377055653aae1eccd061c
 #EXTINF:-1 tvg-id="10711660543c82502a97f7" tvg-name="YOL TV .s" tvg-logo="" group-title="Dini",YOL TV .s
 https://vavoo.k33n26.workers.dev/play/10711660543c82502a97f7
+#EXTINF:-1 tvg-id="607077155292bdb1bc79a" tvg-name="YOL TV SD .b" tvg-logo="" group-title="Dini",YOL TV SD .b
+https://vavoo.k33n26.workers.dev/play/607077155292bdb1bc79a
 #EXTINF:-1 tvg-id="32452978184d58e060917f" tvg-name="YUNUS EMRE .b" tvg-logo="" group-title="Dini",YUNUS EMRE .b
 https://vavoo.k33n26.workers.dev/play/32452978184d58e060917f
 #EXTINF:-1 tvg-id="4050722013efecdc85c9b" tvg-name="YILDIZ TILBE .b" tvg-logo="" group-title="Müzik",YILDIZ TILBE .b
@@ -2267,6 +2379,8 @@ https://vavoo.k33n26.workers.dev/play/1884291733f97af60f283a
 https://vavoo.k33n26.workers.dev/play/3053206623331d57002285
 #EXTINF:-1 tvg-id="30359255549449efd1c487" tvg-name="IBRAHIM ERKAL .b" tvg-logo="" group-title="Müzik",IBRAHIM ERKAL .b
 https://vavoo.k33n26.workers.dev/play/30359255549449efd1c487
+#EXTINF:-1 tvg-id="2135559174caad0ed8bffc" tvg-name="IBRAHIM TATLISES .b" tvg-logo="" group-title="Müzik",IBRAHIM TATLISES .b
+https://vavoo.k33n26.workers.dev/play/2135559174caad0ed8bffc
 #EXTINF:-1 tvg-id="248885940021ca59895ab2" tvg-name="ICEL TV .c" tvg-logo="https://i.imgur.com/CGwImKv.png" group-title="Yerel",ICEL TV .c
 https://vavoo.k33n26.workers.dev/play/248885940021ca59895ab2
 #EXTINF:-1 tvg-id="1993949957f54a257064ea" tvg-name="IDMAN TV .s" tvg-logo="" group-title="Spor",IDMAN TV .s
@@ -2277,3 +2391,7 @@ https://vavoo.k33n26.workers.dev/play/2368422760ba45ce579307
 https://vavoo.k33n26.workers.dev/play/174351018825b7f2625f46
 #EXTINF:-1 tvg-id="1372455233dfff5072538c" tvg-name="INVESTIGATION DISCOVERY .c" tvg-logo="https://logo.huhu.to/logo?c=1372455233.png" group-title="Belgesel",INVESTIGATION DISCOVERY .c
 https://vavoo.k33n26.workers.dev/play/1372455233dfff5072538c
+#EXTINF:-1 tvg-id="16767374902e45f8713ca0" tvg-name="ISVI RE VIZYON TV .b" tvg-logo="" group-title="Film",ISVI RE VIZYON TV .b
+https://vavoo.k33n26.workers.dev/play/16767374902e45f8713ca0
+#EXTINF:-1 tvg-id="666189323a5c95459735b" tvg-name="IZMIR TV 35 .b" tvg-logo="" group-title="Yerel",IZMIR TV 35 .b
+https://vavoo.k33n26.workers.dev/play/666189323a5c95459735b
